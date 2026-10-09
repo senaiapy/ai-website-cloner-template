@@ -1,0 +1,6 @@
+{
+  "url": "https://api-apostila.denderson.ai/api/me",
+  "json": {
+    "error": "unauthorized"
+  }
+}

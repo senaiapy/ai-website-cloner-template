@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Area de membros da Apostila · aulas pra colocar sua agente de IA no ar.">
+<title>Apostila · Area de membros</title>
+<!-- Preview social (WhatsApp / Direct / redes) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Núcleo Avalanche de Inteligência Artificial">
+<meta property="og:title" content="Núcleo Avalanche de Inteligência Artificial">
+<meta property="og:description" content="Estudos Avançados em I.A. Agêntica. Coloque a sua Naia no ar.">
+<meta property="og:url" content="https://apostila.denderson.ai/">
+<meta property="og:image" content="https://apostila.denderson.ai/sales/perfil-naia.jpg?v=1">
+<meta property="og:image:width" content="360">
+<meta property="og:image:height" content="360">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Núcleo Avalanche de Inteligência Artificial">
+<meta name="twitter:description" content="Estudos Avançados em I.A. Agêntica.">
+<meta name="twitter:image" content="https://apostila.denderson.ai/sales/perfil-naia.jpg?v=1">
+<script>(function(){try{var t=localStorage.getItem("naia_theme");if(t==="dark")document.documentElement.setAttribute("data-theme","dark");}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css?v=m202608281247">
+<link rel="stylesheet" href="/mapa-mental.css?v=m20260924mapa3">
+<link rel="stylesheet" href="/motion.css?v=m202609281200">
+<link rel="stylesheet" href="/naia-pet.css?v=m202609281400">
+<link rel="stylesheet" href="/imersao.css?v=m202609282010">
+</head>
+<body class="member-body">
+<div class="glowtop"></div>
+
+<!-- carregando ate confirmar sessao -->
+<div id="loader" class="page-loader"><div class="spinner" aria-label="Carregando"></div></div>
+
+<div id="app" class="app" hidden>
+
+  <!-- topbar mobile -->
+  <div class="topbar">
+    <button class="hamburger" id="menuBtn" aria-label="Abrir menu" aria-expanded="false">
+      <span></span>
+    </button>
+    <a class="wordmark wordmark-nucleo" href="/"><span class="wm-main">Núcleo <em>Avalanche</em></span><span class="wm-sub">Estudos avançados em IA Agêntica</span></a>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+
+  <!-- sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-top">
+      <span class="kicker">Denderson.ai</span>
+      <a class="wordmark wordmark-nucleo" href="/"><span class="wm-main">Núcleo <em>Avalanche</em></span><span class="wm-sub">Estudos avançados em IA Agêntica</span></a>
+    </div>
+    <nav class="nav" id="nav" aria-label="Aulas"></nav>
+    <div class="sidebar-foot">
+      <div class="user-row">
+        <div class="avatar" id="avatar">N</div>
+        <div class="user-meta">
+          <div class="founder-badge" id="founderBadge" hidden><span class="founder-star" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.6 9.7l5.8-.8z"/></svg></span> Membro Fundador</div>
+          <div class="name" id="userName"></div>
+          <div class="email" id="userEmail"></div>
+        </div>
+      </div>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Alternar tema">
+        <span class="theme-toggle-ic" id="themeToggleIc" aria-hidden="true"></span>
+        <span class="theme-toggle-label" id="themeToggleLabel">Tema escuro</span>
+      </button>
+      <div class="foot-actions">
+        <a class="btn-ghost" id="adminLink" href="/admin.html" hidden>Painel admin</a>
+        <button class="btn-ghost" id="logoutBtn" type="button">Sair</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- conteudo -->
+  <main class="content">
+    <div class="content-inner" id="content"></div>
+  </main>
+
+</div>
+
+<script src="/app.js?v=m202609281800"></script>
+<script src="/imersao-hermes.js?v=m202609282000"></script>
+<script src="/mapa-mental.js?v=m20260924mapa3"></script>
+<script src="/naia-pet.js?v=m202609281400"></script>
+<script src="/motion.js?v=m202609281200"></script>
+</body>
+</html>

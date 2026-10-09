@@ -1,0 +1,319 @@
+/* ==========================================================================
+   Secao "Gravação Imersão" (Instalador Hermes, Dia 1, Dia 2).
+   Componentes copiados da pagina da imersao (recepcao-base, standalone-wizard, plano-b),
+   que usa os mesmos tokens de papel desta apostila. Tudo escopado em .imersao-root.
+   Zero degrade de cor, zero emoji.
+   ========================================================================== */
+.imersao-root{--lavender:#9a70b2;--denim:#35668c}
+.imersao-root>*+*{margin-top:26px}
+
+/* a .material da apostila estiliza li/h2/a genericos: aqui os componentes tem desenho proprio */
+.material .imersao-root li{border-bottom:0;max-width:none;padding:0}
+.material .imersao-root li:before{content:none}
+.material .imersao-root ul,.material .imersao-root ol{margin-top:0}
+.material .imersao-root h2,.material .imersao-root h3{margin-top:0}
+.material .imersao-root p{max-width:none}
+.material .imersao-root a.dl-btn,.material .imersao-root a.hw-btn,.material .imersao-root a.pb-f-btn{text-decoration:none}
+
+/* ---------- step cards ---------- */
+.imersao-root .step{position:relative;background:var(--paper-light);border:2px solid rgba(87,61,33,.35);border-radius:14px;box-shadow:var(--shadow-card);padding:28px 26px}
+.imersao-root .step-head{display:flex;align-items:center;gap:14px;margin-bottom:14px;flex-wrap:wrap}
+.imersao-root .step-num{flex:0 0 auto;width:46px;height:46px;display:grid;place-items:center;border-radius:12px;font-size:22px;font-weight:800;color:var(--white-ink);box-shadow:var(--shadow-small);transform:rotate(-4deg)}
+.imersao-root .n-coral{background:var(--coral)}
+.imersao-root .n-teal{background:var(--teal)}
+.imersao-root .n-mustard{background:var(--mustard)}
+.imersao-root .step-head h2{font-size:clamp(20px,3.4vw,26px);font-weight:800;color:var(--navy);line-height:1.15}
+.imersao-root .step p{color:var(--ink-2);font-size:16px;margin:10px 0}
+.imersao-root .step strong{color:var(--ink)}
+.imersao-root .release-pill{display:inline-flex;align-items:center;gap:8px;background:var(--navy);color:var(--mustard-soft);font-weight:700;font-size:14px;padding:7px 16px;border-radius:999px;box-shadow:var(--shadow-small)}
+.imersao-root .note{margin-top:14px;background:#fbf3dc;border-left:6px solid var(--mustard);border-radius:8px;padding:12px 16px;color:var(--ink-2);font-size:15px}
+
+/* ---------- lista de downloads ---------- */
+.imersao-root .dl-list{display:flex;flex-direction:column;gap:14px;margin-top:18px}
+.imersao-root .dl-item{display:flex;align-items:center;gap:16px;background:var(--paper-cream);border:2px solid rgba(87,61,33,.3);border-radius:12px;padding:14px 18px;box-shadow:var(--shadow-small)}
+.imersao-root .dl-badge{flex:0 0 auto;min-width:40px;height:40px;padding:0 8px;display:grid;place-items:center;border-radius:10px;font-weight:800;font-size:17px;color:var(--white-ink);transform:rotate(-3deg)}
+.imersao-root .dl-info{flex:1 1 auto}
+.imersao-root .dl-info .t{font-weight:700;color:var(--navy);font-size:16.5px}
+.imersao-root .dl-info .d{color:var(--ink-3);font-size:14px;margin-top:2px}
+.material .imersao-root a.dl-btn,.imersao-root .dl-btn{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;font-weight:700;font-size:14.5px;background:var(--teal);color:var(--white-ink);border:2px solid rgba(87,61,33,.4);border-radius:10px;padding:10px 18px;box-shadow:var(--shadow-small);white-space:nowrap}
+.imersao-root .dl-btn:active{transform:translate(1px,1px);box-shadow:none}
+@media (min-width:1024px){
+  .imersao-root .step-wide .dl-list{display:grid;grid-template-columns:repeat(3,1fr);align-items:stretch}
+  .imersao-root .step-wide .dl-item{flex-direction:column;align-items:flex-start;gap:12px}
+  .imersao-root .step-wide .dl-btn{align-self:stretch;text-align:center;justify-content:center}
+}
+@media (max-width:560px){
+  .imersao-root .step{padding:22px 18px}
+  .imersao-root .dl-item{flex-wrap:wrap}
+  .imersao-root .dl-btn{width:100%;text-align:center;justify-content:center}
+}
+
+/* ---------- selo do cadastro do instalador ---------- */
+.imersao-root .ci-kicker{display:inline-block;background:var(--coral);color:var(--white-ink);font-weight:800;font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;padding:6px 16px;border-radius:999px;box-shadow:var(--shadow-small);transform:rotate(-1.5deg);margin-bottom:14px}
+
+/* ---------- Plano B (rodape do instalador) ---------- */
+.imersao-root .pb-footer{width:100%;padding:32px 28px;background:var(--paper-light);border:3px solid var(--linha);border-radius:14px;box-shadow:var(--shadow-card);text-align:center}
+.imersao-root .pb-f-title{color:var(--navy);font-size:clamp(26px,4vw,36px);font-weight:800}
+.imersao-root .pb-f-lead{color:var(--ink-2);font-size:clamp(16px,2.2vw,20px);font-weight:600;margin:10px auto 0;max-width:760px}
+.imersao-root .pb-f-steps{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:22px 0 24px;text-align:left}
+.material .imersao-root .pb-f-steps li{display:flex;align-items:center;gap:12px;background:var(--paper-cream);border:1.5px solid var(--linha);border-radius:10px;padding:12px 14px;color:var(--ink-2);font-size:16px;font-weight:600}
+.imersao-root .pb-f-n{flex:none;width:34px;height:34px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;background:var(--teal-dark);color:var(--white-ink);font-weight:800;font-size:17px}
+.material .imersao-root a.pb-f-btn,.imersao-root .pb-f-btn{display:inline-flex;align-items:center;gap:12px;background:var(--teal-dark);color:var(--white-ink);font-family:var(--font);font-weight:800;font-size:clamp(18px,2.6vw,22px);border:2px solid var(--navy);border-radius:12px;padding:16px 32px;box-shadow:var(--shadow-small)}
+.imersao-root .pb-f-btn:hover{transform:translate(-1px,-2px)}
+.imersao-root .pb-f-btn svg{width:26px;height:26px;flex:none}
+@media (max-width:1023px){
+  .imersao-root .pb-footer{padding:24px 16px}
+  .imersao-root .pb-f-steps{grid-template-columns:1fr;gap:10px}
+  .material .imersao-root a.pb-f-btn,.imersao-root .pb-f-btn{width:100%;justify-content:center;padding:14px 16px}
+}
+.imersao-root .hw-alert .hw-planob-link{display:inline-block;margin-top:8px;color:var(--navy);font-weight:800;text-decoration:underline}
+
+/* ---------- wizard do instalador Hermes (standalone-wizard.v20260906.css, verbatim) ---------- */
+.hw-root { position: relative; }
+.hw-root h2.hw-title {
+  font-size: clamp(20px, 3.4vw, 26px);
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1.15;
+  margin-bottom: 6px;
+}
+.hw-root p.hw-lead { color: var(--ink-2); font-size: 16px; margin: 10px 0 4px; }
+.hw-screen { display: none; }
+.hw-screen.hw-on { display: block; }
+
+/* ---- formulario ---- */
+.hw-fields { margin-top: 18px; display: grid; gap: 16px; }
+.hw-field { display: block; }
+.hw-field > span.hw-lb {
+  display: block;
+  font-weight: 800;
+  font-size: 15px;
+  color: var(--navy);
+  margin-bottom: 6px;
+  letter-spacing: 0.01em;
+}
+.hw-input {
+  width: 100%;
+  font-family: var(--font);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--ink);
+  background: var(--paper-cream);
+  border: 2px solid rgba(87, 61, 33, 0.4);
+  border-radius: 12px;
+  padding: 13px 15px;
+  box-shadow: var(--shadow-small);
+  outline: none;
+  transition: border-color 0.12s ease, box-shadow 0.12s ease;
+}
+.hw-input::placeholder { color: var(--ink-3); font-weight: 400; }
+.hw-input:focus {
+  border-color: var(--teal);
+  box-shadow: 4px 5px 0 rgba(7, 136, 126, 0.22);
+}
+.hw-input:disabled { opacity: 0.6; }
+.hw-pass { position: relative; display: block; }
+.hw-pass .hw-input { padding-right: 54px; }
+.hw-eye {
+  position: absolute;
+  top: 50%; right: 10px;
+  transform: translateY(-50%);
+  width: 36px; height: 36px;
+  display: grid; place-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: 9px;
+  color: var(--ink-2);
+  cursor: pointer;
+  padding: 0;
+}
+.hw-eye:hover { color: var(--teal); background: rgba(7, 136, 126, 0.1); }
+.hw-eye svg { width: 20px; height: 20px; display: block; }
+.hw-note-privacy {
+  margin-top: 16px;
+  background: #def1ec;
+  border-left: 6px solid var(--teal);
+  border-radius: 8px;
+  padding: 12px 16px;
+  color: var(--ink-2);
+  font-size: 15px;
+}
+.hw-alert {
+  margin-top: 14px;
+  background: #fceae5;
+  border-left: 6px solid var(--coral);
+  border-radius: 8px;
+  padding: 12px 16px;
+  color: var(--ink-2);
+  font-size: 15px;
+  display: none;
+}
+.hw-alert.hw-on { display: block; }
+.hw-cta { margin-top: 20px; }
+.hw-cta .hw-btn { width: 100%; justify-content: center; }
+.hw-btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  font-family: var(--font);
+  font-weight: 700; font-size: 17px;
+  text-decoration: none;
+  border: 2px solid rgba(87, 61, 33, 0.4);
+  border-radius: 12px;
+  padding: 14px 26px;
+  cursor: pointer;
+  box-shadow: var(--shadow-small);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.hw-btn:hover { transform: translate(-1px, -2px); box-shadow: 6px 8px 0 rgba(78, 48, 23, 0.22); }
+.hw-btn:active { transform: translate(2px, 2px); box-shadow: 1px 2px 0 rgba(78, 48, 23, 0.22); }
+.hw-btn-coral { background: var(--coral); color: var(--white-ink); }
+.hw-btn-teal { background: var(--teal); color: var(--white-ink); }
+.hw-btn-paper { background: var(--paper-cream); color: var(--navy); }
+.hw-btn[disabled] { opacity: 0.65; cursor: default; transform: none; }
+.hw-btn svg { width: 20px; height: 20px; flex: 0 0 auto; }
+
+/* ---- lista de etapas ---- */
+.hw-steps { list-style: none; margin: 20px 0 0; padding: 0; display: grid; gap: 2px; }
+.hw-steps li {
+  display: flex; align-items: center; gap: 14px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  font-size: 16px;
+  color: var(--ink-3);
+  font-weight: 600;
+}
+.hw-steps li[data-state="running"] {
+  background: var(--paper-cream);
+  border-color: rgba(87, 61, 33, 0.3);
+  color: var(--navy);
+  font-weight: 800;
+}
+.hw-steps li[data-state="done"] { color: var(--ink-2); }
+.hw-steps li[data-state="error"] {
+  background: #fceae5;
+  border-color: rgba(233, 88, 79, 0.45);
+  color: var(--coral-2);
+  font-weight: 800;
+}
+.hw-mark {
+  flex: 0 0 auto;
+  width: 26px; height: 26px;
+  display: grid; place-items: center;
+  color: currentColor;
+}
+.hw-mark svg { width: 22px; height: 22px; display: block; }
+.hw-circle {
+  width: 16px; height: 16px;
+  border-radius: 50%;
+  border: 2px solid rgba(87, 61, 33, 0.4);
+  background: var(--paper-light);
+}
+.hw-spin {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  border: 3px solid rgba(87, 61, 33, 0.25);
+  border-top-color: var(--teal);
+  animation: hw-rot 0.8s linear infinite;
+}
+@keyframes hw-rot { to { transform: rotate(360deg); } }
+.hw-check { color: var(--teal); }
+.hw-x { color: var(--coral); }
+
+/* ---- oauth ---- */
+.hw-oauth {
+  margin-top: 22px;
+  background: var(--paper-cream);
+  border: 2px solid rgba(87, 61, 33, 0.4);
+  border-radius: 12px;
+  box-shadow: var(--shadow-small);
+  padding: 20px 20px 18px;
+  display: none;
+}
+.hw-oauth.hw-on { display: block; }
+.hw-oauth-tag {
+  display: inline-block;
+  background: var(--navy); color: var(--white-ink);
+  font-weight: 800; font-size: 12px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  padding: 5px 14px; border-radius: 999px;
+  box-shadow: var(--shadow-small);
+  margin-bottom: 12px;
+}
+.hw-oauth p.hw-oauth-step {
+  color: var(--ink);
+  font-size: 16px;
+  font-weight: 700;
+  margin: 14px 0 10px;
+}
+.hw-code-row {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  background: var(--paper-light);
+  border: 2px dashed rgba(112, 69, 34, 0.55);
+  border-radius: 12px;
+  padding: 12px 16px;
+}
+.hw-code {
+  font-family: "SFMono-Regular", Menlo, Consolas, monospace;
+  font-weight: 800;
+  font-size: clamp(22px, 5vw, 30px);
+  letter-spacing: 0.16em;
+  color: var(--kraft-dark);
+  word-break: break-all;
+}
+.hw-copy {
+  font-family: var(--font); font-weight: 700; font-size: 14px;
+  background: var(--mustard); color: var(--navy);
+  border: 2px solid rgba(87, 61, 33, 0.4);
+  border-radius: 9px;
+  padding: 8px 16px; cursor: pointer;
+  box-shadow: var(--shadow-small);
+}
+.hw-copy:active { transform: translate(1px, 1px); box-shadow: none; }
+.hw-waiting {
+  display: flex; align-items: center; gap: 12px;
+  margin-top: 16px;
+  color: var(--ink-2);
+  font-size: 15px;
+  font-weight: 600;
+}
+.hw-hide { display: none !important; }
+
+/* ---- sucesso ---- */
+.hw-done-tag {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--teal); color: var(--white-ink);
+  font-weight: 800; font-size: 13px;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 6px 16px; border-radius: 999px;
+  box-shadow: var(--shadow-small);
+  margin-bottom: 12px;
+}
+.hw-done-tag svg { width: 16px; height: 16px; }
+
+@media (max-width: 560px) {
+  .hw-steps li { font-size: 15px; padding: 10px 10px; gap: 10px; }
+  .hw-oauth { padding: 16px 15px; }
+}
+
+/* botoes-link do wizard dentro da .material: cor do proprio botao, nao a do link generico */
+.material .imersao-root a.hw-btn-teal{color:var(--white-ink)}
+.material .imersao-root .hw-steps li{display:flex;padding:12px 14px;border:2px solid transparent;border-radius:10px}
+.material .imersao-root .hw-steps li[data-state="running"]{border-color:rgba(87,61,33,.3)}
+.material .imersao-root .hw-steps li[data-state="error"]{border-color:rgba(233,88,79,.45)}
+@media (max-width:560px){.material .imersao-root .hw-steps li{padding:10px 10px}}
+
+/* menu "Servidor do Agente": botao, cupom e garantia copiados da pagina da imersao (recepcao-base) */
+.imersao-root .btn-row{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px}
+.imersao-root .btn{display:inline-flex;align-items:center;gap:10px;font-family:var(--font);font-weight:700;font-size:17px;text-decoration:none;border:2px solid rgba(87,61,33,.4);border-radius:12px;padding:14px 26px;cursor:pointer;box-shadow:var(--shadow-small);transition:transform .12s ease,box-shadow .12s ease}
+.imersao-root .btn:hover{transform:translate(-1px,-2px);box-shadow:6px 8px 0 rgba(78,48,23,.22)}
+.imersao-root .btn:active{transform:translate(2px,2px);box-shadow:1px 2px 0 rgba(78,48,23,.22)}
+.imersao-root .btn-coral{background:var(--coral);color:var(--white-ink)}
+.imersao-root .coupon{display:inline-flex;align-items:center;gap:12px;margin-top:16px;background:var(--paper-cream);border:2px dashed rgba(112,69,34,.55);border-radius:12px;padding:12px 18px;flex-wrap:wrap;justify-content:center}
+.imersao-root .coupon .code{font-family:"SFMono-Regular",Menlo,Consolas,monospace;font-weight:800;font-size:22px;letter-spacing:.12em;color:var(--kraft-dark)}
+.imersao-root .copy-btn{font-family:var(--font);font-weight:700;font-size:14px;background:var(--mustard);color:var(--navy);border:2px solid rgba(87,61,33,.4);border-radius:9px;padding:8px 16px;cursor:pointer;box-shadow:var(--shadow-small)}
+.imersao-root .copy-btn:active{transform:translate(1px,1px);box-shadow:none}
+.imersao-root .note.guarantee{border-left-color:var(--teal);color:var(--teal-dark);font-size:16px}
+.imersao-root .step .gv-video{margin-bottom:14px}
+.imersao-root .step ul{list-style:disc;padding-left:22px;margin:10px 0}
+.imersao-root .step ul li{display:list-item;margin:6px 0}
+.imersao-root a.btn.btn-coral,.imersao-root a.btn.btn-coral:hover,.imersao-root a.btn.btn-coral:visited{color:var(--white-ink);text-decoration:none}

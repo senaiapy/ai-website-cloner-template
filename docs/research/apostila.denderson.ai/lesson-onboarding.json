@@ -1,0 +1,13 @@
+{
+  "id": "onboarding",
+  "cover": "/covers/onboarding.webp?v=2",
+  "n": 7,
+  "section": "Sua Naia",
+  "title": "Onboarding da Naia",
+  "subtitle": "Os primeiros minutos com a sua agente",
+  "video": {
+    "type": "html",
+    "html": "<video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline style=\"width:100%;height:100%;display:block;background:#15140f\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6a8d8c83d0d6a7f1adfd852b.mp4\"></video>"
+  },
+  "material": "\n      <p>Quando a ferramenta avisar que esta tudo no ar, abra o Telegram e mande um <b>\"oi\"</b> pra sua Naia. Ela desperta, se apresenta e ja faz o onboarding com voce: 15 perguntas rapidas pra ela virar a Naia da sua empresa, e a opcao de conectar o Davi (seu SDR) ao seu CRM agora ou depois.</p>\n    "
+}

@@ -1,0 +1,1028 @@
+{
+ "versao": 1,
+ "id": "estudos-aula-3",
+ "titulo": "Aula 3",
+ "duracao": 16523,
+ "total_nos": 221,
+ "gerado_em": "2026-10-02T04:54:19-03:00",
+ "modelo": "claude-sonnet-5",
+ "raiz": {
+  "texto": "Aula 3",
+  "filhos": [
+   {
+    "texto": "Abertura da aula e apresentação do Orca",
+    "t": 0,
+    "filhos": [
+     {
+      "texto": "Orca é a plataforma usada na aula, mas há três caminhos possíveis",
+      "t": 19,
+      "filhos": [
+       {
+        "texto": "Orca é gratuita, open source, instalada no computador para abrir terminais dos agentes",
+        "t": 26
+       },
+       {
+        "texto": "Caminho 1: quem já usa IA para programar e já usa terminal segue o passo a passo normal",
+        "t": 66
+       },
+       {
+        "texto": "Caminho 2: quem nunca usou terminal mas gosta de desafio também pode seguir o Orca",
+        "t": 88
+       },
+       {
+        "texto": "Caminho 3: quem não tem familiaridade com tecnologia ignora a parte do Orca",
+        "t": 115
+       }
+      ]
+     },
+     {
+      "texto": "Sem Orca, usar Claude para desktop ou ChatGPT para desktop dá o mesmo resultado",
+      "t": 123,
+      "filhos": [
+       {
+        "texto": "Criar um projeto numa pasta local e colar o pacote de criação do CRM",
+        "t": 214
+       },
+       {
+        "texto": "No ChatGPT para desktop, o código é feito no Codex, não no chat",
+        "t": 238
+       },
+       {
+        "texto": "No Claude desktop o trabalho é feito na aba Código, não na aba Chat",
+        "t": 280
+       }
+      ]
+     },
+     {
+      "texto": "A aula constrói um CRM próprio, com kanban e integrações",
+      "t": 380,
+      "filhos": [
+       {
+        "texto": "Nesta aula cria-se o CRM; na próxima, personalização e integrações com WhatsApp e Instagram",
+        "t": 404
+       },
+       {
+        "texto": "O CRM vai conectar agentes como Hermes, OpenClaw e as Naias",
+        "t": 408
+       },
+       {
+        "texto": "É possível mover os cards de lugar dentro do CRM, funcionando bem",
+        "t": 416
+       }
+      ]
+     },
+     {
+      "texto": "Um aluno relatou que a Naia montou sozinha um CRM dentro do sistema da agência",
+      "t": 1036,
+      "filhos": [
+       {
+        "texto": "A Naia leu as propostas feitas e identificou quais clientes estavam fechando",
+        "t": 1048
+       },
+       {
+        "texto": "Ela entregou uma visão kanban mostrando em que fase cada cliente estava",
+        "t": 1117
+       }
+      ]
+     },
+     {
+      "texto": "Início oficial da aula, com envio do link no chat",
+      "t": 1123,
+      "filhos": [
+       {
+        "texto": "Link da apresentação enviado no chat para acompanhar os slides em paralelo",
+        "t": 1174
+       },
+       {
+        "texto": "Encontro 1 tratou da instalação da Naia e encontro 2 mostrou ela trabalhando",
+        "t": 1258
+       },
+       {
+        "texto": "São cinco encontros ao vivo no total; quem entrou depois também recebe os gravados",
+        "t": 1327
+       },
+       {
+        "texto": "A partir de hoje o foco deixa de ser a Naia e passa a ser construção de agentes e sistemas",
+        "t": 1352
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Panorama de modelos de IA e por que usar o Orca",
+    "t": 1376,
+    "filhos": [
+     {
+      "texto": "As empresas de tecnologia estão lançando seus próprios agentes de IA",
+      "t": 1388,
+      "filhos": [
+       {
+        "texto": "Ele aposta que o Muse, da Meta, vai trazer automação nativa do Instagram",
+        "t": 1429
+       },
+       {
+        "texto": "IDE é a plataforma usada para programar com IA, como VS Code e Cursor",
+        "t": 1529
+       },
+       {
+        "texto": "Fork é copiar um repositório aberto com licença MIT para sua conta do GitHub",
+        "t": 1545
+       }
+      ]
+     },
+     {
+      "texto": "Painel dos modelos de IA de fronteira: Estados Unidos e China",
+      "t": 1593,
+      "filhos": [
+       {
+        "texto": "Nos EUA estão Anthropic (Fable, Opus), OpenAI (Astra, Sol) e o Grok",
+        "t": 1613
+       },
+       {
+        "texto": "Muse, da Meta, sai a 10 centavos de dólar por milhão de tokens se ela puder treinar com seu projeto",
+        "t": 1657
+       },
+       {
+        "texto": "Na China estão Kimi, Qwen, DeepSeek e GLM, no nível do Opus 4.8",
+        "t": 1826
+       }
+      ]
+     },
+     {
+      "texto": "O grupo vai desenvolver um sistema novo por mês",
+      "t": 1888,
+      "filhos": [
+       {
+        "texto": "Ele propõe ideias fora da caixa: app para menopausa, crochê e estética",
+        "t": 1911
+       },
+       {
+        "texto": "O Orca permite vários projetos e vários agentes trabalhando juntos",
+        "t": 1976
+       },
+       {
+        "texto": "Uma chave do OpenRouter mantém o trabalho quando a sessão de 5h acaba",
+        "t": 2051
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Instalação e configuração do Orca",
+    "t": 2152,
+    "filhos": [
+     {
+      "texto": "HIC é o contribuidor de alto impacto, a profissão do futuro",
+      "t": 2288,
+      "filhos": [
+       {
+        "texto": "Definição: sozinho, orquestrando agentes, leva o projeto do zero ao início do resultado",
+        "t": 2304
+       },
+       {
+        "texto": "Exemplo: Denderson faturou 500 mil reais sozinho em um lançamento",
+        "t": 2346
+       },
+       {
+        "texto": "Pediu aos desenvolvedores da turma para não darem aula no chat",
+        "t": 2463
+       }
+      ]
+     },
+     {
+      "texto": "Instalar o Orca colando o pacote de configuração no Claude Code ou Codex",
+      "t": 2498,
+      "filhos": [
+       {
+        "texto": "O pacote identifica o sistema (Mac, Windows ou Linux) e pede aprovações",
+        "t": 2593
+       },
+       {
+        "texto": "No Orca dá para colocar projetos, chamar agentes e navegar pelos arquivos",
+        "t": 2655
+       },
+       {
+        "texto": "Orca Mobile: QR code espelha o Orca no celular para acompanhar e trabalhar",
+        "t": 2739
+       }
+      ]
+     },
+     {
+      "texto": "Projetos entram no Orca pelo menu lateral, cada pasta é um projeto",
+      "t": 2859,
+      "filhos": [
+       {
+        "texto": "Peça ao Claude para adicionar projetos enviando os links do repositório do GitHub",
+        "t": 2859
+       },
+       {
+        "texto": "Pelo sinal de mais dá para escolher projeto local, do GitHub ou de uma VPS conectada",
+        "t": 3014
+       },
+       {
+        "texto": "Nunca editar o que está em produção, só subir depois de testar a cópia local",
+        "t": 3103
+       }
+      ]
+     },
+     {
+      "texto": "O Claude puxou os projetos do Cursor para dentro do Orca e explica tudo",
+      "t": 3278,
+      "filhos": [
+       {
+        "texto": "Claude criou o pet da Naia no Orca, sem função, só para ficar bonitinho",
+        "t": 3227
+       },
+       {
+        "texto": "Se der erro, pergunte ao Claude, inclusive enviando um print",
+        "t": 3345
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Agentes trabalhando em conjunto e dúvidas sobre o fluxo",
+    "t": 3376,
+    "filhos": [
+     {
+      "texto": "Orca reúne vários agentes de IA trabalhando no mesmo projeto",
+      "t": 3376,
+      "filhos": [
+       {
+        "texto": "Sistema começa com Claude e na semana seguinte Astra faz a verificação",
+        "t": 3421
+       },
+       {
+        "texto": "Depois, já em produção, roda pentest com uma IA chinesa",
+        "t": 3421
+       },
+       {
+        "texto": "Chama Claude, Codex, Antigravity, Kimi, Cursor e OpenCode",
+        "t": 3590
+       }
+      ]
+     },
+     {
+      "texto": "Um agente identifica e corrige por que o outro não funciona",
+      "t": 3610,
+      "filhos": [
+       {
+        "texto": "O Codex assumiu o trabalho do Kimi quando ele estourou a sessão de 5h",
+        "t": 3691
+       },
+       {
+        "texto": "Isso funciona porque todos os agentes rodam no mesmo Mac",
+        "t": 3719
+       },
+       {
+        "texto": "Claude percebeu e corrigiu sozinho por que o OpenCode não abria",
+        "t": 3764
+       }
+      ]
+     },
+     {
+      "texto": "OpenCode com OpenRouter libera mais de 300 modelos",
+      "t": 3784,
+      "filhos": [
+       {
+        "texto": "Modelos vão dos mais básicos aos mais avançados",
+        "t": 3795
+       },
+       {
+        "texto": "O Muse Spark, da Meta, é grátis no OpenRouter e chega perto do Opus 4.7 e 4.8",
+        "t": 3817
+       }
+      ]
+     },
+     {
+      "texto": "Orca mostra navegador e terminais lado a lado, em tempo real",
+      "t": 3918,
+      "filhos": [
+       {
+        "texto": "Dá para arrastar a tela e ver até a versão mobile do site",
+        "t": 3902
+       },
+       {
+        "texto": "Dá para ter três projetos e seis agentes simultâneos",
+        "t": 4034
+       },
+       {
+        "texto": "Já teve 20 projetos com agentes trabalhando ao mesmo tempo",
+        "t": 4055
+       }
+      ]
+     },
+     {
+      "texto": "Antes de alterar um sistema, subagentes Sonnet 5 leem e relatam",
+      "t": 4078,
+      "filhos": [
+       {
+        "texto": "Sonnet 5 é ótimo para ler código; quem avalia é Opus 5.5 ou Fable",
+        "t": 4107
+       },
+       {
+        "texto": "Agentes aparecem no terminal e na lateral da tela, um por funcionalidade",
+        "t": 4170
+       },
+       {
+        "texto": "Relatório trata cada bug encontrado como hipótese, nada foi executado",
+        "t": 4381
+       }
+      ]
+     },
+     {
+      "texto": "Orca em duas máquinas: GitHub ou Tailscale sincronizam o trabalho",
+      "t": 4429,
+      "filhos": [
+       {
+        "texto": "Tailscale cria túnel entre as máquinas e espelha um Orca no outro",
+        "t": 4460
+       },
+       {
+        "texto": "Produção roda na VPS; código no GitHub; você edita a cópia local",
+        "t": 4553
+       },
+       {
+        "texto": "Commit guarda histórico para restaurar versão anterior se der problema",
+        "t": 4650
+       }
+      ]
+     },
+     {
+      "texto": "Harness é o sistema instalado que dá origem ao agente, como a Naia e o Claude Code",
+      "t": 4839,
+      "filhos": [
+       {
+        "texto": "Hoje não tem Naia: para desenvolver é terminal ou Orca",
+        "t": 5042
+       },
+       {
+        "texto": "Cada sistema construído pode virar um novo CNPJ",
+        "t": 5279
+       },
+       {
+        "texto": "O mínimo são duas assinaturas, Claude e Codex, mas dá para fazer tudo com uma",
+        "t": 5493
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Arquitetura do sistema ERP CRM e sua infraestrutura",
+    "t": 5553,
+    "filhos": [
+     {
+      "texto": "Vibe code é chato, por isso entender a arquitetura importa mais",
+      "t": 5613,
+      "filhos": [
+       {
+        "texto": "Hoje usa Claude, semana que vem Codex, depois pentest com Kimi",
+        "t": 5569
+       },
+       {
+        "texto": "Protótipo pode levar horas ou até um dia ou dois",
+        "t": 5693
+       }
+      ]
+     },
+     {
+      "texto": "Sistema é um ERP CRM modular, personalizável para cada operação",
+      "t": 5751,
+      "filhos": [
+       {
+        "texto": "Pode ser adaptado para clínica, loja ou rede de postos de gasolina",
+        "t": 5770
+       },
+       {
+        "texto": "Inclui conversas, disparo de WhatsApp, financeiro e gestão de equipe",
+        "t": 5784
+       },
+       {
+        "texto": "Quem for vender deve ter duas VPS espelhadas para não cair",
+        "t": 6022
+       }
+      ]
+     },
+     {
+      "texto": "Banco é Postgres com RLS e pgvector, e a fila usa Redis",
+      "t": 6079,
+      "filhos": [
+       {
+        "texto": "Quem vende sistema precisa de um parceiro de infraestrutura",
+        "t": 6061
+       },
+       {
+        "texto": "Exemplo: a Hostinger bloqueou o IP do instalador do agente Hermes",
+        "t": 6136
+       },
+       {
+        "texto": "A skill Loop Mestre orquestra toda a construção do sistema",
+        "t": 6180
+       }
+      ]
+     },
+     {
+      "texto": "Postgres guarda todo o histórico de dados do sistema",
+      "t": 6226,
+      "filhos": [
+       {
+        "texto": "Imagens e vídeos vão para o R2 da Cloudflare, não pesam a VPS",
+        "t": 6237
+       },
+       {
+        "texto": "Pgvector liga assuntos por similaridade, como o grafo do Obsidian",
+        "t": 6320
+       },
+       {
+        "texto": "Dá para criar MCPs para conectar com Revit, SketchUp e Lumion",
+        "t": 6558
+       }
+      ]
+     },
+     {
+      "texto": "O front end do sistema vai ao ar pela Vercel",
+      "t": 6620,
+      "filhos": [
+       {
+        "texto": "Sistema nasce com 14 módulos; um segundo kit com mais 14 opcionais vem depois",
+        "t": 6604
+       },
+       {
+        "texto": "Baixa o pacote 1 de criação do sistema e espera",
+        "t": 6789
+       },
+       {
+        "texto": "O próprio Claude conecta Claude Code, Codex e outras IAs no Orca",
+        "t": 6856
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Construção do protótipo e modelo de negócio",
+    "t": 6922,
+    "filhos": [
+     {
+      "texto": "Cria um novo projeto local no Orca e escolhe a pasta",
+      "t": 6963,
+      "filhos": [
+       {
+        "texto": "Renomeia o projeto para Projeto secreto Grupo de Estudos",
+        "t": 7014
+       },
+       {
+        "texto": "Pode usar Codex no lugar do Claude Code; ele prefere Claude para o protótipo",
+        "t": 7180
+       }
+      ]
+     },
+     {
+      "texto": "Arrasta o zip do pacote para o Claude Code e dá o primeiro prompt",
+      "t": 7261,
+      "filhos": [
+       {
+        "texto": "Claude descreve o pacote 1: constrói infraestrutura, núcleo e módulos padrão",
+        "t": 7304
+       },
+       {
+        "texto": "Decide trabalhar 100% local, sem nome nem domínio, por enquanto",
+        "t": 7339
+       },
+       {
+        "texto": "Pede para entregar o link de localhost assim que houver o mínimo de front",
+        "t": 7401
+       }
+      ]
+     },
+     {
+      "texto": "Na entrevista, escolhe o perfil genérico com os 14 módulos padrão ligados",
+      "t": 7570,
+      "filhos": [
+       {
+        "texto": "Liga quase todas as integrações, só não Pix e boleto; WhatsApp e Instagram pela Zernio",
+        "t": 7643
+       },
+       {
+        "texto": "Pede MCP para OpenClaw, Hermes e Naia Claude operarem o sistema",
+        "t": 7719
+       },
+       {
+        "texto": "Muda de ideia: sistema nasce multi-tenant, com painel admin e login da subconta inicial",
+        "t": 7744
+       }
+      ]
+     },
+     {
+      "texto": "Conta como preparou o pacote: pesquisou ERPs bem avaliados no GitHub",
+      "t": 7856,
+      "filhos": [
+       {
+        "texto": "Encontrou mais de 100 ERPs e ficou com os cinco mais bem avaliados",
+        "t": 7873
+       },
+       {
+        "texto": "Escolheu um ERP baseado nos menus e nas funcionalidades que ele tinha",
+        "t": 7889
+       },
+       {
+        "texto": "Pediu um estudo profundo do código e um pacote para recriar o sistema do zero",
+        "t": 7889
+       }
+      ]
+     },
+     {
+      "texto": "Para o protótipo basta uma VPS; para vender, recomenda pelo menos duas",
+      "t": 7927,
+      "filhos": [
+       {
+        "texto": "Uma aluna conta que vendeu um sistema e não esperava a explosão de vendas",
+        "t": 7985
+       },
+       {
+        "texto": "Ela reforça o conselho: não lance nada sem um desenvolvedor do lado",
+        "t": 7998
+       }
+      ]
+     },
+     {
+      "texto": "Pede o Workflow com subagentes Opus 5.5 trabalhando em paralelo",
+      "t": 8038,
+      "filhos": [
+       {
+        "texto": "Entrevista fechada: genérico, uma VPS, multi-tenant, 14 módulos e integrações/MCP escolhidos",
+        "t": 8013
+       },
+       {
+        "texto": "Claude explica que primeiro fecha o núcleo e os cadastros antes dos demais módulos",
+        "t": 8103
+       }
+      ]
+     },
+     {
+      "texto": "Recomenda assinatura 5x de Claude e ChatGPT, por volta de mil reais por mês",
+      "t": 8206,
+      "filhos": [
+       {
+        "texto": "Assinatura básica de cem reais não dá conta; melhor cenário é 5x de cada",
+        "t": 8181
+       },
+       {
+        "texto": "Com essa assinatura dá para rodar a Naia no Telegram e ainda desenvolver",
+        "t": 8222
+       },
+       {
+        "texto": "A gravação da aula fica na área de membros em apostila.denderson.ai",
+        "t": 8300
+       }
+      ]
+     },
+     {
+      "texto": "Uma KVM8 aguenta cerca de mil usuários, pois o sistema só recebe e responde requisições",
+      "t": 8369,
+      "filhos": [
+       {
+        "texto": "O sistema não é um agente rodando; só recebe requisição, consulta o banco e volta",
+        "t": 8363
+       },
+       {
+        "texto": "Acima de 50 usuários já recomenda ter uma segunda VPS de backup",
+        "t": 8380
+       }
+      ]
+     },
+     {
+      "texto": "Mostra o ERP de uma clínica de estética que construiu para um cliente",
+      "t": 8806,
+      "filhos": [
+       {
+        "texto": "Vender em produção sem essa responsabilidade ao lado é quase loucura",
+        "t": 8608
+       },
+       {
+        "texto": "Exemplo: cinco clínicas de estética por mês a 5 mil reais dão 25 mil",
+        "t": 8919
+       },
+       {
+        "texto": "O sistema vai integrar Instagram e WhatsApp pela Zernio",
+        "t": 9316
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Dúvidas sobre uso, manutenção e aplicações do sistema",
+    "t": 9503,
+    "filhos": [
+     {
+      "texto": "Claude é o melhor para prototipar, mas deixa buracos que o Codex tapa depois",
+      "t": 9539,
+      "filhos": [
+       {
+        "texto": "No final, faz o pentest com uma IA chinesa para achar vulnerabilidades",
+        "t": 9556
+       }
+      ]
+     },
+     {
+      "texto": "O ERP já nasce com a base para um sistema de cotas de investidores",
+      "t": 9647,
+      "filhos": [
+       {
+        "texto": "Cada menu se constrói conversando em linguagem natural com o Claude",
+        "t": 9706
+       },
+       {
+        "texto": "Teria pelo menos um desenvolvedor no time para infraestrutura e segurança do sistema",
+        "t": 9744
+       }
+      ]
+     },
+     {
+      "texto": "O ERP cuida de leads, pipelines e financeiro; a Naia cuida do marketing",
+      "t": 9809,
+      "filhos": [
+       {
+        "texto": "Não faz sentido ter menu de landing page no ERP, isso fica com a Naia",
+        "t": 9835
+       },
+       {
+        "texto": "Na mesma VPS, a Naia já entrega a landing page integrada ao sistema",
+        "t": 9835
+       },
+       {
+        "texto": "Por isso chama de ERP CRM: uma plataforma só para gestão e marketing",
+        "t": 9965
+       }
+      ]
+     },
+     {
+      "texto": "Para o sistema não cair, basta manter a VPS e a assinatura da LLM",
+      "t": 10519,
+      "filhos": [
+       {
+        "texto": "O dashboard que a Naia fez roda na mesma VPS dela",
+        "t": 10513
+       },
+       {
+        "texto": "É preciso perguntar à Naia quais APIs pagas o sistema usa",
+        "t": 10581
+       }
+      ]
+     },
+     {
+      "texto": "O contexto é o histórico pessoal acumulado no Claude Code de cada um",
+      "t": 10667,
+      "filhos": [
+       {
+        "texto": "O pacote já vem com banco, plugins e layout definidos",
+        "t": 10710
+       },
+       {
+        "texto": "Se o layout ficar diferente, basta mandar print das telas da apresentação ao Claude",
+        "t": 10736
+       }
+      ]
+     },
+     {
+      "texto": "Para advocacia oferecer agente; para corretora oferecer a plataforma",
+      "t": 10910,
+      "filhos": [
+       {
+        "texto": "Escritório de advocacia tem negociação mais tranquila, pouca demanda de CRM",
+        "t": 10926
+       },
+       {
+        "texto": "Para corretora faz sentido a plataforma de gestão de leads, clientes e corretores",
+        "t": 10992
+       },
+       {
+        "texto": "O primeiro desafio é ter o produto pronto para oferecer",
+        "t": 10992
+       }
+      ]
+     },
+     {
+      "texto": "A trava no disparo é da plataforma usada, não da Naia",
+      "t": 11254,
+      "filhos": [
+       {
+        "texto": "Pela Zernio, a Naia faz 100% do trabalho, sem travas",
+        "t": 11165
+       },
+       {
+        "texto": "No CRM próprio na mesma VPS, a Naia opera direto no código, sem trava",
+        "t": 11206
+       },
+       {
+        "texto": "A API não deixa mexer em automação, então ela só vai até o template",
+        "t": 11259
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Construção avança: cadastro e módulos em paralelo",
+    "t": 11514,
+    "filhos": [
+     {
+      "texto": "Status da construção: núcleo pronto, cadastro em construção",
+      "t": 11520,
+      "filhos": [
+       {
+        "texto": "O comando /focus esconde o raciocínio do Claude Code, deixando só o chat",
+        "t": 11535
+       },
+       {
+        "texto": "Ele pediu que o Claude Code desse status da produção a cada cinco minutos",
+        "t": 11559
+       },
+       {
+        "texto": "Se o Codex não conectou ao GitHub, pede a ele para conectar, com token em arquivo de texto se precisar",
+        "t": 11904
+       }
+      ]
+     },
+     {
+      "texto": "Revender disparo de mensagens da Meta exige o nível mais alto de aprovação como provedor",
+      "t": 12043,
+      "filhos": [
+       {
+        "texto": "Com a aprovação, aparece linha de crédito com o nome do app e a Meta cobra do revendedor",
+        "t": 12076
+       },
+       {
+        "texto": "Exemplo: o cliente paga 60 centavos por mensagem e a Meta cobra 32 centavos",
+        "t": 12148
+       },
+       {
+        "texto": "Para disparar mil mensagens o cliente recarrega 600, e o lucro do revendedor é 280",
+        "t": 12148
+       }
+      ]
+     },
+     {
+      "texto": "O cadastro entrou na reta final, sendo construído menu por menu",
+      "t": 12248,
+      "filhos": [
+       {
+        "texto": "Cada cliente ganha uma tabela no cadastro, e dali são alimentadas conversas, tags e pipeline",
+        "t": 12286
+       }
+      ]
+     },
+     {
+      "texto": "Para a IA dentro de um app de vendas, ele sugere Gemini com fallback e o JEV",
+      "t": 12449,
+      "filhos": [
+       {
+        "texto": "Ele recomendou o Gemini 3.1 em primeiro lugar, com fallback numa chave do OpenRouter",
+        "t": 12470
+       },
+       {
+        "texto": "O JEV deve ser treinado como classificador para apontar o melhor modelo a cada pergunta",
+        "t": 12525
+       }
+      ]
+     },
+     {
+      "texto": "Com o cadastro pronto, o Claude disparou oito subagentes em paralelo",
+      "t": 12645,
+      "filhos": [
+       {
+        "texto": "São oito subagentes construindo oito menus ao mesmo tempo",
+        "t": 12680
+       },
+       {
+        "texto": "Esse Workflow de vários agentes em paralelo nasceu dentro do Claude, no Opus 4.8",
+        "t": 12689
+       },
+       {
+        "texto": "Um participante compartilhou seu sistema, com layout fiel ao do Denderson",
+        "t": 12806
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Personalização, integração da Naia e modelo de venda",
+    "t": 12851,
+    "filhos": [
+     {
+      "texto": "Se a Naia recusar uma tarefa, dá para contornar pedindo ajuda ao Claude Code",
+      "t": 12911,
+      "filhos": [
+       {
+        "texto": "Peça ao Claude Code para revisar os arquivos .md da Naia e tirar a restrição",
+        "t": 12942
+       },
+       {
+        "texto": "Fazer uma cópia da Naia é só pedir ao Claude Code para copiá-la",
+        "t": 12995
+       }
+      ]
+     },
+     {
+      "texto": "Personalização é simples: tudo que muda só altera o que é gravado no banco",
+      "t": 13070,
+      "filhos": [
+       {
+        "texto": "Usar o ChatGPT para escrever prompt para outra plataforma é usar trator para carpir horta",
+        "t": 13163
+       },
+       {
+        "texto": "Plataformas prontas te prendem numa mensalidade porque ficam no servidor delas",
+        "t": 13245
+       }
+      ]
+     },
+     {
+      "texto": "Faça a pesquisa e o briefing com a Naia, mas o código vai no Orca ou terminal",
+      "t": 13407,
+      "filhos": [
+       {
+        "texto": "A Naia roda sobre Claude e Codex, mas é uma camada a mais sobre o agente de código",
+        "t": 13423
+       },
+       {
+        "texto": "A skill de tutoriais transforma um Reels e seu repositório num zip pronto para o Claude",
+        "t": 13555
+       }
+      ]
+     },
+     {
+      "texto": "Para advocacia, o ideal é dar uma Naia para cada advogado",
+      "t": 13663,
+      "filhos": [
+       {
+        "texto": "O dono teria uma Naia supervisora acima das Naias de todos os advogados",
+        "t": 13751
+       },
+       {
+        "texto": "Estrutura sugerida: VPS de 128 GB de RAM com uma Naia por advogado",
+        "t": 13801
+       },
+       {
+        "texto": "Essa estrutura para 12 advogados ele não venderia por menos de 150 mil",
+        "t": 13905
+       }
+      ]
+     },
+     {
+      "texto": "Melhor vender a Naia completa para o cliente do que só o serviço de SDR",
+      "t": 14106,
+      "filhos": [
+       {
+        "texto": "Com estrutura isolada por cliente, um problema não derruba os outros",
+        "t": 14140
+       },
+       {
+        "texto": "Dá para liberar subagentes da Naia para a equipe falar pelo ID do Telegram",
+        "t": 14328
+       },
+       {
+        "texto": "Um processo que já roda no Claude pode virar skill e ir para a Naia",
+        "t": 14428
+       }
+      ]
+     },
+     {
+      "texto": "O sistema nasce pronto para conexões via API, webhook e MCP",
+      "t": 14604,
+      "filhos": [
+       {
+        "texto": "O que já tem essas conexões o Claude liga; o resto precisa ser construído",
+        "t": 14612
+       },
+       {
+        "texto": "Sem API, só dá para importar exportando uma planilha e mandando para a Naia",
+        "t": 15872
+       }
+      ]
+     },
+     {
+      "texto": "O Orca orquestra modelos de IA diferentes dentro do mesmo projeto",
+      "t": 14780,
+      "filhos": [
+       {
+        "texto": "Sem o Orca, trocar de agente gastaria mais tempo e token em outro terminal",
+        "t": 14791
+       },
+       {
+        "texto": "Um participante resumiu: o Orca é quase a Naia do desenvolvimento",
+        "t": 14814
+       },
+       {
+        "texto": "Dica de um aluno: cortar vídeo com FFmpeg por frações de minuto",
+        "t": 14839
+       }
+      ]
+     },
+     {
+      "texto": "Cada Naia responde só ao seu advogado, sem pedir permissão à supervisora",
+      "t": 14921,
+      "filhos": [
+       {
+        "texto": "O guardrail máximo seria colocar cada Naia em um Docker na mesma VPS",
+        "t": 14963
+       },
+       {
+        "texto": "Para esse escritório: 100 a 150 mil de implantação e 8 a 12 mil por mês",
+        "t": 15033
+       },
+       {
+        "texto": "Haveria VPS de backup sincronizada para voltar ao ar em até 30 minutos",
+        "t": 15065
+       }
+      ]
+     },
+     {
+      "texto": "Depois de pronto, o sistema se integra à Naia via MCP e ela opera tudo",
+      "t": 15356,
+      "filhos": [
+       {
+        "texto": "Um mapa do código na memória da Naia a transforma em engenheira do sistema",
+        "t": 15401
+       },
+       {
+        "texto": "Próxima aula: validar o sistema, Codex caçando bugs e pentest com IA chinesa",
+        "t": 15760
+       }
+      ]
+     },
+     {
+      "texto": "Para agências, prefere instalação white label (5 a 10 mil) à assinatura",
+      "t": 15631
+     }
+    ]
+   },
+   {
+    "texto": "Tour pelo protótipo e encerramento",
+    "t": 15886,
+    "filhos": [
+     {
+      "texto": "Denderson faz um tour pelo protótipo: subcontas, idiomas e cadastro",
+      "t": 15912,
+      "filhos": [
+       {
+        "texto": "Plataforma de multicontas com troca de idioma (espanhol, inglês, português)",
+        "t": 15941
+       },
+       {
+        "texto": "Sistema tem modo claro e modo escuro",
+        "t": 15965
+       },
+       {
+        "texto": "Menu de cadastro traz empresas, projetos, clientes, fornecedores e contatos",
+        "t": 15994
+       }
+      ]
+     },
+     {
+      "texto": "Tour segue por comercial, financeiro, operação e treinamento",
+      "t": 16032,
+      "filhos": [
+       {
+        "texto": "Menu financeiro, com caixa, conciliação e fluxo de caixa, vale muito dinheiro",
+        "t": 16103
+       },
+       {
+        "texto": "Treinamento terá área de membros com manuais e onboarding do funcionário novo",
+        "t": 16203
+       },
+       {
+        "texto": "Menu de integrações conecta a Naia, webhooks, API e MCP de outras plataformas",
+        "t": 16227
+       }
+      ]
+     },
+     {
+      "texto": "Acesso ao sistema é controlado por usuário, liberando só os menus necessários",
+      "t": 16337,
+      "filhos": [
+       {
+        "texto": "Plataforma permite multicontas, com uma conta por empresa",
+        "t": 16301
+       },
+       {
+        "texto": "Exemplo: funcionário novo só vê o menu de treinamento",
+        "t": 16316
+       },
+       {
+        "texto": "Próxima aula, na quarta às 15h, finaliza, testa, conecta e libera o GitHub do projeto",
+        "t": 16500
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

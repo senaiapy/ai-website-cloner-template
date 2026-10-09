@@ -1,0 +1,133 @@
+{
+  "url": "https://api-apostila.denderson.ai/api/lessons",
+  "json": {
+    "lessons": [
+      {
+        "id": "conheca-naia",
+        "n": 1,
+        "section": "Comece aqui",
+        "title": "Conheça a Naia",
+        "subtitle": "Quem é a sua agente e o que ela faz por você",
+        "kind": "lesson",
+        "view": null
+      },
+      {
+        "id": "acesso-suporte",
+        "n": 2,
+        "section": "Comece aqui",
+        "title": "Acesso ao suporte",
+        "subtitle": "Faça seu cadastro para liberar o suporte",
+        "kind": "support",
+        "view": null
+      },
+      {
+        "id": "onboarding",
+        "n": 7,
+        "section": "Sua Naia",
+        "title": "Onboarding da Naia",
+        "subtitle": "Os primeiros minutos com a sua agente",
+        "kind": "lesson",
+        "view": null
+      },
+      {
+        "id": "manual",
+        "n": 8,
+        "section": "Sua Naia",
+        "title": "Manual da Naia",
+        "subtitle": "Como pedir as coisas e tirar o maximo da sua agente",
+        "kind": "manual",
+        "view": "manual"
+      },
+      {
+        "id": "marketplace-skills",
+        "n": 9,
+        "section": "Skills Naia",
+        "title": "Skills Naia Completa",
+        "subtitle": "Todas as habilidades da sua Naia — libere e instale quando quiser",
+        "kind": "manual",
+        "view": "skills"
+      },
+      {
+        "id": "marketplace-premium",
+        "n": 11,
+        "section": "Marketplace Premium",
+        "title": "Marketplace Premium",
+        "subtitle": "Recursos premium da sua Naia, à parte da Naia Completa",
+        "kind": "manual",
+        "view": "premium"
+      },
+      {
+        "id": "zoom-comunidade",
+        "n": 12,
+        "section": "Comunidade",
+        "title": "Zoom Semanal + Comunidade",
+        "subtitle": "Seu bônus: 30 dias grátis na comunidade + Zoom comigo toda segunda",
+        "kind": "community",
+        "view": null
+      },
+      {
+        "id": "gravacoes-comunidade",
+        "n": 13,
+        "section": "Comunidade",
+        "title": "Gravações Comunidade",
+        "subtitle": "As aulas da comunidade + a imersão, com os capítulos",
+        "kind": "manual",
+        "view": "gravacoes"
+      },
+      {
+        "id": "gravacoes-estudos",
+        "n": 14,
+        "section": "Grupo de Estudos",
+        "title": "Grupo de Estudos",
+        "subtitle": "As 5 aulas do Grupo de Estudos, com os capítulos",
+        "kind": "manual",
+        "view": "estudos"
+      },
+      {
+        "id": "imersao-servidor",
+        "n": 15,
+        "section": "Gravação Imersão",
+        "title": "Servidor do Agente",
+        "subtitle": "",
+        "kind": "page",
+        "view": "imersao"
+      },
+      {
+        "id": "imersao-instalador-hermes",
+        "n": 16,
+        "section": "Gravação Imersão",
+        "title": "Instalador Hermes",
+        "subtitle": "",
+        "kind": "page",
+        "view": "imersao"
+      },
+      {
+        "id": "imersao-dia-1",
+        "n": 17,
+        "section": "Gravação Imersão",
+        "title": "Dia 1",
+        "subtitle": "",
+        "kind": "page",
+        "view": "imersao"
+      },
+      {
+        "id": "imersao-dia-2",
+        "n": 18,
+        "section": "Gravação Imersão",
+        "title": "Dia 2",
+        "subtitle": "",
+        "kind": "page",
+        "view": "imersao"
+      },
+      {
+        "id": "extras",
+        "n": 19,
+        "section": "EXTRAS",
+        "title": "EXTRAS",
+        "subtitle": "Podcasts e conteúdos extras",
+        "kind": "manual",
+        "view": "extras"
+      }
+    ]
+  }
+}

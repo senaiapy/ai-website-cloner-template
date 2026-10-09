@@ -1,0 +1,39 @@
+/* Pet da Naia: copia do PetOverlay do Orca (out/renderer/assets/PetOverlay-BGb5u06F.js).
+   Estrutura, bob, cursor e touch-action identicos; so o z-index sobe acima do conteudo. */
+@keyframes pet-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+
+.naia-pet {
+  position: fixed;
+  z-index: 2147483000;
+  pointer-events: none;
+  width: 150px;
+  height: 150px;
+}
+.naia-pet__row {
+  pointer-events: none;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+}
+.naia-pet__grab {
+  pointer-events: auto;
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  cursor: grab;
+  animation: pet-bob 1.2s ease-in-out infinite;
+  animation-play-state: running;
+  touch-action: none;
+  min-width: 24px;
+  min-height: 24px;
+}
+.naia-pet.is-dragging .naia-pet__grab { cursor: grabbing; }
+.naia-pet__sprite {
+  background-repeat: no-repeat;
+  image-rendering: pixelated;
+}

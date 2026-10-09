@@ -1,0 +1,938 @@
+{
+ "versao": 1,
+ "id": "estudos-aula-2",
+ "titulo": "Aula 2",
+ "duracao": 20088,
+ "total_nos": 200,
+ "gerado_em": "2026-09-24T16:58:07-03:00",
+ "modelo": "claude-sonnet-5",
+ "raiz": {
+  "texto": "Aula 2",
+  "filhos": [
+   {
+    "texto": "Abertura: sala enchendo, conquistas e tarefas do dia",
+    "t": 0,
+    "filhos": [
+     {
+      "texto": "Rodada de conquistas: alunos contam o que fizeram com a Naia calibrada",
+      "t": 473,
+      "filhos": [
+       {
+        "texto": "Uma aluna criou uma Naia de cibersegurança baseada em um curso completo",
+        "t": 526
+       },
+       {
+        "texto": "Ela guarda todos os acessos no 1Password para a Naia consultar em clientes",
+        "t": 566
+       },
+       {
+        "texto": "Um aluno usou a Naia original para validar o clone dela num cliente",
+        "t": 629
+       },
+       {
+        "texto": "Denderson passa tarefas do terminal para a Naia terminar sozinha e avisar depois",
+        "t": 658
+       }
+      ]
+     },
+     {
+      "texto": "Denderson abre a aula e envia o link da apresentação sincronizada",
+      "t": 789,
+      "filhos": [
+       {
+        "texto": "O link é de uma apresentação sincronizada com o mesmo slide do professor",
+        "t": 797
+       },
+       {
+        "texto": "Pede microfone fechado e cuidado com barulho para não atrapalhar o raciocínio",
+        "t": 824
+       },
+       {
+        "texto": "Serão duas ou três tarefas simultâneas, cada uma rodando em uma Naia diferente",
+        "t": 841
+       }
+      ]
+     },
+     {
+      "texto": "Denderson conta por que o Claude foi bloqueado no OpenClaw e voltou ao Hermes",
+      "t": 892,
+      "filhos": [
+       {
+        "texto": "O uso enlouquecido do OpenClaw fez explodir o consumo de tokens do Claude",
+        "t": 916
+       },
+       {
+        "texto": "Em 4 de abril a Anthropic bloqueou o uso fora do Claude Code",
+        "t": 949
+       },
+       {
+        "texto": "A Nous, empresa que fez o Hermes, fechou acordo com a Anthropic e liberou um plugin oficial",
+        "t": 1061
+       }
+      ]
+     },
+     {
+      "texto": "Denderson apresenta a lista de tarefas que a Naia vai executar ao vivo",
+      "t": 1125,
+      "filhos": [
+       {
+        "texto": "Inclui treinamento de SDR e disparo de mensagem pela API oficial da Meta",
+        "t": 1149
+       },
+       {
+        "texto": "A Naia vai extrair dados de tráfego pago e montar um dashboard",
+        "t": 1156
+       },
+       {
+        "texto": "Carrossel, publicação, automação de comentário, proposta comercial e tutorial",
+        "t": 1186
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "O JEV: o classificador que economiza token",
+    "t": 1227,
+    "filhos": [
+     {
+      "texto": "O JEV é um classificador, não é modelo de conversa",
+      "t": 1306,
+      "filhos": [
+       {
+        "texto": "Diogo Almeida, dono da TypeSafe, participou da construção do modelo que baseou o ChatGPT",
+        "t": 1280
+       },
+       {
+        "texto": "Toda tarefa da Naia gasta token, como água saindo de uma torneira",
+        "t": 1490
+       },
+       {
+        "texto": "Decidir entre Vercel e Cloudflare já consome bastante token",
+        "t": 1549
+       }
+      ]
+     },
+     {
+      "texto": "O JEV lê pedido e memória e devolve decisão pronta para a Naia",
+      "t": 1608,
+      "filhos": [
+       {
+        "texto": "Cobrança é só pelo token de output; o de input é gratuito",
+        "t": 1653
+       },
+       {
+        "texto": "Conta tem fila de espera e libera com 5 dólares de crédito",
+        "t": 1697
+       },
+       {
+        "texto": "Custa 0,42 dólar por milhão de tokens de output",
+        "t": 1739
+       }
+      ]
+     },
+     {
+      "texto": "Denderson prevê modelos de fronteira compactados rodando localmente",
+      "t": 1870,
+      "filhos": [
+       {
+        "texto": "Modelos como Opus 5 e Kimi 3 devem rodar no computador, sem mensalidade",
+        "t": 1911
+       },
+       {
+        "texto": "Relevante para áreas jurídica e contábil, por dados sensíveis",
+        "t": 1935
+       },
+       {
+        "texto": "JEV não decide nem escreve, aponta caminho mais provável e erra cerca de 3%",
+        "t": 2097
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Clonando a Naia Hermes ao vivo: cópia e configuração",
+    "t": 2128,
+    "filhos": [
+     {
+      "texto": "Denderson pergunta à Naia em qual VPS ela mora e qual modelo dá vida a ela",
+      "t": 2146,
+      "filhos": [
+       {
+        "texto": "A Naia responde em qual VPS está e que quem dá vida a ela é o GPT 6 Astra, pela OpenAI Codex",
+        "t": 2191
+       },
+       {
+        "texto": "Chave SSH funciona como chave mestra que dá ao Claude acesso às VPS",
+        "t": 2303
+       },
+       {
+        "texto": "Denderson cria no BotFather o novo bot Naia Hermes Opus para a nova Naia",
+        "t": 2413
+       }
+      ]
+     },
+     {
+      "texto": "Pedido de cópia exata da Naia Hermes para rodar com Opus na VPS H4",
+      "t": 2487,
+      "filhos": [
+       {
+        "texto": "A cópia deve usar o plugin para rodar com a mesma assinatura do Claude",
+        "t": 2494
+       },
+       {
+        "texto": "Sem onboarding, cópia exata com todas as informações e acessos",
+        "t": 2543
+       },
+       {
+        "texto": "Ao acordar, a nova Naia deve continuar de onde a outra parou",
+        "t": 2564
+       }
+      ]
+     },
+     {
+      "texto": "Para entregar uma Naia vendida, basta copiar na VPS do cliente",
+      "t": 2610,
+      "filhos": [
+       {
+        "texto": "Denderson mantém um repositório no GitHub com cópia limpa, sem senhas nem credenciais",
+        "t": 2667
+       },
+       {
+        "texto": "Dá para pedir auditoria de dados sensíveis antes de fazer a troca",
+        "t": 2744
+       },
+       {
+        "texto": "Dados sensíveis do Denderson vazavam nas cópias, ex: data de casamento",
+        "t": 2772
+       }
+      ]
+     },
+     {
+      "texto": "Denderson tem Naias com vários modelos e não sente necessidade de ficar trocando",
+      "t": 2830,
+      "filhos": [
+       {
+        "texto": "No Hermes e no OpenClaw, trocar o modelo mantém tudo sem perder nada",
+        "t": 2951
+       }
+      ]
+     },
+     {
+      "texto": "O melhor modelo muda toda semana, então vale ter dois ou três agentes",
+      "t": 3028,
+      "filhos": [
+       {
+        "texto": "Recomendação: ter uma Naia Claude e uma Naia Hermes e usar a que estiver melhor na semana",
+        "t": 3028
+       }
+      ]
+     },
+     {
+      "texto": "Banco de dados na mesma VPS da Naia dá a mesma função com latência zero",
+      "t": 3184,
+      "filhos": [
+       {
+        "texto": "Dá para ter várias Naias na mesma VPS, como as cinco Naias do time de Denderson",
+        "t": 3310
+       },
+       {
+        "texto": "Recomenda um cron de verificação de segurança a cada dois dias para não deixar porta aberta",
+        "t": 3360
+       }
+      ]
+     },
+     {
+      "texto": "Melhor ter uma agente para cada modelo do que fallback dentro da mesma Naia",
+      "t": 3419,
+      "filhos": [
+       {
+        "texto": "Denderson tem Naias espalhadas em VPS diferentes para nunca ficar refém de um servidor",
+        "t": 3441
+       }
+      ]
+     },
+     {
+      "texto": "As cópias nascem iguais mas seguem vidas diferentes, alimentando um banco de dados central",
+      "t": 3678,
+      "filhos": [
+       {
+        "texto": "Todas as Naias alimentam uma vez por dia um banco de dados central, a matriz",
+        "t": 3696
+       },
+       {
+        "texto": "Quando uma conta bate o limite, o Hermes permite trocar de modelo, por exemplo para o Kimi",
+        "t": 3751
+       },
+       {
+        "texto": "OpenRouter entra como hub de LLMs para trocar modelo sem parar a operação",
+        "t": 3828
+       }
+      ]
+     },
+     {
+      "texto": "A Naia cria qualquer tipo de site em HTML e CSS puros",
+      "t": 4627,
+      "filhos": [
+       {
+        "texto": "Sites feitos assim levam o connect rate do tráfego pago a perto de 90%",
+        "t": 4695
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Tarefas ao vivo: site, análise BMAD, viral e dashboard",
+    "t": 4772,
+    "filhos": [
+     {
+      "texto": "O site da bio da consultoria gera de 5 a 10 reuniões qualificadas por semana",
+      "t": 4863,
+      "filhos": [
+       {
+        "texto": "O formulário pede nome, e-mail, telefone, faturamento mensal e número de funcionários",
+        "t": 4893
+       },
+       {
+        "texto": "O vendedor responsável recebe um aviso com os dados do agendamento",
+        "t": 4919
+       }
+      ]
+     },
+     {
+      "texto": "Todas as Naias já usam o JEV, atualizadas nesta semana",
+      "t": 4963,
+      "filhos": [
+       {
+        "texto": "O JEV indica qual é a melhor opção entre os caminhos possíveis, antes da decisão",
+        "t": 5090
+       },
+       {
+        "texto": "A troca entre o JEV e a Naia demora cerca de 400 milissegundos",
+        "t": 5116
+       }
+      ]
+     },
+     {
+      "texto": "Escolhido o perfil do Fernando Miranda para a análise BMAD",
+      "t": 5474,
+      "filhos": [
+       {
+        "texto": "Ter um perfil forte no Instagram é sinônimo de mais dinheiro e melhores negócios",
+        "t": 5285
+       },
+       {
+        "texto": "Pedido para a Naia ignorar a memória e refazer a análise do zero, como demonstração",
+        "t": 5416
+       },
+       {
+        "texto": "Extração da metodologia viral feita com a Bianca Viral, subagente treinada para isso",
+        "t": 5529
+       }
+      ]
+     },
+     {
+      "texto": "Comando do site novo: Copy adaptada ao estilo Light Copy de Leandro Ladeira",
+      "t": 5675,
+      "filhos": [
+       {
+        "texto": "Imagens geradas com gpt-image-2.5 pela assinatura da OpenAI, sem custo de API",
+        "t": 5713
+       },
+       {
+        "texto": "Imagens com o time de personagens, incluindo os novos Pablo, Hermes e Jaine",
+        "t": 5739
+       },
+       {
+        "texto": "Visual com fundo claro, paleta quente, luz do dia e cenário tecnológico anime",
+        "t": 5862
+       }
+      ]
+     },
+     {
+      "texto": "Como a Bianca Viral encontra os vídeos que viralizaram",
+      "t": 5996,
+      "filhos": [
+       {
+        "texto": "Vídeos que ficam 50% acima da média de views são considerados virais",
+        "t": 6022
+       },
+       {
+        "texto": "A coleta usa a HikerAPI, que custou cerca de 200 dólares em quatro meses",
+        "t": 6092
+       }
+      ]
+     },
+     {
+      "texto": "Terceira tarefa: dashboard do tráfego pago da imersão",
+      "t": 6304,
+      "filhos": [
+       {
+        "texto": "Campanhas de agosto até a véspera somaram cerca de 81 mil reais investidos",
+        "t": 6231
+       },
+       {
+        "texto": "Pedido de dashboard em HTML com CTR, CPC, CAC e connect rate por campanha e criativo",
+        "t": 6364
+       }
+      ]
+     },
+     {
+      "texto": "A Naia Hermes acorda na VPS H4 rodando com Claude Opus 5.5",
+      "t": 6480,
+      "filhos": [
+       {
+        "texto": "Ela foi criada como cópia exata, com todo o banco de dados e conversas importados",
+        "t": 6646
+       },
+       {
+        "texto": "Denderson criou um arquivo Markdown para os alunos copiarem a Naia Hermes",
+        "t": 6813
+       }
+      ]
+     },
+     {
+      "texto": "Perguntas da turma sobre quando ter duas VPS e como fazer backup",
+      "t": 6952,
+      "filhos": [
+       {
+        "texto": "O backup diário não deve usar túnel entre as duas VPS, por risco de segurança",
+        "t": 7328
+       },
+       {
+        "texto": "Orquestrar várias Naias é assunto avançado, deixado para depois",
+        "t": 7704
+       }
+      ]
+     },
+     {
+      "texto": "Resultados: site pronto em 30 minutos, análise BMAD, metodologia viral e dashboard entregues",
+      "t": 8027,
+      "filhos": [
+       {
+        "texto": "O plano de 30 dias propõe crescer de 1 milhão para 1,151 milhão de seguidores",
+        "t": 8734
+       },
+       {
+        "texto": "A metodologia viral mostra o roteiro em cinco passos, com o tempo de cada um",
+        "t": 9363
+       },
+       {
+        "texto": "No dashboard, o melhor CTR nem sempre é o melhor CAC",
+        "t": 9802
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Intervalo e a Naia no WhatsApp pela Evolution API",
+    "t": 9914,
+    "filhos": [
+     {
+      "texto": "Claude no desktop, ligado à VPS, acompanha a Naia passo a passo",
+      "t": 10604,
+      "filhos": [
+       {
+        "texto": "Às vezes ela avisa que deu certo, mas na verdade quebrou",
+        "t": 10625
+       },
+       {
+        "texto": "Também funciona pelo ChatGPT, a lógica é a mesma",
+        "t": 10682
+       }
+      ]
+     },
+     {
+      "texto": "Recomenda ter um agente Hermes com Claude e outro com OpenAI",
+      "t": 10827,
+      "filhos": [
+       {
+        "texto": "Usou o novo plugin do Claude para o Hermes, liberado há três dias",
+        "t": 10752
+       },
+       {
+        "texto": "Antes não dava para rodar Claude no Hermes; agora dá",
+        "t": 10827
+       }
+      ]
+     },
+     {
+      "texto": "Peça à Naia para instalar a Evolution API na versão 2.3.7",
+      "t": 11128,
+      "filhos": [
+       {
+        "texto": "Nunca use número vital para o negócio: perder gera problema sério",
+        "t": 11058
+       },
+       {
+        "texto": "Um funcionário perdeu número com 8 mil leads de mentoria de R$30 mil",
+        "t": 11076
+       },
+       {
+        "texto": "Números virtuais: pode pagar R$26 por mês ou R$180 por ano",
+        "t": 11304
+       }
+      ]
+     },
+     {
+      "texto": "Ao vivo, pediu à Naia um áudio bem-humorado no grupo da turma",
+      "t": 11589,
+      "filhos": [
+       {
+        "texto": "Voz da Naia é do Google, mais barata que a ElevenLabs",
+        "t": 11639
+       },
+       {
+        "texto": "Para lançamento: duas Evolution em VPS separadas, cinco números em cada",
+        "t": 11719
+       },
+       {
+        "texto": "Resumo diário automático (Cron), em texto e áudio, com as últimas 24h",
+        "t": 11747
+       }
+      ]
+     },
+     {
+      "texto": "A Naia monitora o grupo da Comunidade 24 horas por dia",
+      "t": 11884,
+      "filhos": [
+       {
+        "texto": "Se o autor tiver oferta de curso de IA na bio, ela apaga a mensagem",
+        "t": 11894
+       }
+      ]
+     },
+     {
+      "texto": "Ao vivo, pediu à Naia para renomear grupos com nome inscrições abertas",
+      "t": 11943,
+      "filhos": [
+       {
+        "texto": "Manda o mesmo áudio agradecendo e convidando em cada grupo",
+        "t": 12180
+       },
+       {
+        "texto": "Troca um grupo por minuto, para não trocar tudo de uma vez",
+        "t": 12233
+       },
+       {
+        "texto": "Substitui o SendFlow: cria grupo, muda imagem e remove pessoas",
+        "t": 12754
+       }
+      ]
+     },
+     {
+      "texto": "Usa vários modelos na operação real, não só para testar",
+      "t": 12312,
+      "filhos": [
+       {
+        "texto": "Kimi (Moonshot) está muito próximo do Opus 4.8 nos benchmarks",
+        "t": 12289
+       },
+       {
+        "texto": "Recomenda assinaturas de Claude, GPT e Kimi (US$80) para o mês inteiro",
+        "t": 12368
+       }
+      ]
+     },
+     {
+      "texto": "Quem instala com chave de API paga por token; o certo é assinatura",
+      "t": 12620,
+      "filhos": [
+       {
+        "texto": "No terminal, a cada 400 mil tokens ele salva e compacta o contexto",
+        "t": 12523
+       },
+       {
+        "texto": "A Naia opera em janela de 1 milhão de tokens e compacta sozinha",
+        "t": 12548
+       },
+       {
+        "texto": "Um Mac mini básico (8GB/256GB) já roda várias Naias tranquilamente",
+        "t": 12694
+       }
+      ]
+     },
+     {
+      "texto": "A Naia lê o WhatsApp e dá feedback, sem sair respondendo sozinha",
+      "t": 12959,
+      "filhos": [
+       {
+        "texto": "Pede para achar conversas importantes perdidas nos últimos 30 dias",
+        "t": 12948
+       },
+       {
+        "texto": "CRM fica para os próximos encontros; disparo oficial já entra hoje via Zernio",
+        "t": 13147
+       },
+       {
+        "texto": "Para número oficial precisa ter uma BM da Meta",
+        "t": 13299
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Disparo oficial, prospecção B2B e segurança de VPS",
+    "t": 13390,
+    "filhos": [
+     {
+      "texto": "Denderson comanda ao vivo o disparo de demonstração pela Naia",
+      "t": 13432,
+      "filhos": [
+       {
+        "texto": "Pede imagem quadrada com GPT Image 2.5 com os personagens todos",
+        "t": 13443
+       },
+       {
+        "texto": "Cria mensagem de marketing dentro do Zernio com a imagem de cabeçalho",
+        "t": 13503
+       },
+       {
+        "texto": "Exige relatório e aprovação da mensagem e imagem antes de disparar",
+        "t": 13597
+       }
+      ]
+     },
+     {
+      "texto": "Funil de prospecção que roda sozinho: prospecta, dispara e agenda",
+      "t": 13643,
+      "filhos": [
+       {
+        "texto": "Exemplo: prospectar 50 dentistas em São Paulo e colocar no CRM",
+        "t": 13662
+       },
+       {
+        "texto": "Todo dia de manhã dispara mensagem para novos dentistas prospectados",
+        "t": 13673
+       },
+       {
+        "texto": "Quem se qualifica é agendado direto na agenda do Google",
+        "t": 13688
+       }
+      ]
+     },
+     {
+      "texto": "HikerAPI busca perfis, Maton dá acesso ao Google e scraping traz dados",
+      "t": 13745,
+      "filhos": [
+       {
+        "texto": "HikerAPI busca perfis do Instagram por faixa de seguidores e assunto",
+        "t": 13754
+       },
+       {
+        "texto": "Maton dá acesso a Drive, Planilhas, Docs, Gmail e Agenda",
+        "t": 13806
+       }
+      ]
+     },
+     {
+      "texto": "Site no Cloudflare Pages, mapa de edição de vídeo e painel de tráfego",
+      "t": 13874,
+      "filhos": [
+       {
+        "texto": "Site recebeu 900 mil acessos em 40 dias, connect rate de 87%",
+        "t": 13857
+       },
+       {
+        "texto": "Naia assiste vídeo frame a frame e monta mapa de edição para replicar",
+        "t": 13985
+       },
+       {
+        "texto": "Painel de tráfego nasceu de planilha Excel exportada da conta de anúncio",
+        "t": 14072
+       }
+      ]
+     },
+     {
+      "texto": "A voz da Naia não atende ligação, só gera áudio",
+      "t": 14182,
+      "filhos": [
+       {
+        "texto": "Áudio funciona no Telegram e no WhatsApp via Evolution",
+        "t": 14168
+       }
+      ]
+     },
+     {
+      "texto": "Cuidados com WhatsApp: evitar API não oficial e ligação de voz com IA",
+      "t": 14435,
+      "filhos": [
+       {
+        "texto": "Recusa contratar cliente que exige automação em WhatsApp não oficial",
+        "t": 14475
+       },
+       {
+        "texto": "Ligação por API oficial exige aprovação da Meta e janela de 24h aberta",
+        "t": 14619
+       },
+       {
+        "texto": "Caminho próprio com Twilio e ElevenLabs custa perto de 1 dólar por minuto",
+        "t": 14715
+       }
+      ]
+     },
+     {
+      "texto": "Zernio conecta Meta Ads e Google para dashboard em tempo real",
+      "t": 14920,
+      "filhos": [
+       {
+        "texto": "Looker Studio e Windsor ficam dispensáveis depois disso",
+        "t": 14937
+       }
+      ]
+     },
+     {
+      "texto": "Gerar token de acesso, como do GitHub, e guardar no cofre da Naia",
+      "t": 14997,
+      "filhos": [
+       {
+        "texto": "Pergunte à Naia o passo a passo para gerar cada token",
+        "t": 15007
+       },
+       {
+        "texto": "Marcar repositório do GitHub como privado",
+        "t": 15074
+       },
+       {
+        "texto": "Criar chave mestra e pedir à Naia chaves de publicação separadas",
+        "t": 15088
+       }
+      ]
+     },
+     {
+      "texto": "Segurança de VPS: backup em outra região, menor privilégio e especialista",
+      "t": 15612,
+      "filhos": [
+       {
+        "texto": "Pede à Naia criar usuário Linux com o menor privilégio possível",
+        "t": 15418
+       },
+       {
+        "texto": "Backup pago da hospedagem não compensa perto de uma VPS pequena",
+        "t": 15688
+       },
+       {
+        "texto": "Peça ajuda a um especialista de segurança quando não souber o que pedir",
+        "t": 15813
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "CRM open source e perguntas finais sobre disparo",
+    "t": 16144,
+    "filhos": [
+     {
+      "texto": "O CRM será adaptado a partir de um repositório open source já validado",
+      "t": 16166,
+      "filhos": [
+       {
+        "texto": "Ficaram para a semana seguinte: proposta comercial e edição de vídeo curto",
+        "t": 16240
+       }
+      ]
+     },
+     {
+      "texto": "Para extrair dados do iFood, é preciso criar um app developer aprovado",
+      "t": 16367,
+      "filhos": [
+       {
+        "texto": "A Naia guia passo a passo até você conseguir criar a conta e o app",
+        "t": 16399
+       }
+      ]
+     },
+     {
+      "texto": "Mensagens de marketing e de utilidade têm preços diferentes no disparo da API da Meta",
+      "t": 16579,
+      "filhos": [
+       {
+        "texto": "Mensagem de utilidade custa cerca de 3,5 centavos por disparo na API da Meta",
+        "t": 16589
+       },
+       {
+        "texto": "Stack de desenvolvimento: Claude para o protótipo, Codex para refinar, modelo chinês para testar",
+        "t": 16763
+       },
+       {
+        "texto": "Montar a estrutura de revenda da Naia é trabalho da mentoria individual",
+        "t": 16873
+       }
+      ]
+     },
+     {
+      "texto": "Encontrar o tomador de decisão depende do tipo de empresa que você atende",
+      "t": 16948,
+      "filhos": [
+       {
+        "texto": "Em consultórios odontológicos, o tomador de decisão é o dentista dono do consultório",
+        "t": 16966
+       },
+       {
+        "texto": "Scrape Creators busca no LinkedIn e Instagram, HikerAPI ajuda no Instagram",
+        "t": 17004
+       }
+      ]
+     },
+     {
+      "texto": "O JEV fechou novos cadastros temporariamente, use a Naia até reabrirem",
+      "t": 17146,
+      "filhos": [
+       {
+        "texto": "A Naia roda local, mas não é tão boa quanto o JEV, que já vem treinado",
+        "t": 17135
+       },
+       {
+        "texto": "Dá para procurar o JEV em hubs como Maton e OpenRouter",
+        "t": 17224
+       }
+      ]
+     },
+     {
+      "texto": "A Meta cobra o disparo por mensagem, com preços diferentes para marketing e utilidade",
+      "t": 17270,
+      "filhos": [
+       {
+        "texto": "Prospectar 100 dentistas custa centavos, e o disparo de marketing sai a 32 centavos cada",
+        "t": 17373
+       },
+       {
+        "texto": "O custo do disparo é mínimo perto do valor de um contrato fechado",
+        "t": 17386
+       },
+       {
+        "texto": "Enriquecer nomes pela API do Google Meu Negócio consegue de 30 a 40% da lista",
+        "t": 17622
+       }
+      ]
+     },
+     {
+      "texto": "O bloqueio das BMs na Meta estava ligado ao perfil pessoal, não ao número",
+      "t": 17891,
+      "filhos": [
+       {
+        "texto": "Um aluno recuperou uma BM bloqueada com o suporte da Meta em 48 horas",
+        "t": 17741
+       },
+       {
+        "texto": "A Meta rastreia por IP e MAC do computador, então trocar de conta não resolve",
+        "t": 17903
+       },
+       {
+        "texto": "Depois do erro, a mensagem de demonstração chegou no WhatsApp do Denderson",
+        "t": 18266
+       }
+      ]
+     },
+     {
+      "texto": "Para treinar o SDR, é preciso alimentar a Naia com as informações do negócio",
+      "t": 18389,
+      "filhos": [
+       {
+        "texto": "Mandar um documento com informações do produto, como ingredientes e glúten",
+        "t": 18525
+       },
+       {
+        "texto": "Testar o SDR com gente conhecida no WhatsApp antes de colocar para vender de verdade",
+        "t": 18551
+       }
+      ]
+     },
+     {
+      "texto": "As quartas-feiras vão se tornar encontros permanentes",
+      "t": 18629,
+      "filhos": [
+       {
+        "texto": "O valor para participar será anunciado no último dos cinco encontros",
+        "t": 18653
+       },
+       {
+        "texto": "A skill de proposta comercial transforma a transcrição de uma reunião em proposta pronta",
+        "t": 18699
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Depoimentos da turma e encerramento da aula",
+    "t": 18876,
+    "filhos": [
+     {
+      "texto": "Um participante relata que investe em masterminds desde 2019",
+      "t": 18882,
+      "filhos": [
+       {
+        "texto": "Já investiu mais de trezentos mil reais em masterminds desde 2019",
+        "t": 18882
+       },
+       {
+        "texto": "Diz que grandes players do mercado só agora vendem o que já foi ensinado aqui",
+        "t": 18920
+       },
+       {
+        "texto": "Denderson responde que também pivotou recentemente para ensinar IA",
+        "t": 18986
+       }
+      ]
+     },
+     {
+      "texto": "Um aluno relaciona a aula aos quatro níveis de competência da PNL",
+      "t": 19221,
+      "filhos": [
+       {
+        "texto": "Exemplo dado: entrar num foguete sem saber nem qual botão apertar",
+        "t": 19228
+       },
+       {
+        "texto": "Só se avança de nível treinando, estudando, praticando e errando",
+        "t": 19278
+       },
+       {
+        "texto": "Denderson liga isso aos níveis de consciência de compra e promete aula de vendas no 5º encontro",
+        "t": 19322
+       }
+      ]
+     },
+     {
+      "texto": "Denderson recomenda ir devagar e reassistir a aula antes da próxima quarta",
+      "t": 19560,
+      "filhos": [
+       {
+        "texto": "Diz que nada será feito na internet sem uso de IA em alguma instância",
+        "t": 19578
+       },
+       {
+        "texto": "Compara com a história de Érico Rocha, que só passou a ensinar fórmula de lançamento depois de aplicar muito",
+        "t": 19612
+       },
+       {
+        "texto": "Conta que sua empresa quase quebrou em 2024 e a IA ajudou a virar o jogo",
+        "t": 19634
+       }
+      ]
+     },
+     {
+      "texto": "Próximo encontro é quarta às 15h e começa desenvolvimento de sistemas",
+      "t": 20042,
+      "filhos": [
+       {
+        "texto": "Avisa que o conteúdo fica mais sério a partir daí",
+        "t": 20053
+       },
+       {
+        "texto": "Turma vai conhecer um universo que até então era só dos programadores",
+        "t": 20059
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

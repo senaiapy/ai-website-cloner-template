@@ -47,3 +47,10 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# Large media files (served locally by dev server)
+public/videos/
+public/video/
+
+# Chrome browser session data
+chrome_session_data/

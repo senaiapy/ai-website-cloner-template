@@ -1,0 +1,6 @@
+{
+  "url": "https://api-apostila.denderson.ai/api/auth/google/start",
+  "json": {
+    "url": "https://accounts.google.com/o/oauth2/v2/auth?client_id=282222806751-t8u0uvtcc4flodbr6gcgnh1d1lpbb7f7.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fapi-apostila.denderson.ai%2Fapi%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+email+profile&state=00a64da4c07387022364e89f21756b07&prompt=select_account&access_type=online"
+  }
+}

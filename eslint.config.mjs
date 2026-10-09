@@ -7,12 +7,21 @@ const eslintConfig = defineConfig([
   ...nextTs,
   // Override default ignores of eslint-config-next.
   globalIgnores([
-    // Default ignores of eslint-config-next:
     ".next/**",
     "out/**",
     "build/**",
     "next-env.d.ts",
+    "docs/**",
+    "public/**",
+    "scripts/**",
+    "chrome_session_data/**",
   ]),
+  {
+    rules: {
+      "@next/next/no-css-tags": "off",
+      "@next/next/no-page-custom-font": "off",
+    },
+  },
 ]);
 
 export default eslintConfig;

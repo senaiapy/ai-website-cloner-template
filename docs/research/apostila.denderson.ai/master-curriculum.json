@@ -1,0 +1,167 @@
+{
+  "lessons": [
+    {
+      "id": "conheca-naia",
+      "cover": "/covers/conheca-naia.webp?v=2",
+      "n": 1,
+      "section": "Comece aqui",
+      "title": "Conheça a Naia",
+      "subtitle": "Quem é a sua agente e o que ela faz por você",
+      "video": {
+        "type": "html",
+        "html": "<video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline style=\"width:100%;height:100%;display:block;background:#15140f\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6a8d89733c7881dfcfe5fee4.mp4\"></video>"
+      },
+      "material": "\n      <p>A <b>Naia</b> é a sua agente de inteligência artificial. Pense nela como uma funcionária digital que mora num computador na nuvem, trabalha o tempo todo e fala com você pelo <b>Telegram</b>, como se fosse uma pessoa do seu time. Você pede em português, no seu jeito, e ela executa.</p>\n      <p>Ela não trabalha sozinha: a Naia <b>orquestra um time</b>. Quem faz o trabalho pesado são os subagentes dela, cada um especialista numa coisa:</p>\n      <ul>\n        <li><b>Juliana</b> cuida da parte operacional e de conteúdo, e coordena os outros quando o trabalho é grande.</li>\n        <li><b>Paulo</b> é o desenvolvedor: cria sites, landing pages, automações e resolve a parte técnica.</li>\n        <li><b>Davi (SDR)</b> atende, qualifica e vende no Instagram e no WhatsApp.</li>\n      </ul>\n      <p>A Naia entende o que você quer, decide quem do time faz, acompanha e te entrega pronto. Você conversa só com ela.</p>\n      <div class=\"callout\"><b>Como ela funciona por baixo:</b> a Naia mora numa <b>VPS</b> (um computador ligado 24h na nuvem) e pensa com o <b>Codex da OpenAI</b>, autorizado pela sua assinatura do <b>ChatGPT Plus</b>. Não precisa saber programar e não precisa de chave de API.</p></div>\n      <p>Além do time, a Naia tem um <b>marketplace de skills</b>: habilidades que você libera quando quiser (criar carrossel, editar Reels, montar proposta, subir tráfego e muito mais). Tudo isso você vê nos menus <b>Marketplace de Skills</b> e <b>Marketplace Premium</b>.</p>\n      <p>Nas próximas aulas você vai instalar a sua Naia do zero, em poucos passos. No fim, é só mandar um \"oi\" pra ela no Telegram.</p>\n    "
+    },
+    {
+      "id": "acesso-suporte",
+      "cover": "/covers/acesso-suporte.webp",
+      "n": 2,
+      "section": "Comece aqui",
+      "title": "Acesso ao suporte",
+      "subtitle": "Faça seu cadastro para liberar o suporte",
+      "kind": "support",
+      "video": {
+        "type": "html",
+        "html": "<video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline style=\"width:100%;height:100%;display:block;background:#15140f\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6a8d8e10f9b062f814e2dc1f.mp4\"></video>"
+      },
+      "material": ""
+    },
+    {
+      "id": "onboarding",
+      "cover": "/covers/onboarding.webp?v=2",
+      "n": 7,
+      "section": "Sua Naia",
+      "title": "Onboarding da Naia",
+      "subtitle": "Os primeiros minutos com a sua agente",
+      "video": {
+        "type": "html",
+        "html": "<video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline style=\"width:100%;height:100%;display:block;background:#15140f\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6a8d8c83d0d6a7f1adfd852b.mp4\"></video>"
+      },
+      "material": "\n      <p>Quando a ferramenta avisar que esta tudo no ar, abra o Telegram e mande um <b>\"oi\"</b> pra sua Naia. Ela desperta, se apresenta e ja faz o onboarding com voce: 15 perguntas rapidas pra ela virar a Naia da sua empresa, e a opcao de conectar o Davi (seu SDR) ao seu CRM agora ou depois.</p>\n    "
+    },
+    {
+      "id": "manual",
+      "n": 8,
+      "section": "Sua Naia",
+      "title": "Manual da Naia",
+      "subtitle": "Como pedir as coisas e tirar o maximo da sua agente",
+      "kind": "manual",
+      "view": "manual",
+      "video": null,
+      "material": ""
+    },
+    {
+      "id": "marketplace-skills",
+      "n": 9,
+      "section": "Skills Naia",
+      "title": "Skills Naia Completa",
+      "subtitle": "Todas as habilidades da sua Naia — libere e instale quando quiser",
+      "kind": "manual",
+      "view": "skills",
+      "video": null,
+      "material": ""
+    },
+    {
+      "id": "marketplace-premium",
+      "n": 11,
+      "section": "Marketplace Premium",
+      "title": "Marketplace Premium",
+      "subtitle": "Recursos premium da sua Naia, à parte da Naia Completa",
+      "kind": "manual",
+      "view": "premium",
+      "video": null,
+      "material": ""
+    },
+    {
+      "id": "zoom-comunidade",
+      "n": 12,
+      "section": "Comunidade",
+      "title": "Zoom Semanal + Comunidade",
+      "subtitle": "Seu bônus: 30 dias grátis na comunidade + Zoom comigo toda segunda",
+      "kind": "community",
+      "video": {
+        "type": "html",
+        "html": "<video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline style=\"width:100%;height:100%;display:block;background:#15140f\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6a8d85e6e1df8e540bc149e9.mp4\"></video>"
+      },
+      "material": ""
+    },
+    {
+      "id": "gravacoes-comunidade",
+      "n": 13,
+      "section": "Comunidade",
+      "title": "Gravações Comunidade",
+      "subtitle": "As aulas da comunidade + a imersão, com os capítulos",
+      "kind": "manual",
+      "view": "gravacoes",
+      "video": null,
+      "material": ""
+    },
+    {
+      "id": "gravacoes-estudos",
+      "n": 14,
+      "section": "Grupo de Estudos",
+      "title": "Grupo de Estudos",
+      "subtitle": "As 5 aulas do Grupo de Estudos, com os capítulos",
+      "kind": "manual",
+      "view": "estudos",
+      "video": null,
+      "material": ""
+    },
+    {
+      "id": "imersao-servidor",
+      "n": 15,
+      "section": "Gravação Imersão",
+      "title": "Servidor do Agente",
+      "subtitle": "",
+      "kind": "page",
+      "view": "imersao",
+      "video": null,
+      "material": "<div class=\"imersao-root\"><div class=\"gv-video\"><video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/9b60b865-d89a-407c-827a-779c648f8606.mp4\"></video></div>\n<section class=\"step\">\n  <div class=\"step-head\">\n    <span class=\"step-num n-coral\">1</span>\n    <h2>Compre sua VPS na Hostinger</h2>\n  </div>\n  <p>A recomendada é a <strong>KVM8</strong> (8 núcleos, 32GB RAM), a melhor para um agente que gera imagens, faz sites e atende clientes. Se sua operação ainda é pequena, a <strong>KVM4</strong> também atende.</p>\n  <ul>\n    <li>Servidor no <strong>Brasil</strong> (São Paulo ou Campinas, tanto faz).</li>\n    <li>Sistema operacional: <strong>Ubuntu 22.04</strong>.</li>\n    <li>Cadastre uma senha com <strong>12+ caracteres</strong> misturando letra maiúscula, minúsculas, números e caractere especial. <strong>Anote essa senha.</strong></li>\n    <li>Plano de <strong>24 meses</strong> sai mais barato e dá para parcelar em 12x ou pagar no PIX.</li>\n  </ul>\n  <div class=\"btn-row\">\n    <a class=\"btn btn-coral\" href=\"https://hostinger.com.br/avalanche\" target=\"_blank\" rel=\"noopener\">Comprar minha VPS →</a>\n  </div>\n  <div class=\"coupon\">\n    <span class=\"code\">AVALANCHE</span>\n    <button class=\"copy-btn\" type=\"button\" data-copy=\"AVALANCHE\">Copiar cupom</button>\n  </div>\n  <p class=\"note\">Use o cupom <strong>AVALANCHE</strong> no checkout e ganhe mais 10% de desconto.</p>\n  <p class=\"note guarantee\"><strong>Sem risco:</strong> a Hostinger dá <strong>30 dias de garantia com reembolso de 100% do valor</strong> em caso de desistência.</p>\n</section>\n\n<section class=\"step\">\n  <div class=\"step-head\">\n    <span class=\"step-num n-teal\">2</span>\n    <h2>Colete os dados da sua VPS</h2>\n  </div>\n  <p>Comprou a VPS? Deixe essas 3 informações anotadas em um bloco de notas. Você vai usar essas informações na instalação:</p>\n  <ul>\n    <li><strong>Usuário da VPS:</strong> é <code>root</code> (sempre).</li>\n    <li><strong>IP da VPS:</strong> no painel da Hostinger, menu <strong>VPS → Gerenciar</strong>, copie o IP que aparece. Se esqueceu a senha, clique em <strong>Redefinir senha</strong> ali mesmo e cadastre uma nova.</li>\n    <li><strong>Senha da VPS:</strong> a que você cadastrou na compra.</li>\n  </ul>\n</section>\n\n<section class=\"step\">\n  <div class=\"step-head\">\n    <span class=\"step-num n-mustard\">3</span>\n    <h2>Prepare o Telegram: crie o bot e pegue seu ID</h2>\n  </div>\n  <div class=\"gv-video\"><video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/358a9b8d-0c19-4015-9db1-3cf1d41a6ca9.mp4\"></video></div>\n  <p>Sua Naia vai morar no Telegram. Para isso, você precisa de duas coisas, ambas gratuitas e feitas dentro do próprio app:</p>\n  <ul>\n    <li><strong>Token do bot:</strong> no Telegram, procure <code>@BotFather</code>, aperte Start e depois <strong>Create New Bot</strong>. Dê um nome livre pro bot (sugestão: o nome da sua agente) e um username minúsculo, sem espaços, terminando em <code>_bot</code>. Quando ficar verdinho, clique em <strong>copiar o token</strong> e anote.</li>\n    <li><strong>Seu ID do Telegram:</strong> procure <code>@userinfo</code>, aperte <code>/start</code> e copie o número da segunda linha da primeira mensagem que ele te mandar. Esse número é o seu ID.</li>\n  </ul>\n  <p class=\"note\">A <strong>autenticação na OpenAI</strong> não precisa de senha anotada: durante a instalação, o próprio Claude/Codex vai te mandar um link. Você clica, autoriza com sua conta da OpenAI e pronto.</p>\n</section></div>"
+    },
+    {
+      "id": "imersao-instalador-hermes",
+      "n": 16,
+      "section": "Gravação Imersão",
+      "title": "Instalador Hermes",
+      "subtitle": "",
+      "kind": "page",
+      "view": "imersao",
+      "video": null,
+      "material": "<div class=\"imersao-root\"><div class=\"gv-video\"><video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/a0ae3c2d-8593-46c2-9580-dd732cd9d0aa.mp4\"></video></div><section class=\"step hw-root\">\n  <div class=\"step-head\">\n    <div class=\"step-num n-teal\">H</div>\n    <h2 class=\"hw-title\" data-i18n=\"title\">Instale o seu Agente Hermes</h2>\n  </div>\n\n  <div class=\"hw-screen\" id=\"hw-screen-gate\" hidden>\n    <span class=\"ci-kicker\" data-i18n=\"kicker\">Acesso exclusivo</span>\n    <p class=\"hw-lead\" data-i18n-html=\"gate1\"><strong>Você está a um passo de ter um funcionário que não dorme.</strong> Este instalador monta o seu Agente Hermes sozinho, direto na sua VPS, sem você digitar um único comando: em 20 a 30 minutos ele está no seu Telegram, pronto pra trabalhar.</p>\n    <p class=\"hw-lead\" data-i18n=\"gate2\">Preencha o cadastro abaixo pra liberar o instalador agora. É rápido, e é por aqui que a gente te avisa das novidades do seu agente.</p>\n    <div class=\"hw-fields\">\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbNome\">Seu nome</span><input class=\"hw-input\" id=\"hw-lead-nome\" type=\"text\" autocomplete=\"name\" placeholder=\"Como você quer ser chamado\" data-i18n-ph=\"phNome\"></label>\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbEmail\">Seu melhor e-mail</span><input class=\"hw-input\" id=\"hw-lead-email\" type=\"email\" autocomplete=\"email\" spellcheck=\"false\" placeholder=\"voce@email.com\" data-i18n-ph=\"phEmail\"></label>\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbFone\">Seu WhatsApp</span><input class=\"hw-input\" id=\"hw-lead-fone\" type=\"tel\" inputmode=\"tel\" autocomplete=\"tel\" placeholder=\"(11) 99999-9999\" data-i18n-ph=\"phFone\"></label>\n    </div>\n    <div class=\"hw-alert\" id=\"hw-gate-alert\"></div>\n    <div class=\"hw-cta\">\n      <button class=\"hw-btn hw-btn-coral\" id=\"hw-gate-go\" type=\"button\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"4\" y=\"10\" width=\"16\" height=\"10\" rx=\"2\"></rect><path d=\"M8 10V7a4 4 0 018 0\"></path></svg>\n        <span id=\"hw-gate-label\" data-i18n=\"gateBtn\">Liberar o instalador agora</span>\n      </button>\n    </div>\n  </div>\n\n  <div class=\"hw-screen hw-on\" id=\"hw-screen-form\">\n    <p class=\"hw-lead\" data-i18n=\"formLead\">Preencha os quatro campos abaixo. O instalador conecta na sua VPS, sobe o Hermes e liga o seu bot no Telegram.</p>\n    <div class=\"hw-fields\">\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbIp\">IP da sua VPS</span><input class=\"hw-input\" id=\"hw-ip\" type=\"text\" inputmode=\"decimal\" autocomplete=\"off\" spellcheck=\"false\" placeholder=\"187.0.0.0\"></label>\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbPass\">Senha do root da VPS</span>\n        <span class=\"hw-pass\">\n          <input class=\"hw-input\" id=\"hw-pass\" type=\"password\" autocomplete=\"off\" spellcheck=\"false\" placeholder=\"a senha que o provedor te mandou\" data-i18n-ph=\"phPass\">\n          <button class=\"hw-eye\" id=\"hw-eye\" type=\"button\" aria-label=\"Mostrar senha\" data-i18n-aria=\"eyeShow\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" id=\"hw-eye-open\"><path d=\"M2 12s3.6-6.5 10-6.5S22 12 22 12s-3.6 6.5-10 6.5S2 12 2 12z\"></path><circle cx=\"12\" cy=\"12\" r=\"3.2\"></circle></svg>\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" id=\"hw-eye-off\" class=\"hw-hide\"><path d=\"M4 4l16 16\"></path><path d=\"M9.6 5.9A9.9 9.9 0 0112 5.5c6.4 0 10 6.5 10 6.5a17 17 0 01-3 3.8\"></path><path d=\"M6.5 8A17 17 0 002 12s3.6 6.5 10 6.5c1.2 0 2.3-.2 3.3-.5\"></path><path d=\"M10.2 10.4a3.2 3.2 0 004.3 4.3\"></path></svg>\n          </button>\n        </span>\n      </label>\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbToken\">Token do bot do Telegram</span><input class=\"hw-input\" id=\"hw-token\" type=\"text\" autocomplete=\"off\" spellcheck=\"false\" placeholder=\"123456789:AA...\"></label>\n      <label class=\"hw-field\"><span class=\"hw-lb\" data-i18n=\"lbTgid\">Seu ID do Telegram</span><input class=\"hw-input\" id=\"hw-tgid\" type=\"text\" inputmode=\"numeric\" autocomplete=\"off\" spellcheck=\"false\" placeholder=\"629399338\"></label>\n    </div>\n    <div class=\"hw-note-privacy\" data-i18n=\"privacy\">Suas credenciais são usadas só durante a instalação e não ficam salvas.</div>\n    <div class=\"hw-alert\" id=\"hw-form-alert\"></div>\n    <div class=\"hw-cta\">\n      <button class=\"hw-btn hw-btn-coral\" id=\"hw-go\" type=\"button\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14\"></path><path d=\"M13 6l6 6-6 6\"></path></svg>\n        <span id=\"hw-go-label\" data-i18n=\"goBtn\">Instalar meu Hermes agora</span>\n      </button>\n    </div>\n  </div>\n\n  <div class=\"hw-screen\" id=\"hw-screen-progress\">\n    <p class=\"hw-lead\" data-i18n=\"progLead\">Estamos montando o seu agente. Deixe esta página aberta, isso leva alguns minutos.</p>\n    <ul class=\"hw-steps\" id=\"hw-steps\"></ul>\n    <div class=\"hw-alert\" id=\"hw-prog-alert\"></div>\n    <div class=\"hw-oauth\" id=\"hw-oauth\">\n      <span class=\"hw-oauth-tag\" data-i18n=\"oauthTag\">Falta você autorizar</span>\n      <p class=\"hw-oauth-step\" data-i18n=\"oauth1\">1. Clique no botão e entre com a SUA conta do ChatGPT/OpenAI</p>\n      <a class=\"hw-btn hw-btn-teal\" id=\"hw-oauth-link\" href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 4h6v6\"></path><path d=\"M20 4l-8.5 8.5\"></path><path d=\"M18 14v5a1 1 0 01-1 1H5a1 1 0 01-1-1V7a1 1 0 011-1h5\"></path></svg>\n        <span data-i18n=\"oauthBtn\">Abrir a autorização da OpenAI</span>\n      </a>\n      <div id=\"hw-code-block\">\n        <p class=\"hw-oauth-step\" data-i18n=\"oauth2\">2. Digite este código:</p>\n        <div class=\"hw-code-row\"><span class=\"hw-code\" id=\"hw-code\">----</span><button class=\"hw-copy\" id=\"hw-code-copy\" type=\"button\" data-i18n=\"copy\">Copiar</button></div>\n      </div>\n      <div class=\"hw-waiting\"><span class=\"hw-spin\"></span><span data-i18n=\"waiting\">Esperando você autorizar...</span></div>\n    </div>\n  </div>\n\n  <div class=\"hw-screen\" id=\"hw-screen-done\">\n    <span class=\"hw-done-tag\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 12.5l5 5L20 6.5\"></path></svg><span data-i18n=\"doneTag\">Instalação concluída</span></span>\n    <h3 class=\"hw-title\" style=\"font-size:clamp(19px,3vw,24px)\" data-i18n=\"doneTitle\">Seu Hermes está no ar</h3>\n    <p class=\"hw-lead\" data-i18n=\"doneLead\">O agente já está rodando na sua VPS e responde só para você. Manda a primeira mensagem no Telegram.</p>\n    <div class=\"hw-cta\">\n      <a class=\"hw-btn hw-btn-teal\" id=\"hw-bot-link\" href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 4L3 11l5 2 2 5.5L21 4z\"></path><path d=\"M8 13l4.5 1.5\"></path></svg>\n        <span data-i18n=\"doneBtn\">Abrir meu agente no Telegram</span>\n      </a>\n    </div>\n  </div>\n\n  <div class=\"hw-screen\" id=\"hw-screen-error\">\n    <p class=\"hw-lead\" data-i18n=\"errLead\">A instalação parou no meio do caminho.</p>\n    <div class=\"hw-alert hw-on\" id=\"hw-error-msg\"></div>\n    <div class=\"hw-cta\">\n      <button class=\"hw-btn hw-btn-paper\" id=\"hw-retry\" type=\"button\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 12a8 8 0 10-2.6 5.9\"></path><path d=\"M20 6v5h-5\"></path></svg>\n        <span data-i18n=\"retry\">Tentar de novo</span>\n      </button>\n    </div>\n  </div>\n</section>\n\n<section class=\"pb-footer\" id=\"plano-b-area\" data-planob-open=\"https://api-apostila.denderson.ai/api/imersao/downloads/instalador-hermes-plano-b.zip\" aria-labelledby=\"pb-f-title\">\n  <h2 class=\"pb-f-title\" id=\"pb-f-title\">Plano B</h2>\n  <p class=\"pb-f-lead\" id=\"pb-f-lead\">Baixe o pacote e entregue ao Claude ou Codex no aplicativo do seu computador, que ele faz a instalação.</p>\n  <ol class=\"pb-f-steps\">\n    <li><span class=\"pb-f-n\">1</span><span id=\"pb-f-s1\">Baixe o pacote zip.</span></li>\n    <li><span class=\"pb-f-n\">2</span><span id=\"pb-f-s2\">Abra o Claude ou o Codex no computador e anexe o zip.</span></li>\n    <li><span class=\"pb-f-n\">3</span><span id=\"pb-f-s3\">Siga o que ele pedir.</span></li>\n  </ol>\n  <a class=\"pb-f-btn\" data-planob-btn href=\"https://api-apostila.denderson.ai/api/imersao/downloads/instalador-hermes-plano-b.zip\" download=\"hermes-instalacao-plano-b.zip\">\n    <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg>\n    <span id=\"pb-f-btn-label\">Baixar pacote Plano B</span>\n  </a>\n</section></div>"
+    },
+    {
+      "id": "imersao-dia-1",
+      "n": 17,
+      "section": "Gravação Imersão",
+      "title": "Dia 1",
+      "subtitle": "",
+      "kind": "page",
+      "view": "imersao",
+      "video": null,
+      "material": "<div class=\"imersao-root\"><div class=\"gv-video\"><video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline poster=\"/covers/imersao-dia-1.webp\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6ab8ad04c13d4373c2b95add.mp4\"></video></div><section class=\"step step-wide\"><div class=\"step-head\"><span class=\"step-num n-mustard\">D1</span><h2>Dia 1 · Instalação e treinamento da Naia</h2><span class=\"release-pill\">Downloads liberados</span></div><p>Com o Hermes instalado, envie os documentos de treinamento <strong>um por um no Telegram do seu agente</strong>, esperando a resposta entre um e outro. Se precisar instalar pelo Claude ou Codex, baixe o pacote do plano B abaixo.</p><div class=\"dl-list\"><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--coral)\">1</span><div class=\"dl-info\"><div class=\"t\">Instalador Hermes · Plano B</div><div class=\"d\">Pacote com prompt e script para o Claude ou Codex conduzir a instalação na sua VPS.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/instalador-hermes-plano-b.zip\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--teal)\">2</span><div class=\"dl-info\"><div class=\"t\">Segurança da Naia</div><div class=\"d\">Blindagem contra vazamento e uso indevido.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-1/02-seguranca-da-naia.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--mustard)\">3</span><div class=\"dl-info\"><div class=\"t\">Comportamento e Personalidade</div><div class=\"d\">Como ela fala, age e se apresenta.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-1/03-comportamento-e-personalidade.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--denim)\">4</span><div class=\"dl-info\"><div class=\"t\">Regras da Naia</div><div class=\"d\">O que ela pode e o que nunca deve fazer.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-1/04-regras-naia.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--lavender)\">6</span><div class=\"dl-info\"><div class=\"t\">Isolamento de Dados</div><div class=\"d\">Seus dados separados e protegidos.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-1/06-isolamento-de-dados.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--coral-2)\">7</span><div class=\"dl-info\"><div class=\"t\">Onboarding · Entrevista do Dono</div><div class=\"d\">Depois deste, você diz <strong>\"pode começar\"</strong> e responde a entrevista com calma. É a parte mais importante.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-1/07-onboarding-entrevista-do-dono.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div></div><p class=\"note\">O arquivo 5, sobre criação dos subagentes, pertence ao Dia 2.</p></section></div>"
+    },
+    {
+      "id": "imersao-dia-2",
+      "n": 18,
+      "section": "Gravação Imersão",
+      "title": "Dia 2",
+      "subtitle": "",
+      "kind": "page",
+      "view": "imersao",
+      "video": null,
+      "material": "<div class=\"imersao-root\"><div class=\"gv-video\"><video controls controlsList=\"nodownload noremoteplayback\" disablePictureInPicture oncontextmenu=\"return false\" preload=\"metadata\" playsinline poster=\"/covers/imersao-dia-2.webp\" src=\"https://assets.cdn.filesafe.space/sVzQ1MyiOqQn2e6Yuzu1/media/6aba4b87c13d4373c2dd181b.mp4\"></video></div><section class=\"step step-wide\"><div class=\"step-head\"><span class=\"step-num n-coral\">D2</span><h2>Dia 2 · Subagentes da Naia</h2><span class=\"release-pill\">Downloads liberados</span></div><p>Envie cada arquivo no Telegram da sua Naia, um por vez, esperando a confirmação antes do próximo.</p><div class=\"dl-list\"><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--teal)\">1</span><div class=\"dl-info\"><div class=\"t\">Juliana · Operações</div><div class=\"d\">Subgerente operacional, design e coordenação do time.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/01-juliana-ops.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--coral)\">2</span><div class=\"dl-info\"><div class=\"t\">Clone do Dono · SDR</div><div class=\"d\">Atendimento, qualificação e registro de leads.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/02-clone-do-dono-sdr.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--mustard)\">3</span><div class=\"dl-info\"><div class=\"t\">Paulo · Desenvolvedor</div><div class=\"d\">Código, API, deploy, infraestrutura e debug.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/03-paulo-dev.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--lavender)\">4</span><div class=\"dl-info\"><div class=\"t\">Jonathan · Copy</div><div class=\"d\">Copy, roteiros, conteúdo e pesquisa.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/04-jonathan-copy.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--denim)\">5</span><div class=\"dl-info\"><div class=\"t\">Conectar Clone no Instagram</div><div class=\"d\">Configuração do clone no Instagram pelo Zernio.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/05-conectar-clone-no-instagram.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div></div></section><section class=\"step step-wide\"><div class=\"step-head\"><span class=\"step-num n-teal\">D2</span><h2>Dia 2 · Skills de produção</h2><span class=\"release-pill\">Downloads liberados</span></div><div class=\"dl-list\"><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--denim)\">1</span><div class=\"dl-info\"><div class=\"t\">Criação de Landing Pages</div><div class=\"d\">Método para construir landing pages.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/29-metodo-criacao-landing-pages.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--teal)\">2</span><div class=\"dl-info\"><div class=\"t\">Criação de Propostas</div><div class=\"d\">Método para transformar uma call em proposta comercial.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/30-metodo-criacao-propostas.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--coral)\">3</span><div class=\"dl-info\"><div class=\"t\">Carrossel para Instagram</div><div class=\"d\">Criação e publicação de carrosséis.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/09-carrossel-instagram-publicacao.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div><div class=\"dl-item\"><span class=\"dl-badge\" style=\"background:var(--coral-2)\">4</span><div class=\"dl-info\"><div class=\"t\">Bônus · Edição Sanduíche Econômico</div><div class=\"d\">Edição de vídeo curto com baixo consumo de créditos.</div></div><a class=\"dl-btn\" href=\"https://api-apostila.denderson.ai/api/imersao/downloads/dia-2/06-bonus-edicao-sanduiche-economico.md\" download><svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 3v12\"></path><path d=\"M7.5 10.5L12 15l4.5-4.5\"></path><path d=\"M4 19h16\"></path></svg><span>Baixar arquivo</span></a></div></div></section></div>"
+    },
+    {
+      "id": "extras",
+      "n": 19,
+      "section": "EXTRAS",
+      "title": "EXTRAS",
+      "subtitle": "Podcasts e conteúdos extras",
+      "kind": "manual",
+      "view": "extras",
+      "video": null,
+      "material": ""
+    }
+  ]
+}

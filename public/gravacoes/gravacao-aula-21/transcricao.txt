@@ -1,0 +1,546 @@
+COMUNIDADE AVALANCHE · AULA 21
+Edição de vídeo com IA: Claude Code e Codex, da skill ao vídeo pronto
+Gravada em 05/10/2026 (segunda-feira, 20h) · 1h55
+
+Transcrição automática gerada pelo Zoom. Nomes próprios e termos técnicos podem
+aparecer escritos de forma errada (por exemplo "Naya" no lugar de "Naia", "Cloud"
+no lugar de "Claude" e "Rei Jam" no lugar de "HeyGen"). O tempo entre colchetes
+marca o minuto da gravação, use como atalho para voltar no vídeo.
+
+[00:00:05] denderson.rodrigues: Bora lá, time, vamos começar oito. E um nosso tradicional encontro de segunda feira. Acho que semana passada não aconteceu, né? Porque eu estava viajando. Não foi isso. Bom, qualquer ideia aqui hoje nós vamos falar um pouquinho. Vou mostrar para vocês um pouquinho de como as inteligências artificiais avançaram na edição de vídeo. Tá, então eu tenho feito alguns testes aqui. Vou mostrar algumas coisas para vocês. E como que vocês podem replicar. Posso até depois mandar ou não alguma Skill meio que pré prontas. Mas é muito legal vocês começarem a aprender o rolê de criar as Skills de vocês. Sabe, posso mandar uma Skill pronta, posso? Claro, óbvio faz diferença. Mas aprender a criar, porque aí você cria baseado na tua necessidade, na tua realidade. E isso ajuda? Muito bom para a gente já ter um alinhamento. O que vocês precisam começar a entender quando eu vou falar de Cloud Code ou de Códex. Elas são a mesma coisa em qualquer lugar onde você use. Tá? Semana passada eu fiz a primeira aula de construção do nosso sistema.
+
+[00:01:33] Biancardi moda country: Angelina.
+
+[00:01:33] denderson.rodrigues: Lado do Grupo de Estudos.
+
+[00:01:34] Biancardi moda country: Não acha? Caso.
+
+[00:01:38] denderson.rodrigues: Eu fiz o nosso início da construção do nosso sistema lá do grupo de estudos. E durante a aula, o meu time me pontuou que a galera no chat, com bastante dúvida. Quando eu comecei a explicar e apresentar o Orca. Então, quem é do grupo de estudos. Está lá? A aula do Orca tem uma boa parte da aula que eu mostro o que é e como usar o Orca, mas eu também entendo que o orca de repente não é para todos vocês. Neste momento, alguns de vocês que nunca tiveram contato com o terminal. E eu super entendo. Tá time, porque há um ano e meio atrás, eu também nunca tinha aberto um terminal na minha vida. Primeira vez que eu abri um terminal com o intuito de usá lo para produzir algo com inteligência artificial. Não tem um ano e meio. Tem um pouco menos de um ano e meio. Então, quando a primeira vez que eu olhei o terminal, também fiquei super embanonado e está tudo bem. E vocês vão evoluindo pouco a pouco. Mas o que vocês precisam entender quando eu vou falar de Cloud Code. Vou falar de Codex. É a mesma coisa em qualquer lugar. Então está tudo bem se eu uso o terminal aqui e você vai usar aí o Cloud para desktop o Codex para desktop. Tanto que depois eu gravei uma introdução para a aula do grupo de estudos e coloquei lá. E fica aí mais uma vez o convite para quem é da comunidade e não é do grupo de estudos. O grupo está bombando semana que vem. Não, essa semana a gente vai terminar o o nosso Crm que gente começou a construir lá. Que está ficando top hoje. A ideia é falar um pouco de vídeo. E para falar de vídeo, nós vamos falar especificamente de dois modelos. Tá, nós vamos falar do modelo Opus cinco.cinco. E nós vamos falar do modelo Gpt Astra antes desses dois modelos, eu já vinha. Vocês sabem quem é da comunidade há mais tempo? Sabem que eu estou há meses trabalhando para ter boas Skills de edição de vídeo. Eu já tinha conseguido chegar numa Skill de edição de vídeo bem bacana, que estava funcionando vários vídeos meus de criativo de anúncio que eu estou rodando há meses para vender ingresso para imersão. Foram editados com Ia. Eu não tenho mais um editor de vídeo prestando serviço para mim. Já há alguns meses que eu nunca peço para ninguém editar um vídeo a não ser a inteligência artificial, mas agora no Opus cinco.cinco e no Astra, ela realmente deu um sal.
+
+[00:04:04] Fernando - Head NAIA: Tudo bem.
+
+[00:04:04] denderson.rodrigues: Deixa eu mostrar para vocês aqui algumas coisas. Quem está falando.
+
+[00:04:12] Fernando - Head NAIA: É que seu áudio tinha cortado aqui, mas voltou.
+
+[00:04:14] Rodrigo Braga: Seu áudio tinha cortado, mas voltou.
+
+[00:04:23] William Rodrigues: Só para eu saber se não é só comigo aqui. Picotou bastante para vocês quando o Dem estava falando ou não.
+
+[00:04:29] Rodrigo Braga: Não muito.
+
+[00:04:30] Fernando - Head NAIA: Sim, aqui também.
+
+[00:04:31] Jordy Amoêdo: Ficou muito.
+
+[00:04:32] William Rodrigues: Toma, Rousseff. Então acho que.
+
+[00:04:36] denderson.rodrigues: Fez um.
+
+[00:04:36] William Rodrigues: É a Internet, né? Kátia.
+
+[00:04:38] denderson.rodrigues: Altar do espírito.
+
+[00:04:38] Guto Campbell: Mas não perdeu o contexto. Não.
+
+[00:04:40] Valter: Bom dia.
+
+[00:04:41] William Rodrigues: É o contexto. Pegar bem tranquilo.
+
+[00:04:43] Valter: Obrigado, hein.
+
+[00:04:45] William Rodrigues: Falou que o Opus cinco.cinco e o Astra tá bombando aí o vídeo agora, né?
+
+[00:04:49] denderson.rodrigues: O salto. O salto. Quando chegou, o Astra já tinha ficado bom e o Opus cinco.cinco. Ele realmente veio. Bizarro. É bizarro o que elas estão fazendo? Ó, só para vocês terem uma ideia, eu abri hoje. Eu abri hoje a venda dos ingressos da próxima imersão, inclusive quem quiser convidar amigos, parentes, vizinhos. Essa é a hora. Depois eu mando o link lá na comunidade, e lá no grupo de estudos para quem quiser convidar alguém para participar da imersão. Olha isso aqui. Ó, isso aqui é um criativo que está rodando agora nessa captação. O que eu fiz aqui? Eu peguei um criativo que foi o campeão da imersão passada. Era um criativo que já estava editado pelas versões, pelas minhas skills anteriores. Peguei o bruto dele, a gravação bruta que eu fiz com o meu celular e só joguei para o Cláudio e pedi para ele editar. E aí, é claro que tem uma preparação aqui. Um briefing para ele entender que estilo usar os elementos que usar, como fazer. E nós vamos chegar lá ao longo dessa aula. Aqui vocês vão entender cada coisa que acontece numa edição como essa aqui para vocês conseguirem replicar. Tá? Mas olha o. Deixa eu ver se eu compartilhei com o com o som, mas olha o nível que chegamos de edição de vídeo. Dá uma olhada nisso.
+
+[00:06:21] Audio shared by denderson.rodrigues: Bom dia, Naya. Bom dia, chefe. Tudo bem? Tudo bem. Me fala. Como é que foi a venda de ingressos da imersão de ontem. Vendemos vinte e seis ingressos, investimos seiscentos reais em tráfego e todos já estão no grupo oficial abordando a imersão show naia me fala quem você é? O que você faz? Eu gerencio digital. Transformo suas ideias.
+
+[00:06:35] Jordy Amoêdo: A tela Brother.
+
+[00:06:36] Rodolfo Nascimento: Até a tela.
+
+[00:06:38] Jordy Amoêdo: A gente tá vendo a tua tela? A gente tá vendo a tua tela e não o vídeo.
+
+[00:06:43] denderson.rodrigues: Ah, compatível.
+
+[00:06:44] William Rodrigues: Nele nenhuma tela preta aí.
+
+[00:06:45] denderson.rodrigues: Ah, tá. Compartilhei a tela errada. Agora Sim.
+
+[00:06:54] Audio shared by denderson.rodrigues: Bom dia, Naya. Bom dia, chefe. Tudo bem? Tudo bem. Me fala. Como foi a venda de ingressos da Emerson de ontem, vendemos vinte e seis ingressos. Investimos seiscentos reais em tráfego e todos já estão no grupo oficial abordando a inversão show naime. Fala. Quem você é, o que você faz? Eu gerencio sua operação digital, transformo suas ideias em tarefas, e garanto que o time entregue no prazo perfeito. Quem que é seu time? Meu time tem o Jonathan Ocup, Juliana no design Eline Page, Paulo no desenvolvimento clone da Enderson, tráfego e Instagram Rafael organizando projetos. E Davi no Sdi de vendas pelo Whatsapp. Você falou que tem um clone meu que faz tráfico. Consegue fazer tráfego, plataformas, meta Google e Tiktok. Pô. Que legal. Me fala um pouquinho sobre as tarefas que cada pessoa do seu time consegue, de fato realizar. Para mim. Jonathan escreve cópias de anúncio, páginas e propostas. A Juliana Kea, as artes, caboçais e Lanny Page já no ar. O Paulo desenvolve automações e sistemas quando precisa. O clone da Anderson opera as campanhas de tráfego e o Instagram. O Rafael acompanha prazos e entregas. E o Davi atende, qualifica e agenda os livros no Whatsapp. Ah, entendi. Me fala um pouquinho. Então, como é que faz para ter uma agente igual? Você é só participar da inversão que acontece nos próximos dias e custa menos que uma pizza. É só aplicar e saiba mais. E se cadastrar. É isso.
+
+[00:07:58] denderson.rodrigues: Galera. Só pra vocês entenderem o peso que tem isso aqui? Tá, ó, deixa eu abrir meu Instagram, deixa eu abrir, meu Instagram. Meu perfil. Vamos rolar o meu perfil bem lá para baixo. Deixa eu ver se a gente demora muito para chegar aqui. A gente estava no comecinho quando eu comecei a brincar com o Ia para editar vídeo, né? Olha o nível da animação passando aqui embaixo. Isso aqui já foi editado cem com o Claudio aqui. Eu ainda não editava isso aqui foi eu grotescamente ruim no Cap Cut. Mas eu quero. Antes aqui nem existia inteligência artificial agêntica aqui. Eu estava vendendo a formação avalanche de ar que eu ensinava a fazer vídeo e imagem. Está vendo videozinho com véu três. Mas não é isso que eu quero mostrar. Não aqui é um vídeo feito com Ia, mas não é editado. Foi gerado com Ia. Depois eu fiz o corte eu mesmo, que é picante, trocando os personagens e coisa e tal. E eu sou péssimo. Tá galera. De que é picante? Eu sou bem ruim mesmo. Mas esse vídeo aqui na época já deu um Hypezinho. Quinhentos pessoas curtiram e tal. Eu usei para fazer anúncio aqui também. Vídeo feito com Ia, mas não é isso que eu quero mostrar. Não vamos voltar um pouco mais atrás na vida aqui. Ó aqui, isso aqui, galera. Presta atenção nesse vídeo. Esse vídeo. Ele é um recorte de uma palestra. Então eu estava dando uma palestra. Peguei essa palestra, mandei para o meu editor de vídeo e ele pegava a palestra assistia dentro da palestra. Ele identificava momentos que poderiam ser bons recortes. Um bom recorte geralmente é um momento que tem contexto, começo, meio e fim. E que dura até hoje até três minutos. O Instagram recomenda. Mas na época, até um minuto e meio que a gente buscava ter ali até um minuto e meio, com contexto, começo e meio e fim esse vídeo, por exemplo. Super simples, tá? Ele só encontrou um trecho da minha palestra. Recortou, legendou, fez corte de silêncio. Tem um recuozinho que ele aplica ali. Eu sempre paguei galera por esse tipo de vídeo. Aqui entre cem e cento e cinquenta reais. Então, como que esse tipo de vídeo era feito. Eu pegava uma palestra minha. Essa palestra deve ter tido uns cinquenta minutos de duração. Mandei para o cara. No final, o cara me devolveu um pack com quinze ou vinte vídeos. E eu paguei para o cara cem reais por cada cento e vinte reais por cada vídeo. Sempre foi assim. E durante muitos anos, muitos anos. Quantos Denderson? Sei lá, uns seis anos da minha vida. Eu tinha de dois a três caras que faziam esse tipo de edição de vídeo para mim, aqui já o assunto já era. Ia no meu perfil. Quero chegar aqui. Na época, antes da Ia, quando eu falava só de pós graduação de lançamento e coisa e tal, porque para vocês verem que tinha muito esse tipo de conteúdo no meu perfil. Muito, muito, muito aqui. Evento que eu fiz. Presencial para falar de pós graduação. Eu tinha uma mentoria de pós graduação, tinha? Não tenho cento e cinquenta pessoas dentro dela, mas esse tipo de vídeo me deu muito resultado durante muito tempo. Recorte de palestra. Isso aqui é um vídeo editado por um editor. Mesma coisa. Pegou um corte de algum vídeo maior, meu, de uma palestra minha, e fez alguma inserção de alguns elementos e tudo mais. E esse sempre foi um processo galera. Bem custoso de ser feito sempre foi um processo bem custoso de ser feito. Ó, esse aqui não é uma palestra, é um vídeo que provavelmente eu gravei intencionalmente. Mandei para o editor para ele fazer a finalização, para eu poder postar. Sempre foi um processo muito demorado um processo que, para ter um vídeo bacana. Assim, eu gravava e mandava. Eu pegava as palestras e mandava, e o cara demorava às vezes, isso aqui provavelmente é recorte de Live Live no Instagram que o cara faz o recorte. Encontra o gancho, faz os cortesinhos, insere os elementos, a legenda e cem reais por vídeo. Mas não é só o fato de pagar ou não pagar os cem reais por vídeo aqui. Quando eu tinha o time lá, que eu sempre falo para vocês. Que eu tinha um salão cheio de vendedores aqui. Provavelmente a galera estava fazendo uma Live enquanto eu estava dando um treinamento, e devia ter umas trinta pessoas nesse treinamento aqui. Vendedores novos contratados, enfim. E tudo isso virava conteúdo. Depois, para Instagram, recorte para Instagram mais recorte de palestra. Aí, hoje, a gente tem esse nível de edição igual. Eu acabei de mostrar para vocês. Olha esse vídeo que eu postei aqui. Acho que há um dois dias atrás. Ai, cabelo. Qual foi? Será que é esse esse. Olha esse vídeo.
+
+[00:12:58] Audio shared by denderson.rodrigues: Mortais que ainda estamos aprendendo Ia. Não estamos vendo o que você pode falar. Você está aqui diante de uma oportunidade de um megafone. Dá um aviso para nós, ok, normais, como diz lá no repórter, nós trouxas não os bruxos. O que nós não estamos vendo que você no seu mergulho. Está vendo que você gostaria de alertar para a gente? Acho que o primeiro passo é jogar de lado a descrença. Talvez a Ia não serve pra mim. Talvez Iá não serve para o meu negócio. O seu negócio hoje usa ferramentas digitais para poder existir, prosperar, vender mais, atender o teu cliente a Ia resolve das suas demandas. Aí o primeiro passo que precisa ultrapassar. É o passo que muita gente olha pra Ia. Muita gente vê o amigo do lado, usando ou escuta algum caso de alguém que usou vê um vídeo de alguém que falou que dá pra fazer alguma coisa. E aí pensa: É complexo demais. Eu não vou conseguir. Todo mundo consegue a Ia é um chat. Você vai abrir um chat e vai conversar com ela. Que tá do outro lado, seja no chat do navegador, seja no aplicativo da empresa que você vai usar, seja no terminal do computador. A Ia é um chat, abre o chat e pergunta: Abre o chat e joga o que a gente chama de briefing. Minha empresa é essa. Eu faço isso. Meu resultado é esse. Os meus clientes recebem isso. Meu suporte funciona assim: joga a informação e fala. Como é que você pode me ajudar e ela vai começar a te apontar os caminhos. Aí você vai estudar. Você vai estudar, você vai estudar e você vai chegar no ponto que eu cheguei, eu me tornei um maníaco compulsivo por inteligência artificial. Eu só falo isso. Eu só faço isso. Eu estudo isso todo o tempo. Se eu não estiver num date com a minha esposa. Se eu não estiver brincando com meu filho, eu estou no meu computador estudando e fazendo as minhas paradas. Agora, a pergunta que eu te faço, o que você.
+
+[00:14:13] denderson.rodrigues: Eu fui palestrar agora no Rio Grande do Sul. Aí, no meio do evento, enquanto a galera saiu para o almoço. O Bruno falou: Pô, vamos gravar um podcast. Montaram um cenário improvisado lá, ali, na área onde o evento estava acontecendo mesmo, e a gente gravou um podcast de cinquenta minutos. Eu cheguei aqui com o podcast e joguei para o Claudio e falei para ele assim: ó transcreve o podcast e encontra para mim momentos que tem contexto, começo, meio e fim. E que tenha, no máximo, até um minuto e meio, ou, no máximo, até dois minutos. Eu tolero e me diz quantos momentos desses você encontrou no vídeo. Aí ele pegou e gastou lá uns trinta minutos transcrevendo e procurando. Depois ele voltou e falou: ó, encontrei vinte e um momentos, falei: tá Bom, agora usa Skill X e edita para mim e cara pasma em uma hora e meia. Eu tinha no drive uma pasta com vinte e um vídeos prontinhos para eu testar, para eu postar esse vídeo aqui, por exemplo, já bateu uns quatro mil Views. Então imagina aquele podcast se eu postar os vinte e um e cada um bater cinco mil views vai me gerar cento e vinte mil visualizações no meu Instagram vai me gerar uma quantidade de X de seguidores. Eu posso pegar os que performarem melhor e apertar o botão de turbinar e colocar tráfego pago visando alcançar mais pessoas, trazer mais gente qualificado tem um outro que encaixa até como anúncio para poder vender ingresso da imersão, porque durante a minha conversa com o Bruno, em todo o podcast, falamos muito da Naya e do que essa gente faz. Então a gente chegou num nível hoje, que tem uma facilidade muito grande. A gente vai fazer hoje. Eu vou mostrar para vocês um pouquinho dessa edição acontecendo em tempo real. Então eu vou usar aqui. Ó o Cloud Code no terminal. Mas você aí que ainda não chegou no terminal não se preocupa com isso. Abre o teu Cláudio para desktop e vai funcionar do mesmo jeito. Depois nós vamos fazer o mesmo teste com Astra. Mas por enquanto, vamos começar pelo Clause. Chegamos naquele momento, Denderson, eu não assino o Cláudio. Eu só tenho a opinar. Galera. Chegamos naquele momento da nossa vida que ter uma assinatura do Cloud, ter uma assinatura da Openai. São ferramentas de trabalho. São indispensáveis para o nosso trabalho, indispensáveis para a nossa vida. Se a gente quer trabalhar no mercado digital, se a gente quer vender se a gente quer prosperar. A nossa empresa, nosso produto, nosso serviço, ou se a gente quer prestar serviço para outra pessoa. Não temos mais para onde correr essas duas plataformas, no mínimo, são de extrema necessidade que a gente tenha de extrema necessidade. Então, o que eu fiz aqui, para quem ainda não chegou. Agora não entendeu? Eu só abri um terminal do cloud e eu vou mudar o modelo aqui. Ó para opus cinco.cinco. Então opus cinco.cinco. Eu nem vou mudar o nível de esforço, tá? Ele tá no médium. Tá vendo? Aqui ó esforço médium. Eu poderia dar um barra e forte aqui e mudar para o raio, mas vou deixar no médium mesmo, tá? O que a gente vai fazer? Prestem bastante atenção. Eu tenho já algumas Skills que eu vou explicar para vocês o que acontece em cada etapa da Skill. Depois eu até posso de novo mandar Skill para vocês. Pronta? Não tem problema de mandar, mas a sacada principal, a sacada principal é vocês aprenderem o processo. E olha quem está ensinando para vocês. Não é um editor de vídeo, tá? Não é um editor de vídeo. Se você é ou conhece algum editor de vídeo, esse cara deve estar tendo resultados até melhores que os meus. Tá, então eu vou fazer o seguinte. Eu vou gravar. Deixa eu colocar aqui o microfone no meu iphone, microfone no meu iphone, e eu vou gravar um vídeo colocar aqui, no meu. No meu suportezinho de celular, na minha mesa. Deixa aí o me posicionar aqui. Presta atenção no roteiro que eu vou gravar no que eu vou falar durante o roteiro.
+
+[00:18:29] Vicente Gomes: Períodos de que confirma.
+
+[00:18:32] denderson.rodrigues: Eu sou o Denerson Rodrigues. E eu quero que você edite esse vídeo aqui para mim. Então o que você vai fazer primeiro. Nós temos uma Skill aqui dentro do Cloud, onde eu te ensino a editar. É uma Skill de edição de vídeo chamada Avalanche novo padrão. Você vai usar essa Skill para editar esse vídeo. Então você acabou de entender que a transcrição desse vídeo é o Prompt de comando. Do que eu quero que você faça na edição desse vídeo. Primeiro, eu quero que você aplique o corte seco em todas as pausas e em todos os silêncios do vídeo. Depois eu quero que você coloque um recuo de zero,cinco segundos de uma faixa do vídeo para outra, para que a próxima frase inicie no finalzinho da outra, sem cortar a sílaba, sem cortar a palavra. Eu quero também que tudo que eu estou falando, e tudo que eu estou te explicando apareça a explicação feita com animação de hyperframes na tela. Então, por exemplo, quando eu falei para você cortar, fazer recuo, aplicar o recuo na faixa de um vídeo para o outro, eu quero uma ilustração disso passando para quem está vendo o vídeo beleza, eu também quero que você coloque imagens geradas com Gpt e Meiji dois.cinco da Openai através da nossa rota de Wallt da assinatura, para não pagar a Api por cada imagem gerada. E eu quero uma imagem aparecendo na tela a cada cinco segundos. E eu também quero que, a cada dois segundos e meio tenha uma animação. Resumindo, não pode passar mais do que dois segundos sem ter um elemento, uma animação ou uma imagem na tela do cliente, assim como manda nosso Skill. Então pega esse vídeo. Ah, aproveita. E durante todo o vídeo, quando não tiver nenhuma ilustração mais bacana, coloca, muda o meu cenário atrás de mim, muda o meu cenário para um escritório pós apocalíptico, assim como a gente já usa no nosso Squad de personagens do avalanche. Então edita esse vídeo para mim. E aí.
+
+[00:20:29] Vicente Gomes: Ótimo.
+
+[00:20:31] denderson.rodrigues: Então vocês perceberam o que eu fiz, né? Eu gravei um vídeo. Só que o que eu falei no vídeo é o que eu quero que ele faça no vídeo. Então vamos jogar pra ele e vamos ver como vai ficar. Eu vou mandar aqui para o. Para o meu computador.
+
+[00:20:44] Vicente Gomes: Muito bem música. Por isso você pode ficar com câncer.
+
+[00:20:54] denderson.rodrigues: Vou mandar para o meu computador chegou. Eu vou só pegar e colar ele aqui no terminal. Chegou o vídeo aqui. Eu só peguei e arrastei para cá. E eu vou avisar ele. Ó transcrição do vídeo do vídeo é o prompt do que eu quero que você faça com este vídeo. E eu vou postar. Ele tá galera no meu Instagram pra gente ver o que ele vai fazer agora? Para vocês entenderem para quem nunca editou um vídeo com o Ia. O Cláudio tem mecanismos para ele poder transcrever esse vídeo. Você pode ter um modelo chamado Iceper da Openai local no teu próprio computador, ou se o Cláudio, assim como o meu, tem uma chave Api da Openai. Ele usa esse modelo da Openai, chamado Iceper, que baixa a transcrição, palavra por palavra de vídeos como esse aqui. Essa transcrição é o Cláudio. Vai usar da seguinte maneira. Primeiro, dentro do cloud. Deixa eu abrir o chat aqui que eu não sei o que vocês estão falando. Dentro do Cloud. Ele tem uma outra Skill chamada Vídeo. Use essa aula. Galera é uma aula que a maioria de vocês vai precisar assistir de novo a gravação. Tá com calma, com paciência para ir anotando. O que eu estou falando, e praticando dentro do cloud do meu Cloud. Ele tem uma outra skill chamada Video. Use essas que o vídeo use. Ela tem um editor de vídeo dentro dela. Todos os editores de vídeo do mundo. Eles trabalham em cima de um backend chamado Ffm Peg, que é um editor de vídeo basicão que é para fazer corte, para fazer reposição para ter a linha do tempo. A Timeline do vídeo ali. Então todos os editores de vídeo foram montados em cima desse Sfm. Peg, como a gente gosta no mercado de A, o Ff Lpg. Ele é open source, ok? Ele é open source. Então você pode pedir para o Cláudio ou para o Coldax instalar uma chamada video use. Ele tem esse editor de vídeo. Esse editor de vídeo, galera. Ele é um editor de vídeo sem visual. A gente não consegue ver. Ele roda em background. Tá.
+
+[00:23:30] MARKIN: E a gente.
+
+[00:23:31] denderson.rodrigues: Não consegue ver.
+
+[00:23:33] MARKIN: Ele tem toda razão.
+
+[00:23:34] denderson.rodrigues: Porra! Tem alguém com o áudio vazando ali, galera. E aí sempre me pega essa parada.
+
+[00:23:42] Ricardo IA Studio: Tem alguém que eu até ver.
+
+[00:23:43] denderson.rodrigues: Então ele usa. Então baixou a transcrição. Coloca o vídeo lá. A transcrição. Ele faz duas coisas com ela. A transcrição. Ele usa primeiro para mapear cada palavra que foi dita e depois ele usa para entender onde é que tem pausas. Onde é que tem respiros. Porque quando ele baixar a transcrição, ele vai colocar ela numa timeline em cima do vídeo, e ele consegue ver. Aqui eu estou falando. Então o vídeo está passando aqui. Eu parei de falar. Então não tem nenhuma palavra. Mas o vídeo continua passando. Então ele entende que tem uma pausa, tá? O que eu pedi para ele fazer aqui? Ó, eu pedi para ele fazer corte seco aonde ele achar uma pausa ou um silêncio ou uma respiração, ele faz um corte seco. Ó, ele já baixou a transcrição. Ele já entendeu, que era para chamar Skill. Porque eu falei isso no vídeo. Está vendo? Ele já entendeu que era para ativar Skill, porque eu falei isso no vídeo. E aí ele vai fazer o corte seco. O recuo. O que é o recuo? Imagina o seguinte. Aqui. Eu terminei uma frase beleza. E aqui eu comecei outra frase. Então ele vai pegar esse intervalo que tem entre uma coisa e outra e vai cortar e vai juntar. Só que em vez de ele juntar assim, ele coloca assim, ó um pouquinho para trás. A próxima frase ele coloca um pouquinho para trás da última. Assim, ele mantém uma fluidez no vídeo e ele garante que quando está acabando, uma fala já começa próxima. Então, não tem pausa, não tem respiração. O vídeo vai num tiro só do começo ao fim. Ó, a edição começou a rodar em segundo plano. Então ainda não tenho nada pronto para mostrar. Transcrevi o vídeo e a transcrição. Virou as instruções da edição, seguindo a Skill Avalanche. Novo padrão, corte seco em todas as pausas, com recuo zero,cinco segundos entre as frases animações, cada coisa que você explica no vídeo aparece animada na tela, incluindo o corte e o recuo entre as faixas, imagens, uma imagem de Gpt e meio de dois.cinco a cada cinco segundos, gerada pela rota ou alt da assinatura sem pagar api ritmo, uma animação a cada dois.cinco segundos. Nunca mais de dois segundos. Sem elemento na tela cenário, nos trechos só de câmera. O fundo atrás de você vira o escritório pós apocalíptico do Sqared, Avalanche Velocidade no final, um.três. Isso aqui. Eu nem falei no vídeo, mas está na Skill e eu escolhi o tema anime, que é o padrão da Skill. Porque o vídeo não diz qual usar. Eu deveria ter dito porque dentro da Skill tem vários estilos. Tá aí, vamos fazer outra coisa aqui. Vamos abrir outro terminal. E nesse outro terminal, eu vou chamar o Coldax no Codex. Eu vou de novo dar um barra móvel e vou escolher o Gpt3 Astra, o Gpt ex Astra. Eu vou colocar no High no alto. Não vou deixar ele do médium? Não. E vou fazer a exata mesma coisa que a gente fez com o Claudio que aí depois, no final, a gente compara quem editou melhor, tá, ó não, não é isso que não. Tocando de Mac Studio de Denderson. Ah, tá cheio do lugar errado. Puxei do lugar errado. Então vou pegar aqui e vou jogar aqui, beleza. Ok? Em paralelo, galera em paralelo, em paralelo, nós vamos fazer o seguinte. O que você quer que eu faça? Quero que você transcreva o vídeo e a transcrição. É exatamente exatamente o prompt que você vai usar para editar o vídeo a Skill que eu menciono na transcrição está no Cloud Code deste Mac. Pegue lá e adapte para o seu modelo com o Codex. Eu fui um pouco além porque a Skill que eu quero que ele use. Eu não tenho no Codex. Só está no Cloud. Então eu pedi para ela pegar a Skill do Cloud só para vocês entenderem. O Coldax e o cloud. Eu estou usando ambos com as assinaturas. Então o Cloud está logado na minha máquina com a minha assinatura da antrópica do Cloud Code. O Cold é que está logado na minha máquina com a minha assinatura do chat Gpt os dois estão no mesmo ambiente, instalados no mesmo disco rígido, ok, eu não trabalho com Docker. Eu não isolo os meus agentes na minha máquina. Então o Codex consegue ir no Cloud e pegar qualquer coisa do Cloud para ele. E o Cloud consegue ir no Codex, pegar qualquer coisa para ele. Eu consigo inclusive pedir para um agente terminar o que o outro começou. Eu já fiz isso várias vezes. Por exemplo, outro dia, eu estava fazendo uma coisa com o Kimi e o quimi acabou o limite de cinco horas. Isso aí é resetar. Depois de duas horas, eu abri o Coldax, falei. Tem uma sessão do quimi aberta nesse computador. Procure ela. Ela travou por falta de limite de uso. Continue de onde ele parou. O Cold foi lá. Entendeu tudo que eu conversei com ele naquela sessão, assumiu a tarefa e terminou ela para mim. Então essas facilidades vocês também conseguem ter. Depois que vocês começam a entender um pouco esse jogo das llms instaladas na sua máquina. Então, beleza aqui. Eu tenho o Cloud fazendo uma edição, certo? E o Coldax fazendo outra edição. Beleza. Vamos colocar um pouco mais de pimenta nesse negócio aqui. Deixa eu puxar o manai aqui para a conversa. Vamos pegar aqui a Naya Opus primeiro. Eu vou falar para a Naya. Senhora, pesquisa para mim. Ah, não. A Naya já tinha feito. Não vou falar, Naya. Pesquisa para mim. Não vamos fazer isso aqui. Vamos fazer isso aqui. Eu ia pedir para ela pesquisar uma notícia, mas às vezes ela demora dez minutos para trazer uma notícia. Então eu já tinha mandado para ela uma parada aqui. Vamos aproveitar essa aqui que eu ia fazer. E acabei não terminando. Eu mandei para a Naya, um link de um carrossel do Instagram que eu vi no perfil de alguém. É um carrossel. Falando da eleição, um carrossel falando da eleição beleza. Ok, vamos voltar para a Naya. Eu falei para a Naya Naya, nosso estilo de vídeo com narração e geração de imagem e animação. Quero que você transforme esse carrossel em um vídeo. Então eu pedi para ela pegar, baixar esse carrossel, ler todos os card do carrossel, entender o card do carrossel. Eu deixei claro para ela que eu não quero copiar o carrossel do cara. Então era para ela entender o que estava acontecendo no carrossel e escrever um roteiro para mim, não era para ela copiar. Era para ela entender e escrever um roteiro para mim. Aí ela escreveu o roteiro e me mandou. Ok, aí eu vou falar para ela assim, agora, ó agora gera gera o áudio desse roteiro e me manda para eu ver como vai.
+
+[00:31:17] Alex Guimarães: E aí?
+
+[00:31:18] denderson.rodrigues: Ficar. Então vamos recapitular, pedir para ela pegar um carrossel que eu gostei no perfil de alguém falando de eleição, esse. Muito provavelmente eu não vou postar. É só para demonstração mesmo porque eu não falo de política no meu perfil, porque sempre dá merda. Então eu pedi para ela pegar um carrossel, entender o carrossel, ver todos os cards ler, o que está escrito no carrossel inteiro e escrever o roteiro para mim a partir daquele carrossel beleza. Ela escreveu o roteiro está aqui o roteiro, um roteiro falando do Bolsonaro do Lula e blá, blá, blá, blá, beleza. Agora, eu pedi para ela transformar esse roteiro num áudio. Então ela vai gravar um áudio com a voz dela desse roteiro perfeito. A voz da Naya. Eu uso o modelo do Google. Então ela tem a chave Api do Gemini e eu uso o modelo até semana passada. Eu usava o Gemini três.cinco tts. Agora eu uso o Gemini três.oito tts, que é uma voz extremamente realista. Então ela vai transformar isso aqui num áudio. Beleza. Aí a gente volta aqui quando ela terminar, vai me dando status com a vida.
+
+[00:32:36] Audio shared by denderson.rodrigues: Isso e.
+
+[00:32:37] denderson.rodrigues: Já foi feito a cada cinco minutos. Ó, esse aqui baixou o áudio baixou. A transcrição está salva. Encontrei a Skill no Cloud Code e vou adaptar uma cópia para executar os cortes, as animações explicativas e a troca do fundo pedidos na fala já foram gerados quatro imagens pela rota do Alt, incluindo o escritório pós apocalíptico, a rota em forma Gpt em mês de dois codeques. Então não posso confirmar a versão dois.cinco citada na fala. Não, você vai usar Gpt e Meiji dois.cinco. Atualize a rota. Os arquivos foram preservados e já tem doze imagens geradas. Abre as imagens em uma galeria no Mac para mim. Deixa eu ver. Onde é que ela vai abrir aqui as imagens para eu achar. Cara, eu estalei uma parada aqui no meu Mac, que chama coco de vocês. É muito louco. Ó, as imagens que ela já gerou aqui. Ó que ela vai usar no vídeo. Vamos dar uma olhadinha. O escritório pós apocalíptico que eu pedi isso aqui. Provavelmente vai aparecer no vídeo em algum momento. Isso aqui vai aparecer no vídeo em algum momento. Olha que muito louco aqui. Ela provavelmente ela está mostrando isso na hora que corta o áudio. O recuo que eu expliquei. Bem, legal. Muito legal.
+
+[00:34:39] Ricardo IA Studio: Denderson. Desculpa, qual que era o nome que você acabou de falar? Que você instalou.
+
+[00:34:44] denderson.rodrigues: O cucu.
+
+[00:34:46] Ricardo IA Studio: Call. Qual.
+
+[00:34:47] denderson.rodrigues: C O U C O U. Ele não é um agente, tá? Ele é um monitorzinho. Ele fica aqui na minha tela, um bonequinho aqui em cima e ele fica monitorando os meus terminais. Então, quando o terminal acaba alguma coisa, eu me entrego alguma coisa, ele aparece a mensagem e ele é um bonequinho que fica aqui olhando para um lado, olhando para o outro. É bem legalzinho. Essas iats são muito engraçadas. Então gerou algumas imagens aqui. O escritório pós apocalíptico. Ó, que legal. Vamos ver o que vai sair aqui. A Naya está gerando o áudio. Vamos voltar para o terminal. Aqui. Os cortes terminaram. A fala passou de os cortes terminaram. A fala. Passou de cento e dezanove segundos para cento e três segundos com vinte e três cortes e o recuo de zero,cinco segundos. Estou usando as Skills, Openai Docs e. E mês de Jean para atualizar a rota. Tá ok, Cadê o terminal do Cláudio? Vou te mandar o status a cada cinco minutos, enquanto a sessão estiver aberta. Status agora fonte convertida para um.oitenta, fala limpa, feita. Silêncios cortados, recuo de zero,cinco transcrição. Mas a prova do corte ainda não foi conferida. Imagens de referência do scared separadas, placas do escritório, pós apocalíptico em geração pasta criada. Nenhuma imagem pronta. Ainda falta fazer roteiro de bits, imagem das cenas, troca do fundo, render e um,três. Então nós vamos ter uma edição do Cloud, uma do Codex e Na Naya. Nós estamos fazendo outra coisa. Tá? Quando o terminal da Naya, eu explico também quando o terminal da Anaya. Eu explico também. Kessya não se preocupa com o terminal, tá, esquece isso. Continua usando onde você está acostumado no Cloud para desktop e no chat Gpt para desktop. Ok, ó aqui, ó Cláudio, nosso amigo tá? Eu poderia estar fazendo a mesma coisa aqui, gente, só vem aqui para a aba código. Estou no chat aqui. Mudei para o código. Ok, aqui. Eu estou no chat do Cláudio aqui. Eu estou no código. Eu poderia ter jogado aquele vídeo aqui que ia funcionar do exato mesmo jeito. A mesma coisa com o chat Gpt. Mesma coisa com o chat gpt.
+
+[00:37:43] Audio shared by denderson.rodrigues: E aí?
+
+[00:37:44] denderson.rodrigues: Então é só mudar aqui para Codex. Tá vendo aqui? Eu estou no chat Gpt aqui. Eu mudei pro Codex, que é o agente de código? Era só jogar o vídeo aqui e fazer a mesma coisa que ia dar do mesmo jeito. Acho que a Naya me mandou o áudio. Vamos ver isso. Para quem? Assim como eu. Galera, faz anúncio daqui a pouco. Eu vou explicar por que eu estou fazendo isso aqui com a Naya? Para vocês entenderem, tá? Para quem faz anúncio, cara? Depois que você está rodando anúncio por um tempo e descobriu qual. Que é o seu criativo. Bom, porra, velho. Antigamente, a gente tinha um trabalho muito grande pra gravar mais, gravar de novo. Agora você pode só pegar o mesmo vídeo bruto, pedir para ela editar em dez estilos diferentes, e você tem dez anúncios diferentes. Ou fazer como eu fiz aqui. Aqui, deixa eu mostrar para vocês. Deixa eu mostrar para vocês.
+
+[00:38:44] Audio shared by denderson.rodrigues: Agora o Cloud.
+
+[00:38:45] denderson.rodrigues: Olha isso aqui. Ó, isso. Aqui, agora.
+
+[00:38:48] Audio shared by denderson.rodrigues: Claude e.
+
+[00:38:49] denderson.rodrigues: No Instagram. Isso aqui, ó, é um carrossel lá.
+
+[00:38:52] Audio shared by denderson.rodrigues: Agora o Claude.
+
+[00:38:54] denderson.rodrigues: Cadê meu Instagram? Deixa eu achar esse carro zero para vocês verem aqui. Ó cadê, cadê Cadê tá chegando! Olha esse carrossel aqui no meu Instagram. Olha o resultado que ele me deu. Galera. Ele teve um total de seis mil curtidas, quinze mil comentários. Quase dezasseis mil comentários. Ele foi compartilhado. Nem sei quantas vezes ele foi compartilhado. Nem sei quantas vezes compartilhamento sete mil vezes salvamento cinco.quatrocentos vezes seguidores, um.duzentos e trinta. Então foi um carrossel que deu muito certo? Muito resultado é um carrossel. Já faz tempo que eu postei. Eu tava. Falando de como colocar o Claudio para atender no Instagram. Eu só peguei esse carrossel e joguei pra Nay e falei: Naya.
+
+[00:39:52] Audio shared by denderson.rodrigues: Inteligência.
+
+[00:39:53] denderson.rodrigues: Chama mais carrossel num vídeo. Olha o resultado final.
+
+[00:39:55] Audio shared by denderson.rodrigues: Agora o Cloud, a inteligência artificial da antropode. Ele escreve a resposta e a plataforma entrega para o seu cliente. Tá vendo? Para você ter ideia antes, você dependia de um social seller. Aquela pessoa que conversa com Led até marcar a call e social Seller desmotiva, falta e esquece o follow up. Agora, o Cloud faz a conversa do início ao fim. Pergunta: no que o negócio é focado quanto a pessoa fatura qual gargalo ela quer resolver. E agenda a ligação de venda vinte e quatro horas por dia, sete dias por semana. Olha que absurdo. Ele responde do seu jeito na plataforma. Tem um campo para o Prompt. A mensagem do sistema ali você escreve o seu tom, a sua forma de vender a sua oferta e os seus preços. O manual que você entrega para o funcionário novo. Qual é essa plataforma? Comenta, Claude, que eu te mando no Direct o passo a passo para fazer a conexão ainda hoje.
+
+[00:40:49] denderson.rodrigues: Então um carrossel que deu um puta resultado. Agora virou um vídeo que eu ainda nem postei. Fiz. Hoje à tarde. Vou postar, deixar ela terminar de gerar o áudio aqui. Cadê meu áudio, minha filha? Vamos ver se tem alguma coisa aqui terminada. Enviei as duas imagens para prevalização. Tá? Os cortes são as versões anteriores. Está atualizando para Gpt doiscinco, que vai ficar melhor. Ainda. Ok, vamos ver o aqui. Status fala limpa, pronta. Troca de fundo em andamento. Script de segmentação montado, máscara extraída e um quadro de mostra composto nenhuma placa de escritório. Essa máscara extraída que ele está falando aqui é porque eu pedi para ele mudar o cenário atrás de mim. Então ele tem que me recortar em um determinado trecho do vídeo. Então ele faz o recorte. O nome disso é máscara. Segue trabalhando, segue trabalhando. E a Naé? Cadê o áudio, Linda? Já respondo, Fábio, a tua pergunta, ó, mandou o Wall.
+
+[00:42:24] Audio shared by denderson.rodrigues: Bolsonaro está preso em casa. O partido dele acabou de eleger a maior bancada desde a constituição de dezoito e oito. Em dois mil dezoito foi diferente. Flávio Bolsonaro ficou em primeiro com quinze e seid, virgula, um milhões de votos lula, quinze e três, virgula oito milhões. Flávio fez mais voto no primeiro turno do que o pai fez em dezoito e em vinte e dois no Congresso. O Pl elegeu cem, vinte e um deputados, um recorde no Senado, elegeu dezanove e vai a vinte e oito bastante para pedir uma Cpi sozinha, e o Nicolas Ferreira e o Lucas Pavanato passaram de três milhões de votos cada, mas presta atenção. No outro lado, oito ex ministros do Lula perderam a eleição entre eles Haddad Marina Silva, Simone, Tebet e Gleisi Hoffmann. Já a família Bolsonaro, entrou. Michelle e Carlos no Senado Jair Renan e Renato na Câmara, e tem a conta. Segundo o gastometro do Estadão, os gastos de ano eleitoral chegaram a três, cem, vinte e oito, virgula, nove bilhões. Governo diz que são ações indispensáveis, não eleitorais. Só que o Lula terminou o primeiro turno. Em segundo segundo turno é dia cinto de Outubro. Segue o perfil pra acompanhar. Agora me diz. Bolsonaro, não pôde ser candidato. Três filhos. A mulher e o irmão dele foram. Voto. Foi no homem ou na ideia.
+
+[00:43:21] denderson.rodrigues: Beleza. Agora vamos usar a Skill novo padrão para transformar esse áudio em um vídeo com com o estilo anime, anime, não cinema, 3d clima. Vamos usar clima noturno. Cidade pós apocalíptica. Eu gosto desse teminha.
+
+[00:44:05] Val Capasso: Dois dedos.
+
+[00:44:07] denderson.rodrigues: Não tem problema, gente não encana com erro de português. Eu erro o dia inteiro porque eu digito muito rápido e ela entende. Está tudo bem. Vida que segue. E quero que você use imagens reais dos personagens, todos citados no roteiro. Use Gpt e Mage dois.cinco com os personagens reais e me entregue o vídeo. Pronto, este vamos fazer sem regener, somente imagens e animações. Depois eu explico o porquê do Rei Dean. Tá? Depois eu explico o porquê do Hey, Jim. Vamos ver como é que está aqui. Me dá um status Bora. O Fábio perguntou assim: pergunta de leigo com a nossa imagem real. E com a nossa voz, ela consegue recriar outras versões consegue o que você tem que fazer. O Fábio Rei Jam. Então você vai fazer uma assinatura do Rei Jam e vai colocar para a Naya. Vai autenticar a Naya no seu Reijan. Igualzinho. A gente faz com o Cloud. Tem que autenticar ela no teu Reijang Clay lá no teu Cli da Hayden. Aí ela tem acesso a tua assinatura do Rei Jam para usar o teu crédito. Não pode fazer via Api. Paga do Reijan porque fica muito caro. Dá para fazer a exata mesma coisa usando Ricks Field ou a outra. Que o Ricardo gosta que eu sempre esqueço o nome. Mas eu aqui uso Rei Jim mesmo porque eu tenho uma assinatura lá. Eu pago lá cento e poucos reais lá. E eu tenho. Acho que seiscentos créditos por mês. Então você tem que entrar no Rei Jam ou pedir para a tua própria gente entrar e pegar uma foto tua. Tira uma foto bem bonita tua. Pede para ela criar um avatar cinco no Rei Jam um avatar cinco do Rei Jam. Beleza Avatar cinco. Criado no Rei Jam. Você vai pedir para ela pegar os trechos. Os trechos do vídeo que ela vai querer usar, você e a tua imagem e fazer o Lipsync com o teu avatar do Rei Jam aí para o áudio ficar exatamente com a tua voz. Você tem que clonar o teu áudio na Eleven lábis. Então tem duas plataformas a mais para poder fazer um avatar com a tua voz e com a tua cara. O áudio clonado na Eleven. Lábis e o Avatar para poder fazer o Lipsync com o áudio gerado no hater. Aí ela consegue gerar o áudio com a tua voz, gerar o avatar com a tua imagem e fazer a Skill com as animações, com as imagens, ilustrando as falas. E no final, ela entrega um vídeo como se fosse você. Eu não gosto. Tá de fazer vídeo com o meu avatar. Apesar de a gente já estar num nível.
+
+[00:47:15] Audio shared by denderson.rodrigues: Fica bem.
+
+[00:47:15] denderson.rodrigues: Bem. Bom, eu ainda não gosto. Eu prefiro não, Naya. Fechado. Vou montar o vídeo com a Skill do novo padrão modo narração sobre a narração que você aprovou sem rei, Jam, só imagens e animação. Usa o nosso tema cinema clima que você escolheu com o clima noturno e a arte de cidade pós apocalíptica em todas as cenas, as pessoas citadas entram pelas imagens reais delas. Bom para esses vídeos ficarem prontos. A gente vai demorar aqui? Sei lá, mais uns dez, quinze minutos. Então, enquanto isso, eu vou explicar qual foi o processo que eu usei para montar. Essa Skill aprendeu isso? Entendeu isso? Você consegue criar qualquer esquil para qualquer processo, e nunca mais fica esperando o tio Day mandar uma Skill pronta para você, beleza? Primeiro de tudo, eu não sou editor de vídeo. Então eu fui lá no Claudio e falei assim: quando eu te mando um vídeo para você editar, qual é o processo que você segue? Aí ele me descreveu o processo, e eu fui entender. Para poder ter mais conhecimento sobre o processo de edição de vídeo. Então ele falou primeiro. Eu abro o vídeo no Ffmpeg do vídeo. Use aí. Eu transcrevo o vídeo usando o iceberg. Então eu tenho vídeo no editor e tenho a transcrição, palavra por palavra. Aí eu identifico as pausas, as respirações, os recuos. Eu faço um corte seco nessa pausa. Aí eu elimino aquele espaço onde tem vídeo, mas não tem fala quando? Depois de muito tempo, depois que eu já editava, há meses, foi que eu entendi? A parada do recuo do vídeo não colar um no outro. Assim ele colar assim que aí a palavra a frase de uma para outra transição de uma frase para outra fica mais fluida. E eu só aprendi isso quando eu mandei ele assistir uma Vsl. Mas isso é assunto lá para o grupo de estudos que a gente vai falar de Vsl lá. Aí eu mandei ele fazer o recuo colocar em cima. Então, beleza, eu entendi o processo que ele gasta pra editar o vídeo. Ok, aí eu falei pra ele, Cláudio. A gente aprendeu por uma Vsl ser muito dinâmica. E isso se aplica a um vídeo rios do Instagram. Eu preciso que a cada dois segundos, dois segundos. Tenha um elemento na frente da pessoa ilustrando a fala do locutor que está no vídeo da pessoa que está aparecendo no vídeo. Então, a cada dois segundos do vídeo, tem que ter um elemento em movimento na tela. Seja uma imagem, seja uma animação, seja um elemento animado em cima de uma imagem, mas a cada dois segundos, precisa ter uma coisa aí. Eu mandei um vídeo para ele de trinta segundos para fazer o teste. Ele fez todo esse processo. Ele transcreveu, cortou as pausas dos silêncio. O vídeo baixou de trinta segundos para vinte e seis. E aí ele gerou uma quantidade de imagens para poder ilustrar as cenas como eu falei para ele que a cada dois segundos eu precisava ter um elemento na tela. A imagem não fica mais do que dois segundos na tela. E eu pedi para ele mesclar entre imagem e animação com hyperframes. Aí o hyperframes é mais uma skill dentro desse pacote de Skills Hyperframes. É uma Skill que é da própria. Não sei se é do Riggs Field. Eu não lembro qualquer empresa que lançou hyperfams, mas é uma dessas empresas aí de vídeo.
+
+[00:50:28] Lucas Lima Mendonça Alves: Do Rei James.
+
+[00:50:29] denderson.rodrigues: Rei Jenny, né? Rei de R. O Ricardo, que falou Rei Jan. Então ele pega o hiper framers e faz animações. E essas animações com hyperframers, que deram um salto gigantesco do modelo Opus anterior para o Opus cinco.cinco. Elas ficaram absurdamente boas aí, ele fez o vídeo para mim. Trinta segundos de vídeo. No final, ele me entregou um vídeo de vinte e seis segundos e ele me deu o relatóriozinho. Bem bonitinho. Ó chefe, foi feito. O corte seco foi aplicado. O recuo foi tirado X, pausas e x silêncios. Depois eu gerei x imagens. Usei o Gpt Imi de dois.cinco para poder gerar as imagens. Usei o Gpt usando a rota do o out da Opnai, para não pagar crédito extra para gerar essas imagens. E fiz x animações com hyperframes. No final, eu montei o vídeo todo. Fiz uma verificação assistindo frame a frame e te entreguei o vídeo. Pronto, transforma isso numa Skill. Aí ele transformou numa Skill beleza. Estamos na mesma página. Então, primeiro eu entendi o processo de edição de vídeo e fiz o teste com ele até eu chegar no teste que deu certo num vídeo de trinta segundos. Foram três ou quatro tentativas. Cheguei no teste que deu certo. Ele me entregou o vídeo que eu falei, caralho, esse vídeo ficou foda. Aí eu falei: transforma numa Skill. Aí ele transformou numa Skill chamada Skill Avalanche novo padrão, porque eu já tinha outra Skill chamada edição de Vídeo Avalanche. Aí nós criamos uma Skill nova chamada Avalanche, edição de vídeo novo padrão beleza. Só que aí, nessa primeira edição que ele me entregou, ele usou o meu modelo de imagem padrão, que é o meu modelo anime. Sou eu, a Naya. Os meus personagens. Anime num cenário que é um escritório futurista. E tem ali alguns elementos na parede. Alguns elementos flutuando na cena beleza. Chegamos nesse ponto. Temos esse estilo, e nós temos, e nós temos um estilo de edição de vídeo que funciona, mas que toda vez que eu acionar esse Skill, ela vai me entregar um vídeo com o mesmo layout beleza. E se eu quiser ter vídeo com outro layout aí eu fiz isso aqui. Ó, eu abri essa plataforma chamada Pinterest. Essa plataforma aqui. Ó, deixa eu entrar na minha conta aqui. Pronto, abri essa plataforma chamada Pinterest e comecei a procurar aqui imagens de referência.
+
+[00:53:00] Audio shared by denderson.rodrigues: E aí?
+
+[00:53:03] denderson.rodrigues: Imagens de referência. Então comecei a procurar imagens que eu gostava aqui. Pô, gostei dessa imagem aqui. Ó dessa menina, que cem certeza que foi gerada com Ia. Gostei do brilho, da luz, da luz, no óculos dela, do realismo, da pele dela, das sardas que ela tem. Já me apareceu várias outras imagens semelhantes a ela. Ok, vou baixar essa imagem aqui. Ó, baixar a imagem, beleza, vamos voltar. Pô. Gostei dessa imagem aqui desse homem aranha, meio gibi, meio quadrinho. Não sei o quê. Vou baixar essa imagem aqui. Também baixei essa imagem aqui. Ok, deixa eu pegar mais uma. Mais uma. Vamos fazer assim. Vamos pesquisar vintage. Não, Pink Blinders. Gosto muito dessa série? Não sei. Vocês. Pink Blinders. Será que é essa aqui? Não sei. Por que não apareceu mais referências aqui do lado? Será que é essa aqui? Ó essa! Gostei dessa puta imagem. Vou baixar aí o que eu comecei a fazer, galera, eu vim aqui no Cloud. Vim aqui no Cláudio para não atrapalhar a geração. Que está acontecendo aqui? Eu vou abrir. Eu vou abrir outro terminal. Outro terminal. Vou chamar o Claudi. Aí vou falar para o Cláudio assim. Ó, aciona a Skill Avalanche novo padrão. Ele vai acionar assim que ele aciona a Skill Galera. Ele já sabe o que tem nela. O que funciona aí eu vou falar para ele assim ó dentro dessa Skill tem vários estilos de edição, estilo que eu falo. É o layout. É o visual que ele vai me entregar no final, é o visual com o qual ele vai gerar as imagens e com o qual ele vai fazer as animações de hiper frame. Tá, ó dentro desse esquilo. Tem vários estilos de edição. Agora tem vários. Mas na primeira vez que eu fiz isso, só tinha um. Então, dentro desse esquilo tem vários estilos de edição. Eu vou te mandar três imagens e quero que você inspecione cada imagem e crie dentro da Skill três novos modelos de estilos de imagens, mais animação para edição dos meus vídeos. Aí eu vou pegar as três imagens, vou pegar as três imagens e vou arrastá las para cá. Um, dois e três no final. Me diga como é o nome desses estilos. Me dê a lista final de todos os estilos que eu já tenho. E gere três imagens. Minha e Danaia nos novos estilos apenas nos três novos. Pronto, galera. Agora, vocês já entenderam como, primeiro criar a Skill, depois criar um estilo de edição, e a partir daí, você pode ir procurando imagens de referência que você goste. E você pode ter quantos estilos de layout você quiser para os teus vídeos ficarem Editados. Vamos ver aqui se a gente tem já alguma coisa aqui. Ó, o vídeo não foi entregue. O trabalho parou no passo três porque a rota ou alt de imagem passou a recusar as chamadas no meio do rumo. Será que o Coldax caiu? A chamada me dá status.
+
+[00:57:51] Audio shared by denderson.rodrigues: E aí?
+
+[00:57:53] denderson.rodrigues: Quantas imagens falta? Caiu a conexão com o Coldax, por isso faltam as dezassete mais de dez cenas. Nenhuma foi gerada. Não foi conexão. Quando saiu, as duas placas do Fun saíram pela rota antiga. Então a sessão do Close estava funcionando. Eu não entendi. O Coldbacks da Máquina está ou não ativo.
+
+[00:58:40] Audio shared by denderson.rodrigues: E aí?
+
+[00:58:42] denderson.rodrigues: Então siga com a edição e geração das imagens. Porque parou? Tá vendo, galera? A Iara, que a gente acha que é uma máquina de inteligência. Às vezes ela é meio burra. Ele tentou gerar uma imagem que provavelmente deu erro, e ele parou no Codex, no astra, né? Trinta e um. Imagens já estão prontas. Trinta e um animações já estão prontas. Ah, tá. Emita o link e o código está pedindo para eu fazer login no codex que ele usa para gerar a imagem.
+
+[01:00:24] Audio shared by denderson.rodrigues: E aí?
+
+[01:00:29] denderson.rodrigues: Não está dando certo. Entendi eu que copiei errado. Não está dando errado. E aí ela puxou do Cláudio. Ela está achando que ela precisa de uma outra assinatura. Mas ela é Kodax. Que loucura, né? O Ricardo já está mandando as imagens. Eu estava olhando o chat com as imagens do Ricardo, achando que já eram as minhas, que ele já tinha aberto. Como que a Ia não é inteligência artificial. Ela é bem burrinha. Às vezes esse terminal é do Codex. É da Openai. Ela consegue gerar imagem dentro dessa sessão sem precisar de lugar nenhum. Mas ela estava usando a rota da Openai autenticada no Mac porque ela pegou a Skill do Cloud Code e na Skill do Cloud Code. Manda usar essa rota. Siga com a edição. Essa aqui está rodando a cada cinco minutos, vai me dar status. Comecei a criar os três temas novos dentro da Skill. Cada um está sendo feito por um agente separado em segundo plano. Os nomes que eu dei e mês de um vira colagem pop e mês de dois vira fumaça industrial e mês de três vira luz dourada. Cada tema leva as dezoito animações e as nove transcrições redesenhadas no estilo está criando aqui mais três estilos para a minha Eskill. Baseada nas imagens que eu mandei. Vamos ver a Naya. Se ela quer falar. Rodrigo levantou a mão. Pode falar.
+
+[01:03:22] Rodrigo Braga: Quero. Não, mano. Falei sem querer.
+
+[01:03:42] denderson.rodrigues: Agora é só esperar, galera eles terminarem. Imagens três e dezassete prontos aqui no Cloud, que foi o primeiro que a gente mandou o Prompt. Ele. Quando terminar as imagens, ele já vai montar o vídeo porque ele já está com o restante. Pronto, aqui. Ele também já gerou. Faltava algumas imagens aqui. Ele está adicionando três modelos na Skill aqui. Ela tinha parado. Ela ficou dez minutos parada porque ela falou que o nome da Gleisi Hoffmann pela metade pode ter saído com som meio americano. Bom, eu mandei ela seguir assim mesmo. Para a gente não perder mais tempo, dúvidas, perguntas. Levantem a mão pra eu ir respondendo umas duas, três perguntas até terminar tudo aqui pode falar. Tereza, pode abrir teu microfone.
+
+[01:04:58] Tereza Costa: Boa noite, Denderson Denderson. Eu não peguei logo no início. O vídeo que você mandou editar estava na sua página.
+
+[01:05:06] denderson.rodrigues: Desculpa. Viu por ter começado.
+
+[01:05:08] Tereza Costa: Não, eu estava na hora que você arrastou o vídeo. Só que eu queria saber se ele está no seu computador ou está na Vps.
+
+[01:05:19] denderson.rodrigues: Eu gravei. Não no meu computador aqui. Tudo que eu tô fazendo tá no meu computador. Mentira essa Nay aqui.
+
+[01:05:25] Tereza Costa: Sim.
+
+[01:05:26] denderson.rodrigues: Eu estou fazendo um vídeo agora. Essa Naya está na Vps. Mas essa Nay. Eu não mandei um vídeo para ela. Ela vai gerar o vídeo inteiro com imagem e animação a partir do roteiro e do áudio que ela gerou. Então essa aqui. Eu não mandei nenhum arquivo para ela. Ela que vai me mandar no final. O vídeo. Pronto.
+
+[01:05:40] Tereza Costa: Se eu tenho um vídeo no meu computador, só que a minha Ax já está na minha Vps.
+
+[01:05:47] denderson.rodrigues: O caminho natural é o drive. Você coloca o vídeo no drive, manda o link do vídeo no drive para ela baixar na Vps e editar. E lembra sempre de, depois que ela terminar de editar, pedir para ela deletar da Vps, porque senão ela enche o disco Vps porque os vídeos são muito pesados. O Jonathan e o Davi vivem enchendo a minha Vps de vídeo. Eu tenho que ficar pedindo para a Nayar deles Deletar depois.
+
+[01:06:09] Tereza Costa: Valores uma vez. Então, no caso, eu não consigo fazer ela editar o vídeo sem precisar sair da minha máquina. Eu tenho que levar.
+
+[01:06:19] denderson.rodrigues: Mas não.
+
+[01:06:19] Tereza Costa: Vídeo para Vps. Correto ou não?
+
+[01:06:22] denderson.rodrigues: Vamos lá. A Nay editou vídeo onde ela está no caso aqui dos terminais. Eu estou com o terminal do Cloud e um terminal do Codex. Eles estão editando no meu computador. Que é onde eles estão. A Naya, que está fazendo um vídeo está fazendo lá na Vps? Onde ela está? Essa Naya é uma Naya que está numa Vps. Aí. Ela está fazendo esse vídeo lá.
+
+[01:06:43] Tereza Costa: Entendi. Então, resumindo, eu não consigo fazer com que ela edite mesmo com o drive no drive. Eu não consigo fazer ela editar ele dentro do meu computador sem levar.
+
+[01:06:53] denderson.rodrigues: Não, porque ela não está no seu computador.
+
+[01:06:56] Tereza Costa: Compreendo. Era essa a dúvida.
+
+[01:06:58] denderson.rodrigues: Não está no seu computador. Ela está numa Vps. Você fala com ela pelo Telegram? Ela não tem nenhum contato com o seu computador.
+
+[01:07:04] Tereza Costa: Tá certo. Tá bom. Obrigada.
+
+[01:07:07] denderson.rodrigues: Ela edita o vídeo no ambiente onde ela está para você ter uma Naya editando o vídeo no seu computador, você precisaria instalar a Naya no seu computador, entendeu? Pode falar, Kessya.
+
+[01:07:21] Kecia: Me desculpe. Se for muito iniciante. Eu estou entendendo o que você está fazendo. Usando os modelos que a gente já tem dentro do chat Gpt Codex e o outro lá no outro que eu não assinei ainda, mas vou assinar. Já me convenceu aí o que acontece? O que eu quero entender é porque sempre se menciona muitas outras coisas, como aquele. Para poder fazer o vídeo, eu preciso instalar outras coisas. É isso que eu não entendi.
+
+[01:07:56] denderson.rodrigues: Que é.
+
+[01:07:57] Kecia: Mpf.
+
+[01:07:58] denderson.rodrigues: O processo todo, de criação desse vídeo.
+
+[01:08:00] Kecia: E aí?
+
+[01:08:01] denderson.rodrigues: Isso no processo todo de criação desses vídeos que eu estou fazendo aqui tem algumas Skills que estão instaladas depois eu vou mandar para vocês do grupo lá. Um relatório é só pedir para a Naya ou para o Claudio que eles mesmos instalam tudo o que precisa no caso do Rei Jam e da Eleven Lábis. Foi uma resposta para a pergunta do Fábio que o Fábio perguntou: e se eu quiser fazer com o meu vídeo e a minha voz? Aí eu falei: Você vai precisar acrescentar no processo e a Eleven lábis. Mas se você quiser fazer que nem eu estou fazendo aqui com avatares zero necessidade de Hayden e eleva em lábis, porque aí o Rei Dean e Eleven lábis são outras duas ferramentas pagas que precisam entrar no processo. Mas quem quer fazer com o próprio Avatar ou com o avatar de uma pessoa que atende algum cliente eleva em lábis para clonar a voz e poder gerar áudio com a voz daquela pessoa e o Rei Jam, para poder ter o Avatar cinco e poder clonar a pessoa e transformá la num vídeo falando? Aquele áudio que gerou com a eleva em lápis.
+
+[01:08:58] Kecia: E todos eles que você vai mandar são gratuitos. Não precisa de uma assinatura. É isso.
+
+[01:09:04] denderson.rodrigues: As Skills que o Codex estão usando dentro do processo de geração de vídeo. Todas são gratuitas, o que é pago a própria assinatura do cloud e do Codex. E para poder gerar a imagem também, ou você paga, ou se você estiver fazendo com o Codex. Você consegue pedir para ele gerar as imagens? Porque dentro do Codex, ele tem os modelos de imagem downpenhar. Então ele gera pela assinatura sem precisar pagar.
+
+[01:09:30] Kecia: Ok, isso mesmo. Obrigada.
+
+[01:09:31] denderson.rodrigues: Quando terminar a aula, eu vou pedir para a Naya fazer uma listinha de todo o processo e mando lá no grupo para vocês. Aí vocês conseguem tentar replicar com as viagens de vocês? Eu não vou mandar a Skill pronta porque eu preciso que vocês aprendam a fazer. Ok, aí eu vou mandar só o processo. Tudo que é usado. Qual que é o passo a passo? Vocês vão para os agentes de vocês e tentem reproduzir o processo e criar as Skills de vocês para conseguir não só aprender editar vídeo. Mas aprender o processo de criar um padrão, de criar uma Skill, aprender o processo de criar um padrão, de criar uma Skill. Gente. Vocês conseguem replicar isso para qualquer cenário, não só para edição de vídeo Landing Page, como que eu faço uma Landing Page faz tudo, tudo. No final, o processo ficou perfeito. Gostou do resultado? Pede para transformar numa Skill. A partir do momento que transformou numa skill galera. Ela replica só de você falar ativa Skill X. Eu tenho Skill de Landing Page. Tem alguns modelos de Landing Page que eu gosto muito cara. Eu consigo replicar o mesmo layout de Landing Page permanentemente em qualquer página que eu quiser. Só peço para ela ativa. A Skill tal. Está aqui o texto da Landing Page faz para mim a Landing Page com as imagens X, e ela faz. Vamos ver se tem algum processo terminado aqui. Não.
+
+[01:10:46] Sony Dourado: Bom dia.
+
+[01:10:47] denderson.rodrigues: Ó dezasseis de dezassete imagens prontas. Está quase acabando aqui. O Opus, o Claudi. A renderização completa está em andamento. O meu Mec já começou a fazer aquele barulhinho de quando está renderizando o vídeo aqui, você sabe, né? Do processador trabalhando e aqui, vamos ver se ele terminou ou não. Aqui é aquele terminal que ele está fazendo para a gente. Criando novos três estilos de. De de imagem. No final, eu pedi pra ele gerar três imagens dos meus Avatares com os estilos que eu dei pra ele pra gente ver se vai ficar bem fiel. Quer fazer outra pergunta, Tereza? Você esqueceu a mão levantada.
+
+[01:11:41] Tereza Costa: Não, não quero fazer a pergunta. Não, só quero cumprimentar o que você acabou de falar. E é nessa parte que eu aprendi mesmo aqui com você, tipo a Skill que serve para você às vezes você não sabe, para mim.
+
+[01:11:52] denderson.rodrigues: Exato.
+
+[01:11:53] Tereza Costa: O tipo de vídeo que eu faço não é o mesmo. Então, como você falou, vou pegar os meus vídeos, criar do mesmo jeito. Depois eu. Quando ela fazia Skill, essa parte eu não sabia porque eu criei várias coisas, mas eu não sabia que eu poderia transformar em um skill.
+
+[01:12:09] denderson.rodrigues: Eu sou mais que o.
+
+[01:12:10] Tereza Costa: Obrigada.
+
+[01:12:10] denderson.rodrigues: Sempre que você tem um processo que você faz com o seu agente. E o agente serve para a Naya. Ou serve para quem está usando o próprio Cláudio, o próprio Codex na assinatura, seja no terminal, seja no aplicativo de desktop, se tem um processo que você já faz. Está bem refinadinho. E você gosta do resultado? É só pedir para ele transformar aquele processo numa Skill quando você transforma em Skill, você consegue inclusive mudar, jogar, instalar em outra gente, mudar de dispositivo. Enfim. E tudo fica gravado na memória dele. A Skill é uma maneira dele gravar a habilidade permanentemente. Nunca mais esquecer. Se você não dá a ordem, transforma isso em Skill, ele acaba não transformando. E aí, às vezes tem que falar. Lembra daquele processo. Lembra daquele vídeo? E nem sempre ele vai achar com assertividade. Então, transformar em Skill é o caminho para ficar registrado na memória dele. Um processo passo a passo. Eu, Denderson, tenho muito cuidado com essa parada de Skill. Porque tem Skill para tudo, né? E a maioria das coisas não precisa ser uma Skill para mim, Skill é uma metodologia. É um processo repetitivo que tem começo, meio e fim, como por exemplo, editar Video Reels. Então agora eu tenho o Skill que eu mando para ele o vídeo. Escolho o estilo e ele edita ou mando uma Live grande para ele. Ele pega, procura os cortes. E edita! Quer ver? Vamos fazer esse teste enquanto ele está editando. Aqui vamos no Youtube, mostrar para vocês uma paradinha. Aqui vamos no Youtube. Eu tava assistindo esse podcast aqui do Joel. Mas vamos procurar um outro vídeo qualquer aqui. Ó, será isso aqui do Tiago pegar um vídeo não tão longo para poder do Lula não pegar esse aqui do Denilson, que eu gosto dele. É um vídeo de onze minutos. Então eu posso vir aqui pegar esse vídeo aí eu posso voltar no terminal. Vou abrir mais um terminal. Vou chamar o Claudio de novo. E eu posso falar para ele assim. Ó, baixa esse vídeo, transcreve e encontre pelo menos dois courts com contexto. Começo meio e fim. Não, Edite. Apenas encontre, corte e abra os dois cortes no Mec. Dá para você fazer muito corte assim de produtos de coisas do teu nicho e coisa e tal. Deixa eu ver se alguém me entregou alguma coisa aqui. Não entregou. Não entregou.
+
+[01:15:13] Audio shared by denderson.rodrigues: E aí?
+
+[01:15:15] denderson.rodrigues: O tema oito. Fumaça industrial está pronto. E passou no teste rápido em vertical fumaça industrial. Acho que é o do Pink Blinders que ele está andando numa rua. Tem uma indústria atrás. Tem fumaça saindo. O tema nova e luz dourada ainda está saindo aqui. É o novo que a gente pediu para ele para ele encontrar os cortes no vídeo do Denilson. As imagens estão todas prontas agora. Eu acho que ele já está finalizando o vídeo. Me dá status. Pode falar. João João levantou a mão. João faria.
+
+[01:16:20] Joao Faria: Eu peraí. Tô tomando cor aqui, tá, beleza. Boa noite. Boa noite, pessoal.
+
+[01:16:26] denderson.rodrigues: Demais.
+
+[01:16:27] Joao Faria: Ô Denis.
+
+[01:16:27] denderson.rodrigues: No meu.
+
+[01:16:28] Joao Faria: Estava pensando qual seria as melhores ferramentas para eu conseguir fazer? Sabe aqueles vídeos do Tiktok que é tudo inteligência artificial, experimentando roupa, experimentando um produto e tal.
+
+[01:16:44] denderson.rodrigues: O melhor caminho para fazer aqueles vídeos com agentes assim, tá? Dá para o teu agente uma Api da Riggs Field ou a própria Pi do Gemini. Aí você vai pedir para ela usar os modelos ou Sidence dois.cinco ou o véu três.um. Esses dois modelos vão ficar muito bons aí. Primeiro, você pede para ela gerar imagem. Então pega a foto do produto. Ah, eu quero fazer vídeo dela fazendo um anúncio desse microfone. Então pega esse microfone, manda a foto para ela e fala para ela assim. Faz uma modelo com uma roupa assim, assim, assim assado no cenário, assim, assim, assim assado, segurando esse microfone como se ela fosse apresentar o microfone. Aí ela vai fazer a foto. Pede para ela gerar umas três, quatro. Depois que você escolher a foto que você gostou só fala para ela agora transforma essa imagem num vídeo usando o véu três ou usando o Sidence dois.cinco. E eu quero que ela fale o seguinte texto. Na apresentação.
+
+[01:17:46] Joao Faria: Mais uma coisa. A assinatura do Google tem que ser de Api. Ou dá para ser o Alt também igual o Cloud e o Gemini que a gente.
+
+[01:17:56] denderson.rodrigues: Google para você usar o Google no agente. É só. Via. Só via Api. Não tem via assinatura.
+
+[01:18:05] Joao Faria: Tem um plano lá, mas não vai ser útil. Então valeu.
+
+[01:18:11] denderson.rodrigues: Valeu, velho Tamo, junto. Ó galera! Esse aqui que eu pedi pra ele encontrar o corte. Ele encontrou três cortes, ó. E já abriu os cortes, inclusive aqui. Ó.
+
+[01:18:20] Audio shared by denderson.rodrigues: Uma coisa que mudou muito desde a minha chegada com o Fernando. Ele falou assim: você tem que cuidar do time. Ele me deu essa responsabilidade. Quem quer cuidar do time, cuidar do time.
+
+[01:18:30] denderson.rodrigues: Enfim, não vou assistir os três courts, mas só para vocês entenderem, vocês podem pegar qualquer vídeo do Youtube, mandar o agente cortar.
+
+[01:18:38] Audio shared by denderson.rodrigues: E aí apareceu um cara espetacular. Fernando Diniz de São Paulo depois de três. Maravilhoso por quê?
+
+[01:18:46] denderson.rodrigues: Agora eu poderia pegar esses três cortes e falar. Aplica a minha Skill. E edita me entrega. Pronto para eu postar no Instagram. Ela ia localizar eles aqui, ó, em cada cena do vídeo para manter eles centralizados e editar do jeito que a gente já viu ela fazendo do jeito que a gente está vendo ela fazendo nas nossas outras tentativas e pronto, eu teria três cortes. Imagina que eu tivesse um Instagram que falasse de futebol. Eu podia passar a vida inteira fazendo isso, cortando vídeos do Youtube desses podcasts da galera do futebol. E todo dia postando dez vídeos no meu Instagram. Vamos fechar esse terminal aqui, porque era só para vocês verem mesmo. Não sei por que não está fechando essa droga aqui. Ele terminou. Ele não gerou as três imagens porque deu problema no Gpt. Mais uma vez, ele falou que deu problema no Gpt.
+
+[01:19:59] Audio shared by denderson.rodrigues: E aí?
+
+[01:20:11] denderson.rodrigues: Deixa eu ver se eu consigo autenticar aqui. Agora não, esse ninguém não está autenticando. Não, você tem que me dar o link de. De a autenticação. Mais código de validação. Esse aí não funciona, mas tá bom. As imagens eram só para ele girar no final, mas basicamente, ele criou três estilos, inclusive ele já está me falando. Quais estilos que eu tenho? Então eu tinha três até o oito. Aqui. Ele criou o nove, o dez e o onze. Vamos ver se ele vai me dar esse link que eu preciso para autenticação aqui. Agora. O vídeo editado está pronto. Abre o vídeo no Mac. Abre o vídeo bruto original e abre o editado. Então o Cláudio terminou. Vamos ver o resultado.
+
+[01:21:27] Audio shared by denderson.rodrigues: E aí?
+
+[01:21:28] denderson.rodrigues: Vamos ver o resultado. Então vamos lá. Primeiro. O vídeo Bruto sem edição.
+
+[01:21:44] Audio shared by denderson.rodrigues: Cláudio. Eu sou o Denerson Rodrigues, e eu quero que você edite esse vídeo aqui para mim. Então o que você vai fazer primeiro. Nós temos uma Skill aqui dentro do Cloud, onde eu te ensino a editar. É uma Skill de edição de vídeo chamada Avalanche novo padrão. Você vai usar essa Skill para editar esse vídeo. Então você acabou de entender que a transcrição desse vídeo é o pronto de comando do que eu quero que você faça na edição desse vídeo. Primeiro, eu quero que você aplique o corte seco em todas as pausas e em todos os silêncio do vídeo. Depois eu quero que você coloque um recuo de zero,cinco segundos de uma faixa do vídeo para outra, para que a próxima frase inicie no finalzinho da outra, sem cortar a sílaba, sem cortar a palavra. Ok, eu quero também que tudo que eu estou falando e tudo que eu estou te explicando apareça a explicação feita com animação de hyperframes na tela. Então, por exemplo, quando eu falei para você cortar, fazer recuo, aplicar o recuo na faixa de um vídeo para o outro. Eu quero uma ilustração disso passando para quem está vendo o vídeo? Beleza, eu também quero que você coloque imagens geradas com Gpt e Meiji dois.cinco da Openai, através da nossa rota de o out da assinatura para não pagar a Api por cada imagem gerada. E eu quero uma imagem aparecendo na tela a cada cinco segundos, ok? E eu também quero que a cada dois segundos e meio tenha uma animação. Resumindo, não pode passar mais do que dois segundos sem ter um elemento, uma animação ou uma imagem na tela do cliente, assim como manda a nossa Skill. Então pega esse vídeo. Ah, aproveita. E durante todo o vídeo, quando não tiver nenhuma mais bacana, coloca, muda o meu cenário atrás de mim. Muda o meu cenário pra um escritório pós apocalíptico, assim como a gente já usa no nosso Squad de personagens, logo a lanche. Então edita esse vídeo pra mim.
+
+[01:23:11] denderson.rodrigues: Agora vamos ver o editado.
+
+[01:23:13] Audio shared by denderson.rodrigues: Cláudia. Eu sou o Denderson Rodrigues e eu quero que você edite esse vídeo aqui para mim. Então o que você vai fazer primeiro. Nós temos uma Skill aqui dentro do Cloud, onde eu te ensino a editar. É uma Skill de edição de vídeo chamada Avalanche novo padrão. Você vai usar essa Skill para editar esse vídeo. Então você acabou de entender que a transcrição desse vídeo é o pronto de comando do que eu quero que você faça na edição desse vídeo. Primeiro, eu quero que você aplique o corte seco em todas as pausas, em todos os silêncio do vídeo. Depois eu quero que você coloque um recuo de zero,cinco segundos de uma faixa do vídeo para outra, para que a próxima frase inicie no finalzinho da outra, sem cortar a sílaba sem cortar a palavra. Ok, eu quero também que tudo que eu estou falando e tudo que eu estou te explicando apareça a explicação feita com animação de hyper frame na tela. Então, por exemplo, quando eu falei pra você cortar, fazer recuo, aplicar o recuo na faixa de um vídeo para o outro. Eu quero uma ilustração disso passando para quem está vendo o vídeo? Beleza, eu também quero que você coloque imagens geradas com Gpt e Meij dois.cinco da Openai, através da nossa rota ou out da assinatura para não pagar a Api por cada imagem girada, e eu quero uma imagem aparecendo na tela a cada cinco segundos, ok? E eu também quero que a cada dois segundos e meio tenha uma animação. Resumindo, não pode passar mais do que dois segundos sem ter um elemento, uma animação ou uma imagem na tela do cliente. Assim como manda a nossa Skill. Então pega esse vídeo. Ah, aproveita. E durante todo o vídeo, quando não tiver nenhuma ilustração mais bacana, coloca, muda o meu cenário de mim. Muda o meu cenário pra um escritório pós apocalíptico, assim como a gente já usa no nosso squad de personagens do avalão. Edita esse vídeo pra mim.
+
+[01:24:34] denderson.rodrigues: E aí, gente bizarro, não é? Não é insano, velho? Isso aqui. Fala aí, Jonathan. Quanto tempo a gente sofreu? Meu irmão com editor de vídeo pra entregar criativo pra gente, mano. É muito bizarro. Vamos ver se o terminou. Acho que o Codex terminou também.
+
+[01:25:09] Audio shared by denderson.rodrigues: E aí?
+
+[01:25:10] denderson.rodrigues: O Codex terminou. Abre no Mac. Vamos ver como ficou o do Codex. Pronto, ó, esse aqui. Vamos lá, ó, esse aqui, do lado esquerdo da tela é o do Codex. E esse aqui do lado direito é o do Cloud. Vamos assistir de novo o do Claudi.
+
+[01:25:32] Audio shared by denderson.rodrigues: Cláudia. Eu sou o Denderson Rodrigues, e eu quero que você edite esse vídeo aqui pra mim. Então o que você vai fazer primeiro. Nós temos uma Skill aqui dentro do Cloud onde eu te ensino a editar. É uma Skill de edição de vídeo chamada Avalanche novo padrão. Você vai usar essa Skill para editar esse vídeo. Então você acabou de entender que a transcrição desse vídeo é o pronto de comando do que eu quero que você faça na edição desse vídeo. Primeiro, eu quero que você aplique o corte seco em todas as pausas, em todos os silêncios do vídeo. Depois eu quero que você coloque um recuo de zero,cinco segundos de uma faixa do vídeo para outra, para que a próxima frase inicie no finalzinho da outra, sem cortar a sílaba, sem cortar a palavra. Ok, eu quero também que tudo que eu estou falando e tudo que eu estou te explicando apareça a explicação feita com a animação de hyper frame na tela. Então, por exemplo, quando eu falei para você cortar, fazer recuo, aplicar o recuo na faixa de um vídeo para o outro. Eu quero uma ilustração disso passando pra quem tá vendo o vídeo? Beleza? Eu também quero que você coloque imagens geradas com Gpt e Mage dois.cinco da Openai através da nossa rota ou out da assinatura para não pagar a Api por cada imagem gerada. Eu quero uma imagem aparecendo na tela a cada cinco segundos, ok? De mim muda o meu cenário pra um escritório pós apocalíptico. Assim? Como a gente já usa no nosso squad de personagens do lavourão edita. Esse vídeo pra mim.
+
+[01:26:53] denderson.rodrigues: Vamos ver agora o do Códex.
+
+[01:26:54] Audio shared by denderson.rodrigues: Cláudia. Eu sou o Denderson Rodrigues. E eu quero que você edite esse vídeo aqui para mim. Então, o que você vai fazer primeiro. Nós temos uma Skill aqui dentro do Cláudio, onde eu te ensino a editar. É uma Skill de edição de vídeo chamada Avalanche novo padrão. Você vai usar essa Skill para editar esse vídeo. Então você acabou de entender que a transcrição desse vídeo é o pronto de comando do que eu quero que você faça na edição desse vídeo primeiro, eu quero que você aplique o corte seco em todas as pausas, em todos os silêncios do vídeo. Depois eu quero que você coloque um recuo de zero,cinco segundos de uma faixa do vídeo para outra, para que a próxima frase inicie no finalzinho da outra, sem cortar a sílaba, sem cortar a palavra. Ok, eu quero também que tudo que eu estou falando e tudo que eu estou te explicando apareça a explicação feita com animação de hyper frame na tela. Então, por exemplo, quando eu falei pra você.
+
+[01:27:34] denderson.rodrigues: Vocês acharam que está melhor.
+
+[01:27:40] Lucas Lima Mendonça Alves: Download? Sem dúvida.
+
+[01:27:42] denderson.rodrigues: Claudio. Sem dúvida. O Kolex teve um bom resultado. Tá? Daria para usar. Daria para postar. Mas o cloud cara surreal. O corte aqui, quando tem uma cena no fundo, no Codex, ficou meio ruim, meio falhado. A animação do Codex do Astra. Ele repetiu muito. Ficou o mesmo padrãozinho durante todo o vídeo. Já a animação do do Claudio. Cada animação é um tanto quanto diferente da outra.
+
+[01:28:10] Audio shared by denderson.rodrigues: Você cortar, fazer recuo, aplicar o recuo na faixa de um vídeo para o outro. Eu quero uma ilustração disso passando para quem está vendo o vídeo beleza. Eu também quero que você coloque imagens geradas com Gpt e Mage dois.cinco da Openai através da nossa rota ou out da assinatura para não pagar a Api por cada imagem gerada.
+
+[01:28:25] denderson.rodrigues: É isso? O Claudio? Muito melhor. Vamos ver se a Naya terminou o que ela estava fazendo. Mas espera aí que eu ainda preciso que esse camarada aqui, ó gere para mim as imagens que eu preciso ver, como ficou o novo estilo que eu mandei para ele criar.
+
+[01:28:46] Lucas Lima Mendonça Alves: De energia.
+
+[01:28:46] denderson.rodrigues: Do Sul.
+
+[01:28:47] Lucas Lima Mendonça Alves: Se você quiser. Só por curiosidade mórbida, na minha experiência, o seis.um só está tendo um desempenho muito melhor em algumas coisas do que o Astra, custando muito menos. Então, às vezes, se você quisesse testar.
+
+[01:29:00] denderson.rodrigues: Testar o Gpt seis.um. O Sol.
+
+[01:29:04] Lucas Lima Mendonça Alves: Isso.
+
+[01:29:06] denderson.rodrigues: Eu teste. Depois mando resultado lá no grupo, tá? Porque agora já já estamos caminhando para final da aula. Peraí, galera. Deixa eu deixar eu lugar aqui, ó, só autorizar aqui o Codex para ele poder voltar a gerar imagens para mim, o que deu ruim. Foi autenticado. Gere as três imagens. Vamos ver se a Maya terminou. Pô a Nia tá lentinha, hein? Cadê o vídeo? Me dá status, perguntas, galera mandanaya, criar uma página com dez vídeos desse de exemplo com a Headline, entrega o seu pack de vídeos em poucas horas. Pacote de dez vídeos por R quinhentos reais. Coloca alguém para atender no Whatsapp, ganhando comissão por venda. Dois desses. Você paga todas as assinaturas do mês. É isso. Dois desses por dia. Faz trinta mil no mês, galera. Ganhar dinheiro não é difícil. Não velho, com a Internet. Não teve uma boa ideia. Só executar até dar certo. Pode falar, Cleber, quanto a Naya não responde. A gente.
+
+[01:30:42] Cleber - Matos TI: Eu me perdi um pouquinho, porque, por exemplo, eu vi que você chamou o Cláudio. O Code chamou para fazer a digitação Prompt. E alguns. Você fez na Naya. Teve algum motivo para isso? Ou você podia ter feito tudo.
+
+[01:30:58] denderson.rodrigues: Fazendo coisas diferentes em lugares diferentes. Primeiro, eu editei o mesmo vídeo com o Claudio e com o Coldax. Pra vocês verem a diferença. No final, quem ia ficar melhor? E com a Nay? Eu tô fazendo outro vídeo aí. Amanhã, amanhã, essa aula sobe para de membros. Assiste com calma, com tranquilidade. Aí você revê todo o processo. E aí você vai tirar a dúvida. Eu peguei o mesmo vídeo e editei com o Claudio e com Astra para vocês verem qual que ia ficar melhor. Eu já sabia que o Claudia ficar melhor. Alguém acabou de falar para testar o sol. Eu vou testar. Depois eu mando o resultado lá no grupo e em paralelo. Eu estou fazendo outra coisa com a Naya que quando ela terminar, eu explico a diferença. Basicamente, pro Codex e para o Cloud no meu computador. Eu gravei um vídeo e mandei para eles editarem a Naya. Eu estou gerando um vídeo a partir do zero. Sem gravação. Ela gerou o áudio e vai gerar cada cena do vídeo com imagem ou com animação.
+
+[01:31:50] Cleber - Matos TI: Mas eu podia ter feito isso direto pela Nike. Mandava tudo para a Nike.
+
+[01:31:55] denderson.rodrigues: Bom dia. O dia só tem que tomar dois cuidados primeiro. Se o vídeo que você gravou e vai mandar para a Naya pesar mais de vinte mega bytes. Você não consegue enviar direto no Telegram. Então você teria que subir o vídeo no drive e mandar um link para ela. E depois que ela editar e te entregar. E você fizer download, você pede sempre para ela pagar da Vps, porque senão vídeo é muito pesado. E lota sua Vps rápido.
+
+[01:32:18] Cleber - Matos TI: Valeu. Obrigado, hein.
+
+[01:32:19] denderson.rodrigues: Tamo, junto. Fala Rodolfoão.
+
+[01:32:23] Rodolfo Nascimento: E aí? Boa noite, beleza.
+
+[01:32:25] denderson.rodrigues: Bom demais.
+
+[01:32:27] Rodolfo Nascimento: Eu só fiquei na dúvida que você pediu tanto para o Claudio quanto aí para o procura.
+
+[01:32:32] denderson.rodrigues: Sr.
+
+[01:32:33] Rodolfo Nascimento: Eles gerarem as imagens pelo próprio Heibert fugiu. O nome da palavra aqui. O nome desse editor que você mandou.
+
+[01:32:40] denderson.rodrigues: Pela assinatura da Openai pra ficar claro para você que é o seguinte: ó, pode falar.
+
+[01:32:48] Rodolfo Nascimento: A minha dúvida é: você mandou para os dois o comando para cada um gerar um prompt para gerar as imagens. Não foi a mesma imagem, e cada um foi lá e pegou a imagem e fez o vídeo. Cada um criou.
+
+[01:32:58] denderson.rodrigues: Um. Pronto.
+
+[01:32:59] Rodolfo Nascimento: Vai gerar as máquinas.
+
+[01:32:59] denderson.rodrigues: Eu não dei nenhum prompt para gerar imagens. Eles geram imagem de acordo com o texto que está sendo dito naquele trecho onde a imagem vai aparecer. Então ele vai lá e vê que ele vai lá e vê que no segundo dez eu estou falando para editar um vídeo com a Skill do Claudia. Aí você viu que ele gerou um claudinho colocando um negócio dentro de uma máquina. Então ele pega o trecho do vídeo onde a imagem vai aparecer, entende o contexto e gera o prompt para gerar imagem, para aparecer naquele momento. É uma ilustração de uma fala.
+
+[01:33:33] Rodolfo Nascimento: Então eu entendi que cada uma das plataformas, elas criaram a imagem dela, não foi.
+
+[01:33:38] denderson.rodrigues: Caras viraram avisar.
+
+[01:33:39] Rodolfo Nascimento: Pegava a imagem.
+
+[01:33:40] denderson.rodrigues: Não, ali. São dois processos independentes. Cada um fez o seu. O Claudio gerou a sua.
+
+[01:33:45] Rodolfo Nascimento: Anos, doze meses.
+
+[01:33:45] denderson.rodrigues: Todas as suas imagens.
+
+[01:33:49] Rodolfo Nascimento: Não fechou.
+
+[01:33:50] denderson.rodrigues: Dois processos totalmente independentes. Cada um fez o seu eu. No final, gostei muito mais do Claudio. O Guilherme falou que tem uma maneira de mandar arquivo de dois gigabytes no Instagram. Fala agora porque eu preciso saber. Peraí enquanto ele pesquisa. Pode falar. Ricardo.
+
+[01:34:13] Ricardo IA Studio: Se tiver algum daqueles vídeos que eu postei esses dias, eu fiz com remo.
+
+[01:34:19] denderson.rodrigues: Vi, vi. Ficou bem legal.
+
+[01:34:21] Ricardo IA Studio: Mais ou menos.
+
+[01:34:22] denderson.rodrigues: Bem. Legal. Excelente. Ficaram legais pra caramba.
+
+[01:34:26] Ricardo IA Studio: Eu vou testar bem mais pra caramba.
+
+[01:34:29] denderson.rodrigues: Aí. Eu só acho que você tem que incluir no processo imagens junto com as animações, porque aí você dá mais dinamismo pro vídeo, entendeu?
+
+[01:34:39] Ricardo IA Studio: É isso? Eu achei que estava faltando também. Mas vou testar agora. Como você mostrou hoje.
+
+[01:34:43] denderson.rodrigues: Você pegar aqui os meus. Vamos olhar alguns meus aqui.
+
+[01:34:47] Audio shared by denderson.rodrigues: Bom dia, Naya. Bom dia, chef. Dormiu bem? Que aqui à noite foi movimentada. Dormi. Me dá o placar de ontem, trinta e quatro ingressos vendidos pra imersão setecentos e vinte reais de tráfego. E todo mundo já tá no grupo oficial, esperando o primeiro dia trinta e quatro. Agora explica pra quem tá assistindo. Quem é você? Eu sou a agente de inteligência artificial que coordena a sua operação. Se me dá uma ideia, eu quebro em tarefas. Entrego pros.
+
+[01:35:01] denderson.rodrigues: Peraí.
+
+[01:35:02] Audio shared by denderson.rodrigues: Bom dia, Naya. Bom dia, chef. Dormiu bem? Que aqui a noite.
+
+[01:35:08] denderson.rodrigues: Ó, vamos lá, deixa eu pegar esse vídeo que eu acabei de abrir. Acabei de abrir esse vídeo aqui. O processo é exatamente o mesmo. Exatamente o mesmo. Só muda que algumas cenas desse vídeo. Ela animou. Ela deu voz para o cara. Ela fez a imagem falar usando o Rei Jan. Então eu falei pra ela na escolhe porque o rendimento é meio carinho, tá, galera? Então eu falei na. Escolhe umas quatro ou cinco cenas ao longo do vídeo. Pega a imagem do personagem e faz o Lipsync no Rei de An. Aí ficou assim a versão final. Vamos lá.
+
+[01:35:53] Audio shared by denderson.rodrigues: Bom dia, Naya. Bom dia, Chef. Dormiu bem? Porque aqui? A noite foi movimentada. Eu sou a agente de inteligência artificial que coordena a sua operação. Se me dá uma ideia, eu quebro em tarefa. Entrego para o especialista certo e cobro o prazo. Quem é esse especialista, certo? Depende da tarefa. Texto vai, meu clone faz anúncio onde meta Google e Tiktok. E ainda responde o direct do Instagram do jeitinho que você fala. Cara Jonathan escreveu doze anúncios e duas páginas de venda. A Juliana publicou a página nova e montou cinco carrossels, automatizou o cadastro de quem compra o clone. Três campanhas. Rafael fechou o cronograma do mês e o Davi conversou com cem dezoito pessoas no Whatsapp. Tudo isso sem eu contratar ninguém. Agora me fala como alguém faz para ter uma agente igual você participando da imersão agente de Ia. Na prática, é ao vivo. Acontece nos próximos dias. E o ingresso custa menos que uma pizza. Clique em saiba mais e faz o seu cadastro. Janary, isso valeu, Naya.
+
+[01:37:07] denderson.rodrigues: Então, quer dizer, o processo é o mesmo. Só que eu pedi para ela escolher algumas cenas. Acho que teve umas seis ou sete cenas que ela pegou. Aquele trechinho de três ou quatro segundos daquela fala pegou o personagem foi lá. No Hay Jane fez o Lipsync e fez ele falar. Então seria o mesmo vídeo que ela gerou. Inclusive tem esse mesmo vídeo sem o Lipsync e com o Lipsync, entendeu? Inclusive está rodando no meu tráfego pago da nova imersão. E esse aqui já é um dos vídeos que está vendendo bastante lá. Status do vídeo. Agora, as imagens já foram geradas dezasseis no total. As pessoas reais no clima noturno pré apocalíptico. E o Paulo está na fase de render, que é a mais pesada por rodar em Cpu. Aqui na h1 ele quebrou o vídeo em dez trechos, renderizando depois o Renner. A junção estima de vinte a quarenta minutos. Bom, esse vídeo aqui que a gente está fazendo lá da eleição. Talvez ele não fique pronto até a gente terminar a aula, que só falta vinte pras dez. Se ela terminar depois da aula. Eu jogo lá no grupo para vocês verem. Pode falar, Val.
+
+[01:38:12] Val Capasso: Oi, Denderson. Deixa eu só te fazer uma pergunta. Eu vi que você mandou o vídeo, né? Para ele editar, mas e as imagens? Como é que ele sabe quem é a Naya? Quem é o Denderson? Já tem tudo já embutido no.
+
+[01:38:26] denderson.rodrigues: A tendência é.
+
+[01:38:27] Val Capasso: Sammy.
+
+[01:38:27] denderson.rodrigues: Já tem. Eu tenho uma Skill e todos os meus agentes em todos os meus lugares. Eu tenho uma Skill com o meu squad de personagens, que sou eu, o meu avatar, que eu não faço. O meu avatar não é com a minha cara só é minhas características. Então sou eu, a Naya. A Jaíne. Minha esposa também é uma agente do Time. Aí tem o Pablo que é um agente novo que eu estou criando aquele Pablo falante. Vocês já devem ter visto em algum lugar. E tem os mascotes, que é o Open Cloud, o claudinho, o Coldax, o Kimi, que é um japonesinho e agora tem a Hermes também como personagem dentro do meu squash. Então eu tenho nove personagens no total, e eu já tenho as características dele, inclusive o Ricardo e o Armand e o Armand estão providenciando. Aí nós vamos ter uma lojinha para vocês comprarem lá. Caneca, camiseta, blusa dos personagens do time da Maya muito em breve vai sair.
+
+[01:39:19] Val Capasso: Eu vi os personagens. Agora, como é que eu coloco cada personagem pra ele saber? Você só fez um layout ou você fez o personagem e colocou em algum lugar para ele. É isso que eu não entendi.
+
+[01:39:32] denderson.rodrigues: Cada personagem que eu quero fazer, um personagem novo, eu construo do zero. Então, por exemplo, quando eu fui construir a Naya pela primeira vez, eu pedi para ela fazer uma ruiva. Falei: Faz uma ruiva magra, alta com um skin de secretária. Aí, fui fazendo. Fiz várias, várias, várias, várias, até que eu falei: Pô, gostei dessa. Aí. Eu vou lá e falo. Ó, lê essa imagem. Identifica todas as características dessa personagem. E vamos salvar isso aqui para sempre. Que eu pedir uma imagem, sair com essa skin, eu quero que seja sempre a mesma personagem em todas de uma imagem para outra, dependendo do estilo que eu uso, muda um pouco o rosto da Naya. Mas a Skin da Naya é sempre a mesma. Ela é ruiva, alta ou ela está com um moletom vermelho, ou ela está com um terninho e sai a lápis. E ela sempre tem o cabelo caracolado. Ela tem no pescoço e nos braços uns circuitos que é para a pessoa entender que ela é meio que um androide, sabe, assim. Então eu vou fazendo algumas imagens até chegar no formato que eu quero. Gostei. Eu mando ela gravar na memória que aquela é a Naya mesma. Coisa eu, o meu, não o meu foto minha e falei: Ó, eu quero gerar um lavatar que vai fazer parte do nosso time com a minha característica, mas não quero que seja o meu rosto real. O meu quê? Oi, som. Voltou.
+
+[01:40:50] Fernando - Head NAIA: Tchau.
+
+[01:40:51] Val Capasso: Eu estava vindo. Bem.
+
+[01:40:54] denderson.rodrigues: É Fernando. Tá me ouvindo? Você que não estava ouvindo? Então eu mandei uma foto minha. Mandei ela descrever as minhas características. Aí falei: agora gera cinco imagens de um homem com essas características. Aí ela gerou. Eu escolhi a que eu mais gostei. Falei grava esse personagem aqui como o personagem da Anderson. Então, sempre que eu peço a imagem, ela tem a referência. O Ricardo, por exemplo, o Ricardo tem todos os meus personagens que eu mandei para ele fazer as imagens da loja. Então ele tem tudo salvo lá. A Skill padrão e ele consegue gerar o personagem. Ó como que a Naya do Ricardo já saiu diferente das minhas, entendeu? Mas aí.
+
+[01:41:28] Val Capasso: É isso que.
+
+[01:41:29] denderson.rodrigues: Quem é a mesma ruiva com o moletom do avalanche, o circuito ali no pescoço e no braço, o cabelo encaracolado, olho verde. E é isso.
+
+[01:41:37] Val Capasso: Valeu. Então, obrigada. Viu.
+
+[01:41:40] denderson.rodrigues: Imagina Teresa.
+
+[01:41:45] Tereza Costa: Você pegou umas fotos no Peter. Este correto, no caso.
+
+[01:41:49] denderson.rodrigues: Sim.
+
+[01:41:50] Tereza Costa: Eu mando o vídeo. Eu mando as imagens.
+
+[01:41:54] Sony Dourado: Tchau.
+
+[01:41:55] Tereza Costa: Aí eu posso pedir para lá, intercalando no vídeo, um exemplo, e animando aquela imagem, porque eu vou estar falando de um local, um exemplo de uma cidade na cidade. Tal praia. Assim, aí eu mando.
+
+[01:42:10] denderson.rodrigues: Você quer que ela retrate a cidade, que você tá falando com o máximo de fidelidade, por exemplo, o ideal é que você mande as fotos reais e mande ela usar as tuas fotos reais no vídeo que ela vai fazer se você for fazer. Ah, eu vou fazer um vídeo que eu quero que a minha personagem esteja em Paris, cara. Só de você falar. Ela vai conseguir gerar, porque tem foto de Paris espalhada pela Internet inteira. Mas não, eu quero falar de uma cidade X real, de um lugar real. Manda as fotos reais e manda ela usar as tuas imagens reais no teu vídeo.
+
+[01:42:38] Tereza Costa: Mas no caso, consegue animar essa foto, para não ficar só aquela imagem.
+
+[01:42:43] denderson.rodrigues: Consegue animar pessoas na foto, né? Consegue colocar pessoas em movimento na foto? Consegue tranquilo.
+
+[01:42:49] Tereza Costa: Ah, perfeito. Tá bom, obrigada.
+
+[01:42:51] denderson.rodrigues: Imagina Gui.
+
+[01:42:57] Guilherme Bösel: Fala, meu querido. Beleza.
+
+[01:42:59] denderson.rodrigues: Bom demais. Meu irmão.
+
+[01:43:02] Guilherme Bösel: Tá me ouvindo? Ah, tá.
+
+[01:43:04] denderson.rodrigues: Estou te ouvindo.
+
+[01:43:05] Guilherme Bösel: Não era só para mostrar. Eu botei ele no Telegram como fazer. Tem uma Api. Tem um Github do Telegram bot api. Você instala isso, por exemplo, na Vps. E você meio que migra o seu bote para esse acesso. Isso aí. O Kodex foi sozinho pra mim. Eu perguntei pra ele: como é que fazia? Joguei lá. Aí, ele só pede pra você entrar e gerar aquele esses dois negócios aqui que ele pede que é api api hash. Uma coisa assim. Já viu? Tá aqui. E aí você consegue. Ele consegue te mandar arquivos maiores de dois gigas e você manda para ele arquivos de até dois gigas no Telich.
+
+[01:43:46] denderson.rodrigues: Tchau. Vou salvar isso aqui para eu ver. Depois.
+
+[01:43:50] Guilherme Bösel: Já instalei. Já configurei. Para mim. É muito bom. Ajuda. Caramba.
+
+[01:43:56] denderson.rodrigues: Porra! Principalmente pra edição de vídeo, né.
+
+[01:44:00] Guilherme Bösel: Pega pra dois. Giga.
+
+[01:44:01] denderson.rodrigues: Eu peguei uma Vps. Agora uma. Uma monstruosona só pra começar a trabalhar com vídeo. Então isso aqui vai ajudar pra caramba! Show de bola!
+
+[01:44:14] Guilherme Bösel: Já nela já. Beleza.
+
+[01:44:16] denderson.rodrigues: Valeu, mano. Gedial.
+
+[01:44:26] Jediael: Opa. E aí, beleza? Donny.
+
+[01:44:28] denderson.rodrigues: Bom dia.
+
+[01:44:29] Jediael: Duas perguntas. Um outro rapaz perguntou em relação ao Google, que é só por chave de Api. Para ter a questão de voz. Eu queria saber mais ou menos de custo. Eu sei que você usa bastante, né? Mas só para ter uma base.
+
+[01:44:43] denderson.rodrigues: Cara. O caminho mais fácil é você pedir para a própria Naya ler a Peit falar quanto que ficaria e fazer simulações para você. E porque hoje eu não consigo saber quanto eu gasto especificamente com áudio.
+
+[01:44:54] Jediael: É um.
+
+[01:44:54] denderson.rodrigues: Porque eu uso várias coisas na Api do Google por mês. Eu gasto uns mil reais de Api do Google, lembrando que não é parâmetro para a maioria de vocês, porque eu faço muita coisa em muitos projetos, mas eu gasto uns mil reais de Api do Google por mês. Só que entre vídeo, imagem e várias outras coisas que eu faço lá. Dentre elas o áudio. Eu até posso pedir para a Niá fazer um estudo e me dizer quanto eu gastei especificamente com áudio. Mas assim, para gerar um áudio de um minuto no Google. Não deve ficar caro. Não, velho, não deve ficar caro. Não, Naya, quanto fica.
+
+[01:45:27] Rodrigo Braga: Coincidentemente, acabei de fazer via Api. Estava zerada. Eu fiz agora deu dois,vinte, um áudio de um minuto e meio, usando a perda.
+
+[01:45:38] denderson.rodrigues: Eu acho que dá menos. Espera aí. É, não é?
+
+[01:45:41] Rodrigo Braga: Aí. Eu não. Feliz com esse resultado. Eu fui e gerei o áudio no próprio Google. Ia. Studio também usou o Api, mas aí gastou metade. Não fez por fora. Não sei porquê. Não sei explicar, mas aí, agora o que eu fiz, gerei o áudio por aqui. Baixei o Mp3 do áudio, mandei para ela e falei: Agora monta tudo. Aí entendeu.
+
+[01:46:03] denderson.rodrigues: Essas coisas. Quando eu quero saber de custo de Jael, eu sempre peço para a própria Naea levantar na própria Api e me falar. Quanto que custaria? Mais ou menos. E ela faz simulações para mim.
+
+[01:46:14] Jediael: Ah, legal. A outra pergunta. Eu edito bastante. E aí eu até uso a minha Naya numa outra máquina, né? Vídeo de imóveis. Aí eu queria saber de fundo musical, porque aí depois eu acabo levando para o Cap. Cut e colocando um fundo musical lá sem direito autoral. Você usa alguma coisa para fundo musical?
+
+[01:46:33] denderson.rodrigues: É muito raro, velho, mas eu sei que editando com o próprio Cláudio ou com a própria Nay, eles conseguem gerar ou buscar bibliotecas públicas que tenham os áudios sem royalties. Então pede para a própria Naya encontrar bibliotecas de áudio sem royalties e buscar para você a Api dessas bibliotecas tem umas gratuitas, umas pagas. E aí você consegue ter esses aí para poder colocar nos vídeos, gente. Tudo que vocês precisarem pergunta para a Naya. Naya, eu queria ter áudio para colocar no vídeo para mim. Qual que é o caminho mais fácil. Ela vai falar, chefe. Tem a biblioteca tal você pede para ela pesquisar pesquisa para bibliotecas de áudio, sem direito, de sem royalties áudios liberados. Ela vai achar algumas gratuitas, algumas pagas, mas vai achar algumas boas opções. Aí é só testar, só testar.
+
+[01:47:20] Jediael: Legal fechou. Show de bola. Valeu.
+
+[01:47:21] denderson.rodrigues: Bom dia, Tamo. Junto, Kessya.
+
+[01:47:26] Kecia: Tem uma outra dúvida com relação ao uma. Você está fazendo algumas coisas aí dentro da Naya. Aquelas outras duas coisas que você ensinou para a gente, não é dentro da Naya, né? É direto lá nos aplicativos.
+
+[01:47:41] denderson.rodrigues: Direto na assinatura das andanças. Usei cloud e usei e usei codex.
+
+[01:47:50] Kecia: Então, lá, sem contexto, sem nada, não vai gerar inteligência dentro da nossa assistente.
+
+[01:48:01] denderson.rodrigues: É ali. Eu fiz fora da assistente. Aí o que eu faço é sempre que eu tenho algum processo que eu faço no Cloud, no meu computador ou no Codex, no meu computador. E depois eu quero replicar isso na Naya. Eu peço para ele transformar numa Skill. E aí eu peço para ele me dar um arquivo Md dessa Skill. Aí eu pego esse arquivo e mando para a Naya e mando ele instalar Skill nela. Acabou.
+
+[01:48:22] Kecia: Entendi. Aí eu posso fazer esse mesmo processo lá no Telegram.
+
+[01:48:27] denderson.rodrigues: Exato. Exato. Essa Skill. Mesmo que eu estou usando aqui para vocês verem de edição de vídeo, eu fiz ela aqui na minha máquina. Eu e o Cláudio. Depois eu só instalei a Skill Na Nay. Depois que a Skill estava pronta, eu só instalei na Nike depois que eu instalo na Ni. Ela já sabe fazer bem simples.
+
+[01:48:43] Kecia: Tudo bem.
+
+[01:48:44] denderson.rodrigues: Tem um camarada aqui que ficou devendo pra gente. Três imagens, não foi? Não ata. Abre as imagens no Mac. Lembra que eu peguei três imagens no Pinterest. Peguei três imagens no Pinterest e mandei. Mandei ele usar essas três imagens como referência para criar novos estilos de layout e predição. E no final, pedi para ele gerar três imagens para ver como ficariam essas imagens já nos meus personagens. Essa é a do gibi. Vocês lembram? Deixa eu pegar aqui a Dome aranha que eu baixei. Ó, essa aqui. Tá vendo? Deu origem a essa que vocês estão vendo essa aqui. Ó da série Pink Blinders, que eu gosto muito. Deu origem a essa aqui. Ó, olha que top gente. Não é muito legal. Isso eu acho muito legal, velho. E vamos ver a última. Que é essa daqui. Ó, essa daqui deu origem a essa imagem aqui. A luz ali do final de tarde. Tá vendo a luz aqui no cabelo dela, a luz no cabelo da Naya aqui, então, pronto. Eu já tenho três novas edições. Se eu quiser falar para o Cláudio, se eu quiser gravar um vídeo agora e falar, Cláudio edita esse vídeo e as imagens e as animações. Eu quero no estilo. Ele chamou de industrial da fumaça. Lá eu posso mudar o nome. Muda para Pink Blinders. Se eu falar agora, cara, eu quero que as imagens e animação desse vídeo, sejam nesse estilo. Pronto, já vou ter um vídeo inteiro animado nesse estilo aqui. Muito legal. E aí, essas referências são ilimitadas. É só pesquisar no Pinterest. Mando o Cloud ou a tua própria gente analisar. As primeiras vezes que eu fiz isso, eu fiz com a própria Naya. Quer ver com a própria Naya. Se vocês verem aqui nas imagens minhas com a Naya. Ó, tudo isso aqui, tudo isso aqui sou eu e a Naya Criando estilos para os nossos personagens. Está vendo? Eu pego as referências no Pinterest, mando para ela e mando ela gerar imagens dos nossos personagens com a referência que eu mandei aí. Ó, aqui foi eu que mandei a referência. Eu que mandei a referência e ela gera depois as imagens baseadas nas referências que eu mandei. Ó isso aqui. Eu, que mandei a referência. E aí eu tenho os meus personagens em vários estilos diferentes. Ó, isso aqui. Eu até postei no meu Instagram. Ó tá vendo? Essa daqui é a referência. Essa foi a que ela gerou do meu personagem. Então o Pinterest para referência cara, é fantástico. É bom demais para você usar como inspiração. Encontrou um estilo que você gosta lá. Aí você consegue fazer muita coisa legal. E o vídeo tá demorando aqui, galera? Porque ela tá editando em Vps. A Vps não tem Gpu. É mais demorado. Ela falou aqui que ela quebrou em dez partes. Ó, quando terminar o vídeo, eu mando ele lá no grupo do Whatsapp para vocês. Tá, galera, é isso. Por hoje era isso, se mais ninguém tiver mais nenhuma pergunta, a gente encerra. E o rogério levantou a mão.
+
+[01:52:20] Rogério Maia: Boa noite. Tudo bem.
+
+[01:52:22] denderson.rodrigues: Bom demais meu irmão. E você?
+
+[01:52:24] Rogério Maia: Desculpa aí. Não sei se já deve ter explicado isso em outros vídeos aí. Eu sou novato aí, a criação de imagem pelo Gpt lá, dois.cinco para não pegar Api. Como que funciona.
+
+[01:52:39] denderson.rodrigues: A máquina onde o seu agente está. E aí o agente pode ser. Ou a Naya ou o Cloud ou o Codex. Se você estiver usando se você tem uma assinatura do chat Gpt e instalou o chat Gpt para desktop na sua máquina, ele consegue gerar na própria assinatura, só falar para ele. Assim, usa para mim o modelo Gpt imaid, dois.cinco ou dois.zero, e gera a imagem na sua assinatura, sem gastar custo de Api. Ele gera. E aí entende o seguinte: o Gpt está instalado na minha máquina no meu computador. Beleza está logado aqui no meu computador. O meu chat Gpt para desktop. E o Cloud também está no mesmo computador. Então eu só ensinei o Cloud A. Quando ele vai gerar uma imagem para mim com Gpt dois.cinco. Em vez do Cloud Code, chamar a Api da Openai. Para gerar essa imagem, ele acessa. Os arquivos do Codex estão na minha máquina e gera dentro do Codex, usando a assinatura do Codex para eu não pagar custo extra de Api. Denise, como que eu replico isso na Naya, você tem que pedir para a Naya autenticar o Codex na Vps dela. Você vai falar assim Naya autentica o codexcli na tua Vps. Ela vai gerar um linkzinho. Igual. Eu gerei em algum momento da aula. Ali ela gera um link e te manda. Você abre o navegador cola o link, ela dá o código. Você autentica. Pronto, lá na tua Vps vai ficar logado um codexcli instalado na tua máquina. Porque talvez alguns de vocês ainda não entenderam isso. Mas a Vps é um computador. Só que ele fica na nuvem. É a mesma coisa do teu Mac ou do teu Windows. Ele é um computador. Aí você pede para ela autenticar o Codex na Vps. A partir daí, você ensina ela a gerar imagem usando a assinatura do Codex e não a Pi paga. Aí você consegue uma assinatura de quinhentos conto. Por exemplo, do Codex, você gera imagens infinitas. Eu gero imagens infinitas aqui todo dia para os meus.
+
+[01:54:31] Rogério Maia: O meu tá na Gps e eu estou com o Gpp lá. Então, basicamente, já está.
+
+[01:54:38] denderson.rodrigues: Olá.
+
+[01:54:38] Rogério Maia: E aí?
+
+[01:54:39] denderson.rodrigues: A semana.
+
+[01:54:40] Rogério Maia: É só um pedir. Então.
+
+[01:54:41] denderson.rodrigues: Só pedir para ela gerar imagem pela assinatura do Cold Exhalar e não por Ap e paga.
+
+[01:54:46] Rogério Maia: É porque eu até tava usando a do gêmeo lá. Pra poder gerar.
+
+[01:54:51] denderson.rodrigues: Pede para ela usar o Gpt dois.cinco da assinatura do Codes que está na Vps. E aí, quando ela gerar a primeira vez. Você fala para ela transformar essa rota numa Skill aí. Pronto, ela já fica com isso. Salvo na cabeça.
+
+[01:55:02] Rogério Maia: Ah, Beleza! Obrigadão aí.
+
+[01:55:04] denderson.rodrigues: Fechou. Fechou gente. Quando a Naya terminar o último vídeo, que é o vídeo da eleição que eu pedi pra ela usar imagens reais dos personagens do vídeo. Eu mando lá nos nossos grupos do Whatsapp para quem quiser ver. Tá bom. Beijo no coração. Boa noite pra todo mundo. Quem é do grupo de estudos? Temos aula na quarta feira às três da tarde. Um abraço, gente. Tchau, tchau. Boa noite pra todo mundo.

@@ -1,0 +1,982 @@
+{
+ "versao": 1,
+ "id": "estudos-aula-1",
+ "titulo": "Aula 1 · Onboarding",
+ "duracao": 17736,
+ "total_nos": 211,
+ "gerado_em": "2026-09-24T16:59:05-03:00",
+ "modelo": "claude-sonnet-5",
+ "raiz": {
+  "texto": "Aula 1 · Onboarding",
+  "filhos": [
+   {
+    "texto": "Abertura: boas-vindas e visão geral do onboarding",
+    "t": 0,
+    "filhos": [
+     {
+      "texto": "Denderson abre o onboarding para revisitar e reexplicar a Naia",
+      "t": 1209,
+      "filhos": [
+       {
+        "texto": "Quem veio da imersão recebe um upgrade da Naia",
+        "t": 1221
+       },
+       {
+        "texto": "Quem é da comunidade e fundadores já tem a Naia completa",
+        "t": 1226
+       }
+      ]
+     },
+     {
+      "texto": "Regra do encontro: pergunta breve e aprender com a pergunta do outro",
+      "t": 1274,
+      "filhos": [
+       {
+        "texto": "Com quase 130 pessoas na sala, cada um deve ser breve sem deixar de ser profundo",
+        "t": 1260
+       }
+      ]
+     },
+     {
+      "texto": "Projeto do curso: ERP/CRM modular adaptável a qualquer nicho",
+      "t": 1385,
+      "filhos": [
+       {
+        "texto": "Sistema com módulos de gestão e de marketing/CRM",
+        "t": 1412
+       },
+       {
+        "texto": "Dá para adicionar módulo de entrevista de candidatos, entre outros",
+        "t": 1433
+       },
+       {
+        "texto": "Na terceira aula explica a arquitetura antes do código; no último dia o projeto sai praticamente pronto",
+        "t": 1464
+       }
+      ]
+     },
+     {
+      "texto": "White label é a forma preferida de vender o CRM produzido",
+      "t": 1528,
+      "filhos": [
+       {
+        "texto": "No white label o cliente compra e o código é instalado no servidor dele, com marca própria",
+        "t": 1534
+       },
+       {
+        "texto": "Exemplo: o Avalanche Studio, sistema de imagens e carrosséis, já foi vendido como white label",
+        "t": 1561
+       }
+      ]
+     },
+     {
+      "texto": "Alinhamento de expectativa: o foco é aprender a produtizar e vender",
+      "t": 1603,
+      "filhos": [
+       {
+        "texto": "Denderson não é programador de formação, mas entende de arquitetura de sistema",
+        "t": 1583
+       },
+       {
+        "texto": "Quem já sabe vender o suficiente não precisa entrar; quem quer vender mais está no lugar certo",
+        "t": 1620
+       }
+      ]
+     },
+     {
+      "texto": "Hoje é revisão do pacote completo da Naia, não instalação",
+      "t": 1824,
+      "filhos": [
+       {
+        "texto": "A apresentação guia os cinco encontros e fica disponível por link no grupo de estudos",
+        "t": 1687
+       },
+       {
+        "texto": "Dá para voltar slides, mas não passar à frente do professor",
+        "t": 1715
+       },
+       {
+        "texto": "Vai revisar skills, subagentes e a parte teórica de como a Naia funciona",
+        "t": 1848
+       }
+      ]
+     },
+     {
+      "texto": "Estrutura dos cinco encontros, toda quarta das 15h às 19h",
+      "t": 1882,
+      "filhos": [
+       {
+        "texto": "Encontro 3 apresenta o ambiente de desenvolvimento e inicia o projeto",
+        "t": 1898
+       },
+       {
+        "texto": "Encontro 4 conclui o projeto com teste de funcionalidades",
+        "t": 1912
+       },
+       {
+        "texto": "Encontro 5 é uma imersão de vendas, com lançamento, funil de VSL e precificação",
+        "t": 1923
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Como a Naia funciona: harness, memória e agentes",
+    "t": 1980,
+    "filhos": [
+     {
+      "texto": "O harness usado (Claude Code, Kimi, GLM) diferencia as versões da Naia",
+      "t": 1983,
+      "filhos": [
+       {
+        "texto": "Codex não deu certo até o GPT 5.5 por falta de adaptação para orquestração multiagentes",
+        "t": 1995
+       },
+       {
+        "texto": "O Astra já tem essa adaptação; Denderson vai tentar montar uma Naia com ele em breve",
+        "t": 2003
+       },
+       {
+        "texto": "É proibido autenticar o CLI do Claude em agentes externos, sob risco de perder a conta",
+        "t": 2039
+       }
+      ]
+     },
+     {
+      "texto": "A Naia vem com vários agentes SDRs e uma agente de análise de Instagram",
+      "t": 2163,
+      "filhos": [
+       {
+        "texto": "A análise de Instagram tem foco em viralização, mesmo serviço que agências cobram 10 a 15 mil reais",
+        "t": 2190
+       },
+       {
+        "texto": "A Naia também faz sites, que dá para vender por mil ou dois mil reais",
+        "t": 2235
+       },
+       {
+        "texto": "Dá para plugar CRM e agente SDR ao site e conseguir vários clientes pagando mensalidade",
+        "t": 2255
+       }
+      ]
+     },
+     {
+      "texto": "O nome Naia vem de Núcleo Avalanche de Inteligência Artificial",
+      "t": 2326,
+      "filhos": [
+       {
+        "texto": "A equipe que vem com a Naia tem especialistas em copy, design, desenvolvimento e vendas",
+        "t": 2360
+       },
+       {
+        "texto": "Essa equipe cobre praticamente toda a área de marketing de qualquer produto ou serviço",
+        "t": 2363
+       },
+       {
+        "texto": "Dá para criar e treinar subagentes para outras áreas, como jurídico e contábil",
+        "t": 2393
+       }
+      ]
+     },
+     {
+      "texto": "A Naia tem memória curta, o CLAUDE.md, e um banco de dados com grafo",
+      "t": 2512,
+      "filhos": [
+       {
+        "texto": "O banco de dados usado é open source, gratuito, na VPS, melhor que Obsidian",
+        "t": 2485
+       },
+       {
+        "texto": "CLAUDE.md é o arquivo Markdown onde você define como quer que a Naia converse com você",
+        "t": 2540
+       },
+       {
+        "texto": "Grafo é quando assuntos ficam interligados por pontos e fios dentro do banco de dados",
+        "t": 3075
+       }
+      ]
+     },
+     {
+      "texto": "Ter uma Naia por cliente depende do tamanho da demanda de cada um",
+      "t": 3242,
+      "filhos": [
+       {
+        "texto": "Se só faz tráfego para vários clientes, uma Naia resolve; se faz tudo, vale ter uma dedicada",
+        "t": 3257
+       },
+       {
+        "texto": "Denderson tem um cliente com cinco Naias, uma para cada diretor",
+        "t": 3292
+       },
+       {
+        "texto": "É preciso revisar o CLAUDE.md uma vez por mês para tirar informação de clientes antigos",
+        "t": 3351
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Casos de uso, delegação e como vender sua Naia",
+    "t": 3420,
+    "filhos": [
+     {
+      "texto": "Denderson mostra o mar aberto: todo empresário quer uma agente como a Naia",
+      "t": 3438
+     },
+     {
+      "texto": "A Naia recebe o pedido, delega ao subagente certo e monitora em segundo plano",
+      "t": 3954,
+      "filhos": [
+       {
+        "texto": "Cron job: relatório diário em PDF com o que funcionou e travou",
+        "t": 3610
+       },
+       {
+        "texto": "Exemplo de página de vendas: Jonathan escreve a copy e Paulo cria o código",
+        "t": 3797
+       },
+       {
+        "texto": "O monitor acompanha o subagente e só entrega depois de revisar",
+        "t": 3974
+       }
+      ]
+     },
+     {
+      "texto": "Fale com a Naia de forma direta, sem mensagens picadas",
+      "t": 4084,
+      "filhos": [
+       {
+        "texto": "Mensagem quebrada faz ela reler todo o contexto e responder quatro vezes",
+        "t": 4100
+       },
+       {
+        "texto": "Debounce: janela de 10 segundos que junta mensagens picadas numa resposta",
+        "t": 4112
+       }
+      ]
+     },
+     {
+      "texto": "Com o instalador, você pode vender e instalar uma Naia para outra pessoa",
+      "t": 4315,
+      "filhos": [
+       {
+        "texto": "Compre a VPS com desconto do Avalanche e use o instalador para subir a Naia",
+        "t": 4330
+       },
+       {
+        "texto": "Upgrade: quem tinha 3 ou 4 subagentes na imersão agora recebe o kit completo",
+        "t": 4371
+       },
+       {
+        "texto": "56 skills disponíveis; instalar aos poucos, de acordo com a necessidade",
+        "t": 4507
+       }
+      ]
+     },
+     {
+      "texto": "Pode vender sua própria Naia, mas com sua marca e seu manual",
+      "t": 4660,
+      "filhos": [
+       {
+        "texto": "A marca Naia é registrada; ele não pode ser corresponsável pela entrega",
+        "t": 4682
+       },
+       {
+        "texto": "O SDR relê as próprias conversas e aprende com o que funcionou",
+        "t": 4848
+       },
+       {
+        "texto": "Não usar o mesmo SDR em produtos ou canais diferentes, para não misturar",
+        "t": 4875
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Hotseat: primeiras aplicações e o cenário da IA",
+    "t": 5040,
+    "filhos": [
+     {
+      "texto": "Hotseat: uma pergunta e resposta por pessoa para dar atenção a todos",
+      "t": 5051,
+      "filhos": [
+       {
+        "texto": "A tarefa da semana é instalar, treinar e usar os subagentes e skills",
+        "t": 5067
+       },
+       {
+        "texto": "No quinto encontro haverá oferta para ficar no grupo por seis meses",
+        "t": 5098
+       },
+       {
+        "texto": "O próximo encontro será quatro horas de mão na massa com a Naia",
+        "t": 5120
+       }
+      ]
+     },
+     {
+      "texto": "Um aluno customiza uma Naia multi-tenant para um empresário com três empresas",
+      "t": 5236,
+      "filhos": [
+       {
+        "texto": "As três empresas são lavanderia industrial, self storage e consultoria",
+        "t": 5241
+       },
+       {
+        "texto": "A solução isola o banco de dados por cliente em processos na mesma VPS",
+        "t": 5276
+       },
+       {
+        "texto": "Multi-tenant é um agente atendendo várias contas sem misturar dados",
+        "t": 5312
+       }
+      ]
+     },
+     {
+      "texto": "Escola infantil: um app ajuda os professores a criar as atividades",
+      "t": 5586,
+      "filhos": [
+       {
+        "texto": "A escola pode usar sua própria metodologia de ensino dentro do sistema",
+        "t": 5608
+       },
+       {
+        "texto": "A API do Gemini dentro do sistema gera as atividades para os professores",
+        "t": 5622
+       },
+       {
+        "texto": "Recomendação: subir os 5 agentes principais de vez e SDRs por demanda",
+        "t": 5694
+       }
+      ]
+     },
+     {
+      "texto": "Duas Naias podem compartilhar o mesmo banco de dados na mesma VPS",
+      "t": 5838,
+      "filhos": [
+       {
+        "texto": "Pede-se ao Claude ou Codex para sincronizar os dois bancos na VPS",
+        "t": 5952
+       },
+       {
+        "texto": "A regra é um SDR para cada canal de conexão do CRM",
+        "t": 6061
+       },
+       {
+        "texto": "Uma automação marca o lead com uma tag para o SDR separar a origem",
+        "t": 6136
+       }
+      ]
+     },
+     {
+      "texto": "Maremoto da IA: quem não aprender a nadar vai morrer afogado",
+      "t": 6312,
+      "filhos": [
+       {
+        "texto": "Classe média no Brasil ganha entre 10 e 30 mil e ocupa liderança",
+        "t": 6464
+       },
+       {
+        "texto": "Cargos de liderança serão os primeiros a perder emprego em dois anos",
+        "t": 6479
+       },
+       {
+        "texto": "A decisão vira conta de cloud de 500 reais e o dono demite o líder",
+        "t": 6494
+       }
+      ]
+     },
+     {
+      "texto": "A Naia com API do Gemini vira radar de notícias de IA do nicho",
+      "t": 6662,
+      "filhos": [
+       {
+        "texto": "A Naia pode trazer todo dia notícias de IA aplicadas ao nicho",
+        "t": 6677
+       },
+       {
+        "texto": "As notícias viram conteúdo para as redes sociais do profissional",
+        "t": 6690
+       },
+       {
+        "texto": "Isso constrói autoridade percebida no nicho",
+        "t": 6701
+       }
+      ]
+     },
+     {
+      "texto": "Um aluno capta seis clientes em potencial num único evento",
+      "t": 6991,
+      "filhos": [
+       {
+        "texto": "O resultado veio da mentalidade construída desde a primeira imersão",
+        "t": 7017
+       },
+       {
+        "texto": "O que vende não é o preço, é a qualidade da entrega",
+        "t": 7033
+       },
+       {
+        "texto": "Um MVP feito com a Naia foi levado a uma empresa chinesa",
+        "t": 7053
+       }
+      ]
+     },
+     {
+      "texto": "Os seis SDRs prontos ficam no menu de agentes para baixar",
+      "t": 7578,
+      "filhos": [
+       {
+        "texto": "Basta baixar o MD do SDR e mandar a Naia criar com orientação",
+        "t": 7477
+       },
+       {
+        "texto": "O SDR instalado já vem com treinamento spin selling voltado a venda",
+        "t": 7596
+       },
+       {
+        "texto": "Para suporte é preciso refazer o spin selling tirando o foco de venda",
+        "t": 7606
+       }
+      ]
+     },
+     {
+      "texto": "Aluno de SAP Basis tenta desde 2019 tirar um projeto digital do papel",
+      "t": 7758,
+      "filhos": [
+       {
+        "texto": "O dinheiro mais próximo é oferecer infraestrutura de IA a pequenos negócios",
+        "t": 7879
+       },
+       {
+        "texto": "Exemplo: cobrar de 5 a 15 mil reais para instalar um agente com SDR",
+        "t": 7906
+       },
+       {
+        "texto": "Exemplo: um app próprio de pedidos evita pagar 35% de taxa ao iFood",
+        "t": 7924
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Hotseat: sistemas, automações e prospecção",
+    "t": 7920,
+    "filhos": [
+     {
+      "texto": "Estudo da Sequoia aponta tendência de SaaS and Service",
+      "t": 7956,
+      "filhos": [
+       {
+        "texto": "Sequoia, maior investidor em startups de tecnologia, já investiu no Facebook",
+        "t": 7951
+       },
+       {
+        "texto": "SaaS and Service é entregar o serviço pronto, não só a plataforma",
+        "t": 7963
+       }
+      ]
+     },
+     {
+      "texto": "Tarefa rápida usa a Naia; SaaS complexo vai para o terminal",
+      "t": 8232,
+      "filhos": [
+       {
+        "texto": "No dia a dia, Naia cuida de tarefas; terminal é para desenvolver",
+        "t": 8271
+       },
+       {
+        "texto": "Depois de pronto, peça à Naia para ler o código do sistema",
+        "t": 8303
+       }
+      ]
+     },
+     {
+      "texto": "Treine a Naia etapa por etapa até rodar o fluxo inteiro",
+      "t": 8606,
+      "filhos": [
+       {
+        "texto": "Exemplo citado: agência de eventos automatizando credenciamento",
+        "t": 8469
+       },
+       {
+        "texto": "Com o fluxo completo validado, vira skill e ela não erra mais",
+        "t": 8653
+       }
+      ]
+     },
+     {
+      "texto": "A Naia pode raspar o Google Meu Negócio para prospectar",
+      "t": 9222,
+      "filhos": [
+       {
+        "texto": "Depois do scrap, ela dispara mensagens, qualifica e agenda reuniões",
+        "t": 9241
+       },
+       {
+        "texto": "Essa prospecção ativa, em muitos casos, pode substituir o tráfego pago",
+        "t": 9248
+       }
+      ]
+     },
+     {
+      "texto": "Conexões MCP ficam no Claude local, não direto na Naia",
+      "t": 9357,
+      "filhos": [
+       {
+        "texto": "Peça ao Claude para espelhar a conexão MCP já feita na Naia",
+        "t": 9376
+       },
+       {
+        "texto": "Outro caminho é gerar token de usuário de sistema no BM",
+        "t": 9390
+       },
+       {
+        "texto": "A Naia cria a campanha, mas o play é sempre dado pelo humano",
+        "t": 9463
+       }
+      ]
+     },
+     {
+      "texto": "Primeiro organize delegando tarefas à Naia, depois escale",
+      "t": 9591,
+      "filhos": [
+       {
+        "texto": "Depois de organizado, use a Naia para buscar empresas e marcar reuniões",
+        "t": 9629
+       },
+       {
+        "texto": "A Naia pode virar produto extra vendido junto com a consultoria",
+        "t": 9653
+       },
+       {
+        "texto": "Denderson tem várias Naias porque testa novidades e tem muitos projetos",
+        "t": 9726
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Modelos de IA, demonstrações e boas práticas",
+    "t": 9840,
+    "filhos": [
+     {
+      "texto": "Hoje vários modelos de IA dividem o topo, não só o Claude",
+      "t": 9845,
+      "filhos": [
+       {
+        "texto": "Segundo degrau tem Qwen, Kimi, GLM, Grok e DeepSeek, quase no mesmo nível",
+        "t": 9857
+       },
+       {
+        "texto": "Astra já modela projetos de arquitetura do zero, planta e render 3D",
+        "t": 9939
+       },
+       {
+        "texto": "Manus AI não é modelo de fronteira, é uma plataforma agêntica",
+        "t": 9993
+       }
+      ]
+     },
+     {
+      "texto": "Vender solução com dashboards para gestores de tráfego, não a Naia pronta",
+      "t": 10070,
+      "filhos": [
+       {
+        "texto": "Uma Naia dá conta do trabalho de 40 gestores de tráfego juniores",
+        "t": 10153
+       },
+       {
+        "texto": "A Naia ainda não substitui o estrategista que faz o briefing com o cliente",
+        "t": 10159
+       }
+      ]
+     },
+     {
+      "texto": "Agente prospecta lead qualificado sem gastar em anúncio pago",
+      "t": 10342,
+      "filhos": [
+       {
+        "texto": "Nos Estados Unidos já é tendência vender lead qualificado em vez de tráfego",
+        "t": 10350
+       },
+       {
+        "texto": "Cada contato prospectado no Google Meu Negócio custa poucos centavos",
+        "t": 10363
+       },
+       {
+        "texto": "Reunião agendada pode sair por cerca de R$1,50",
+        "t": 10393
+       }
+      ]
+     },
+     {
+      "texto": "Demonstração ao vivo: lista de clínicas com dados do Google Meu Negócio",
+      "t": 10623,
+      "filhos": [
+       {
+        "texto": "Pedido feito às 17h33 e lista entregue já às 17h36",
+        "t": 10548
+       },
+       {
+        "texto": "Dados trazidos incluem nome, endereço, telefone e site da clínica",
+        "t": 10612
+       },
+       {
+        "texto": "Enviando 100 mensagens por dia dá para agendar de três a dez reuniões",
+        "t": 10677
+       }
+      ]
+     },
+     {
+      "texto": "Planta de imóvel pode virar vídeo animado para usar no anúncio",
+      "t": 10808,
+      "filhos": [
+       {
+        "texto": "Para modelos externos é preciso configurar API, como a do Higgs Field",
+        "t": 10819
+       },
+       {
+        "texto": "VPS KVM4 dá conta de gerar vídeo, anúncio e atendimento de leads",
+        "t": 10877
+       },
+       {
+        "texto": "Gerar vídeo e anúncio gasta pouco; o que mais consome é atender leads",
+        "t": 10970
+       }
+      ]
+     },
+     {
+      "texto": "Diferença entre usar a assinatura e gastar token no billing",
+      "t": 11277,
+      "filhos": [
+       {
+        "texto": "Assinatura da OpenAI de cerca de R$550 já cobre a operação",
+        "t": 11000
+       },
+       {
+        "texto": "Não é possível usar o instalador Hermes junto com o Claude",
+        "t": 11322
+       }
+      ]
+     },
+     {
+      "texto": "Follow-up de sete dias usando o book do empreendimento como cadência",
+      "t": 11524,
+      "filhos": [
+       {
+        "texto": "Cada dia do book gera um criativo usando gatilhos mentais",
+        "t": 11556
+       },
+       {
+        "texto": "O agente pode automatizar o envio da cadência dia a dia",
+        "t": 11569
+       }
+      ]
+     },
+     {
+      "texto": "O gargalo real de um aluno era não delegar nem monitorar a equipe",
+      "t": 11763,
+      "filhos": [
+       {
+        "texto": "Um valuation mostrou que o próprio dono era o maior gargalo da empresa",
+        "t": 11751
+       },
+       {
+        "texto": "Sem monitorar a entrega dos colaboradores, os erros passam despercebidos",
+        "t": 11777
+       }
+      ]
+     },
+     {
+      "texto": "Diagnosticar a VPS toda com o Claude antes de mexer nela",
+      "t": 12142,
+      "filhos": [
+       {
+        "texto": "Pedir para Claude ou Astra entrar pelo terminal sem a Naia e mapear tudo",
+        "t": 12248
+       },
+       {
+        "texto": "Sobe em fatias pequenas e valida por sete dias antes de ampliar",
+        "t": 12508
+       },
+       {
+        "texto": "Nem toda demanda precisa de agente, às vezes um script simples resolve",
+        "t": 12742
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Hotseat: negócios variados e suporte técnico",
+    "t": 12960,
+    "filhos": [
+     {
+      "texto": "Compartilhar uma VPS entre vários clientes com subagentes no Telegram",
+      "t": 13136,
+      "filhos": [
+       {
+        "texto": "VPS mais robusta permite colocar várias Naias e dividir entre clientes",
+        "t": 13119
+       },
+       {
+        "texto": "Cliente que só precisa de uma tarefa simples não precisa de Naia própria",
+        "t": 13131
+       },
+       {
+        "texto": "Corretores de imóveis se perdem preenchendo fichas (FAQ) na mão",
+        "t": 13209
+       }
+      ]
+     },
+     {
+      "texto": "Entender a dor real do cliente pode abrir o mercado inteiro",
+      "t": 13332,
+      "filhos": [
+       {
+        "texto": "Boa parte das consultorias vendidas não eram sobre marketing, mas o cliente chegou por causa dele",
+        "t": 13306
+       },
+       {
+        "texto": "O caminho é mapear quem está perto, construir um projeto e cobrar por ele",
+        "t": 13322
+       },
+       {
+        "texto": "Criar uma ERP para uma clínica de estética permitiu oferecê-la a outras clínicas",
+        "t": 13345
+       }
+      ]
+     },
+     {
+      "texto": "Instalação travada no arquivo 5, que é o pacote de subagentes",
+      "t": 13707,
+      "filhos": [
+       {
+        "texto": "No Hermes a instalação ia do arquivo 1 ao 6, mas faltava o arquivo 5",
+        "t": 13698
+       },
+       {
+        "texto": "Para retomar, pedir à Naia que reinstale sem repetir o que já foi instalado",
+        "t": 13711
+       }
+      ]
+     },
+     {
+      "texto": "Atender leads no WhatsApp exige número com API oficial via Zernio",
+      "t": 13775,
+      "filhos": [
+       {
+        "texto": "A Meta bloqueia e restringe números que não usam a API oficial",
+        "t": 13791
+       },
+       {
+        "texto": "É necessário ter uma BM da Meta verificada para ativar o número",
+        "t": 13803
+       },
+       {
+        "texto": "Conectar o Instagram é mais simples: só login e senha dentro do Zernio",
+        "t": 14063
+       }
+      ]
+     },
+     {
+      "texto": "Dá para editar vídeo na VPS, mas é preciso pedir para limpar os arquivos depois",
+      "t": 13944,
+      "filhos": [
+       {
+        "texto": "Higgs Field é a ferramenta citada para criação de vídeo com avatar virtual",
+        "t": 13918
+       },
+       {
+        "texto": "Denderson usa uma Naia instalada no Mac para editar os vídeos que grava",
+        "t": 13932
+       },
+       {
+        "texto": "Sem limpar os arquivos, o disco da VPS enche rápido e ela trava",
+        "t": 13953
+       }
+      ]
+     },
+     {
+      "texto": "Vender a Naia junto do CRM como recorrência mensal para franqueados",
+      "t": 14512,
+      "filhos": [
+       {
+        "texto": "A Naia pode cobrir 360 do que o consultor ou franqueado precisa: prospecção, marketing, site",
+        "t": 14379
+       },
+       {
+        "texto": "A própria Naia vira um produto para vender junto com a formação",
+        "t": 14411
+       },
+       {
+        "texto": "Franquias já vendem a marca e a gestão à parte; a Naia entrega essa gestão pronta",
+        "t": 14544
+       }
+      ]
+     },
+     {
+      "texto": "Decidir entre uma Naia por cliente ou uma única Naia entregando o serviço a todos",
+      "t": 14644,
+      "filhos": [
+       {
+        "texto": "Se cada cliente tiver a própria Naia, cada um precisa da própria VPS",
+        "t": 14663
+       },
+       {
+        "texto": "Uma VPS KVM8 dá conta de cerca de 16 clientes usando o mesmo Zernio",
+        "t": 14682
+       },
+       {
+        "texto": "Se a Naia parar de responder, é preciso chamar um ADM do grupo para olhar a VPS",
+        "t": 14838
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Encerramento: segurança, integrações e hotseat final",
+    "t": 15120,
+    "filhos": [
+     {
+      "texto": "Denderson avalia migrar do CRM atual para o CRM que o grupo vai desenvolver",
+      "t": 15127,
+      "filhos": [
+       {
+        "texto": "Hoje ele usa do CRM basicamente conversa, contato, CRM e campanha",
+        "t": 15144
+       },
+       {
+        "texto": "O novo CRM vai integrar agentes e subagentes da Naia no atendimento a leads",
+        "t": 15178
+       }
+      ]
+     },
+     {
+      "texto": "Os arquivos em .md trazem o subagente já pronto e treinado para replicar",
+      "t": 15363,
+      "filhos": [
+       {
+        "texto": "Basta pedir para a Naia criar o subagente, definindo função e treinamento",
+        "t": 15395
+       },
+       {
+        "texto": "A Naia também gera o arquivo .md de um subagente já criado, para replicar",
+        "t": 15411
+       }
+      ]
+     },
+     {
+      "texto": "Existem clones falsos do BotFather para roubar o token do seu bot",
+      "t": 15604,
+      "filhos": [
+       {
+        "texto": "O BotFather oficial é a própria ferramenta do Telegram para criar bots",
+        "t": 15600
+       },
+       {
+        "texto": "Use sempre o oficial, que tem o selinho de verificado",
+        "t": 15612
+       }
+      ]
+     },
+     {
+      "texto": "Segurança é isolamento: cada cliente com servidor, conta e agente próprios",
+      "t": 15803,
+      "filhos": [
+       {
+        "texto": "Segurança é basicamente isolamento entre os clientes",
+        "t": 15847
+       },
+       {
+        "texto": "O fluxo ideal já nasce com skills que testam cada funcionalidade entregue",
+        "t": 16100
+       },
+       {
+        "texto": "Em um projeto real, todos os bugs eram de antes do processo com IA entrar",
+        "t": 16237
+       }
+      ]
+     },
+     {
+      "texto": "Um aluno migrou do Hermes para o OpenClaw e achou o desempenho bem melhor",
+      "t": 16583,
+      "filhos": [
+       {
+        "texto": "Instalou o OpenClaw dentro de uma máquina virtual Windows ligada 24 horas",
+        "t": 16602
+       }
+      ]
+     },
+     {
+      "texto": "Denderson recomenda dois agentes separados em vez de duas DMs no mesmo bot",
+      "t": 16709,
+      "filhos": [
+       {
+        "texto": "Agentes têm um dono só; com dois donos, a Naia pode pedir autorização",
+        "t": 16642
+       },
+       {
+        "texto": "Cada sócio treina a sua Naia conforme a sua atribuição na empresa",
+        "t": 16778
+       }
+      ]
+     },
+     {
+      "texto": "Uma agente-hub orquestra várias empresas conforme a complexidade do projeto",
+      "t": 16838,
+      "filhos": [
+       {
+        "texto": "Se o CNPJ tem Instagram, site e CRM próprios, cabe um agente exclusivo",
+        "t": 16860
+       },
+       {
+        "texto": "Para editar vídeo de várias câmeras, ela sincroniza pelo áudio com FFMPEG",
+        "t": 16984
+       },
+       {
+        "texto": "Com um banco de cenas do evento, ela ilustra os depoimentos gravados",
+        "t": 17082
+       }
+      ]
+     },
+     {
+      "texto": "A assinatura básica do ChatGPT atende até certo ponto; se travar, sobe o plano",
+      "t": 17351,
+      "filhos": [
+       {
+        "texto": "Um aluno gastava 15 mil reais por mês em ferramentas somando os projetos",
+        "t": 17526
+       },
+       {
+        "texto": "Hoje mantém só duas ou três ferramentas assinadas; o resto é gasto em token",
+        "t": 17532
+       }
+      ]
+     },
+     {
+      "texto": "Para dar acesso a contas à Naia, use um cofre de senhas como o 1Password",
+      "t": 17594,
+      "filhos": [
+       {
+        "texto": "A IA rejeita quando você manda senha, credencial ou API diretamente",
+        "t": 17583
+       },
+       {
+        "texto": "Ela usa só a chave de API do cofre; nunca guarda a senha no workspace dela",
+        "t": 17611
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,992 @@
+{
+ "versao": 1,
+ "id": "estudos-aula-4",
+ "titulo": "Aula 4",
+ "duracao": 15792,
+ "total_nos": 208,
+ "gerado_em": "2026-10-08T11:54:44-03:00",
+ "modelo": "claude-sonnet-5-5",
+ "raiz": {
+  "texto": "Aula 4",
+  "filhos": [
+   {
+    "texto": "Abertura, Naia no Zoom e apresentação do app",
+    "t": 0,
+    "filhos": [
+     {
+      "texto": "Meta do dia: colocar num domínio, front na Vercel, projeto no GitHub e numa VPS",
+      "t": 111,
+      "filhos": [
+       {
+        "texto": "Ficar acessível em qualquer navegador conectado à internet",
+        "t": 133
+       },
+       {
+        "texto": "Denderson explica como pensa e planeja cada modificação, para cada um personalizar o seu",
+        "t": 141
+       },
+       {
+        "texto": "No próximo encontro, o tema será como ganhar dinheiro com isso",
+        "t": 174
+       }
+      ]
+     },
+     {
+      "texto": "A Naia mora num app no Mac Studio do Denderson e entra na reunião do Zoom",
+      "t": 580,
+      "filhos": [
+       {
+        "texto": "Entra pelo Zoom num navegador próprio, com câmera e microfones virtuais, como no OBS",
+        "t": 580
+       },
+       {
+        "texto": "Transcreve o áudio em tempo real; quando falam o nome dela, o trecho chega a ela",
+        "t": 597
+       },
+       {
+        "texto": "Ao fim, manda no Telegram resumo, decisões, tarefas com responsável e prazo, e pendências",
+        "t": 622
+       }
+      ]
+     },
+     {
+      "texto": "App nativo da Naia: modo ouvinte, participante e projetos",
+      "t": 664,
+      "filhos": [
+       {
+        "texto": "No modo participante, ela opina e fala sempre que o nome dela é dito",
+        "t": 664
+       },
+       {
+        "texto": "Se a reunião vira planejamento, ela faz um quadro e orquestra os agentes",
+        "t": 699
+       },
+       {
+        "texto": "Em desenvolvimento; ele diz que termina na semana que vem",
+        "t": 744
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Tour pelo ERP, CRM e arquitetura em camadas",
+    "t": 889,
+    "filhos": [
+     {
+      "texto": "CRM e ERP são softwares parecidos, mas separados; o CRM tem viés mais comercial",
+      "t": 1005,
+      "filhos": [
+       {
+        "texto": "O CRM tem fluxos de automação de venda, pipelines e cards de leads avançando de etapa",
+        "t": 1026
+       },
+       {
+        "texto": "No RD Station, as conversas ficam em outro sistema, o RD Conversas",
+        "t": 1062
+       }
+      ]
+     },
+     {
+      "texto": "Esse é o CRM oficial de operação do Denderson, focado só no comercial",
+      "t": 1103,
+      "filhos": [
+       {
+        "texto": "Oportunidades separadas por vendedor, com conversas de vários números de WhatsApp e do Instagram",
+        "t": 1179
+       },
+       {
+        "texto": "Tem broadcast para disparos e automações de Instagram",
+        "t": 1203
+       },
+       {
+        "texto": "A partir de hoje dá para fazer isso no ERP construído, pedindo ao Claude",
+        "t": 1254
+       }
+      ]
+     },
+     {
+      "texto": "Banco PostgreSQL com RLS e pgvector; numa KVM 8 cabem mil contas com tranquilidade",
+      "t": 1284,
+      "filhos": [
+       {
+        "texto": "Mil contas dão uso simultâneo de 20 a 50 pessoas",
+        "t": 1308
+       },
+       {
+        "texto": "O RLS isola os dados de cada conta, sem vazamento entre elas",
+        "t": 1339
+       },
+       {
+        "texto": "A fila da camada quatro aguenta até mil requisições simultâneas",
+        "t": 1420
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Mentoria, Orca, modo reunião e roteiro do dia",
+    "t": 1841,
+    "filhos": [
+     {
+      "texto": "Mentoria semestral para quem quiser continuar após o último encontro",
+      "t": 1882,
+      "filhos": [
+       {
+        "texto": "O último encontro da turma 1 é na quarta-feira da semana seguinte",
+        "t": 1862
+       },
+       {
+        "texto": "O preço fica entre cinco e dez mil reais, com detalhes na semana seguinte",
+        "t": 1900
+       }
+      ]
+     },
+     {
+      "texto": "Tudo que ele faz no Orca dá para fazer no Claude para desktop ou no ChatGPT para desktop",
+      "t": 2024,
+      "filhos": [
+       {
+        "texto": "Quatro pessoas pediram reembolso depois que ele apresentou o Orca",
+        "t": 1994
+       },
+       {
+        "texto": "Antes eram dezoito terminais espalhados; agora todos os projetos ficam no menu lateral",
+        "t": 2061
+       }
+      ]
+     },
+     {
+      "texto": "Modo reunião da Naia: briefing longo vira tarefas orquestradas entre agentes",
+      "t": 2154,
+      "filhos": [
+       {
+        "texto": "Serve para briefing de projeto longo; para uma landing page simples, segue no Telegram",
+        "t": 2114
+       },
+       {
+        "texto": "Ela pode ouvir uma reunião de vendas e dar insights para quebrar objeções",
+        "t": 2243
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Primeiras alterações: layout, pipelines e canais",
+    "t": 2337,
+    "filhos": [
+     {
+      "texto": "Melhor aproveitamento da tela em todos os menus, sem faixa vazia",
+      "t": 2375,
+      "filhos": [
+       {
+        "texto": "Idioma, modo claro/escuro e botão de sair vão para o rodapé do menu lateral",
+        "t": 2452
+       },
+       {
+        "texto": "É só ajuste de front-end, sem mexer na estrutura",
+        "t": 2486
+       }
+      ]
+     },
+     {
+      "texto": "Caminho para publicar: GitHub, Vercel e Cloudflare",
+      "t": 2668,
+      "filhos": [
+       {
+        "texto": "Enquanto está local, o sistema só existe na máquina dele",
+        "t": 2655
+       },
+       {
+        "texto": "A Vercel puxa o código e coloca o front-end no ar; o domínio aponta pelo Cloudflare",
+        "t": 2688
+       },
+       {
+        "texto": "Depois de publicado, trabalha-se no local e pede-se um commit ao Claude; a Vercel faz o deploy sozinha",
+        "t": 2770
+       }
+      ]
+     },
+     {
+      "texto": "Pipelines: não consegue mudar coluna de lugar nem criar novos pipelines",
+      "t": 3022,
+      "filhos": [
+       {
+        "texto": "Exemplo: leads de um curso; tem cinco cursos e quer mais pipelines para eles",
+        "t": 3030
+       },
+       {
+        "texto": "Oportunidade ganha fica fechada e precisa ser reaberta antes de mover",
+        "t": 3730
+       },
+       {
+        "texto": "Ficou um botão Nova pipeline; uma caixa de seleção seria melhor com muitos pipelines",
+        "t": 4146
+       }
+      ]
+     },
+     {
+      "texto": "Desenvolve sempre no Mac em que está trabalhando, para ter menos latência",
+      "t": 3323,
+      "filhos": [
+       {
+        "texto": "Tem doze ou treze VPS, algumas para desenvolvimento; a maior parte do desenvolvimento é local",
+        "t": 3203
+       },
+       {
+        "texto": "O Mac Studio virou o computador pessoal e o Mac Mini virou servidor, com oito Naias",
+        "t": 3236
+       }
+      ]
+     },
+     {
+      "texto": "Trazer leads: importar planilha CSV ou via MCP, e receber leads por webhook",
+      "t": 3397,
+      "filhos": [
+       {
+        "texto": "Os leads novos chegam em tempo real por webhook",
+        "t": 3423
+       }
+      ]
+     },
+     {
+      "texto": "WhatsApp e Instagram pelo Zernio, mais simples que o Meta Provider",
+      "t": 3822,
+      "filhos": [
+       {
+        "texto": "A API do Zernio é salva como credencial no cofre",
+        "t": 3864
+       },
+       {
+        "texto": "O sistema cria cadastro de cliente com nome e telefone e espelha a conversa na íntegra",
+        "t": 3978
+       },
+       {
+        "texto": "Botão Novo canal conecta WhatsApp ou Instagram usando as telas oficiais da Meta",
+        "t": 4070
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Instagram, automações e dúvidas sobre infraestrutura",
+    "t": 4246,
+    "filhos": [
+     {
+      "texto": "O Claude Code já tem acesso ao cofre e trouxe o Instagram do Zernio",
+      "t": 4246,
+      "filhos": [
+       {
+        "texto": "Se o Claude Code ainda não tem a API do Zernio, é só criar e integrar para ele",
+        "t": 4246
+       },
+       {
+        "texto": "Dá para ver as conversas agora, ainda no Mac, sem esperar a produção",
+        "t": 4349
+       }
+      ]
+     },
+     {
+      "texto": "O canvas das automações usa a biblioteca React Flow",
+      "t": 4459,
+      "filhos": [
+       {
+        "texto": "Ele pediu ao Claude para achar no histórico do sistema qual biblioteca foi usada",
+        "t": 4435
+       }
+      ]
+     },
+     {
+      "texto": "Nova aba Automações no menu Comercial, ao lado de Pipeline e Conversas, estilo ManyChat",
+      "t": 4483,
+      "filhos": [
+       {
+        "texto": "Automações em posts do Instagram respondem o comentário e enviam mensagem no Direct",
+        "t": 4572
+       },
+       {
+        "texto": "Menu broadcast faz disparos de WhatsApp, com automações ligadas a cliques em botões",
+        "t": 4622
+       },
+       {
+        "texto": "Criar template oficial da Meta no sistema e aprová-lo no Zernio",
+        "t": 4655
+       }
+      ]
+     },
+     {
+      "texto": "No sistema dele, cada automação está ligada a um post do Instagram e já respondeu muitos comentários",
+      "t": 4778,
+      "filhos": [
+       {
+        "texto": "Segundo ele, isso resolve a vida de vocês: pode cancelar o ManyChat",
+        "t": 4801
+       }
+      ]
+     },
+     {
+      "texto": "Para a API da Conta Azul, mande ao Claude o link da documentação para ele ler",
+      "t": 4881,
+      "filhos": [
+       {
+        "texto": "Para testar na prática é preciso ter conta na plataforma",
+        "t": 4905
+       },
+       {
+        "texto": "Vale para o Asaas e para plataformas externas: todas têm documentação de API",
+        "t": 4933
+       }
+      ]
+     },
+     {
+      "texto": "Da camada cinco para baixo, a infraestrutura serve para qualquer sistema",
+      "t": 4996,
+      "filhos": [
+       {
+        "texto": "Um sistema de crescimento de redes sociais usa a mesma infraestrutura do ERP",
+        "t": 5112
+       },
+       {
+        "texto": "Nesse sistema não há Naia: uma API busca o perfil, há transcrição dos vídeos e o Gemini gera insights",
+        "t": 5249
+       },
+       {
+        "texto": "Depois, via MCP, a Naia vira uma funcionária que opera o sistema",
+        "t": 5276
+       }
+      ]
+     },
+     {
+      "texto": "Dica: peça à Naia um projeto open source no GitHub e reconstrua no sistema",
+      "t": 5375,
+      "filhos": [
+       {
+        "texto": "Quando a gravação subir, a transcrição da reunião fica embaixo dela",
+        "t": 5331
+       },
+       {
+        "texto": "Mande o repositório ao agente para entender como funciona e reconstruir no seu sistema",
+        "t": 5375
+       }
+      ]
+     },
+     {
+      "texto": "Supabase é seguro, mas hoje ele instalaria o Postgres na VPS",
+      "t": 5529,
+      "filhos": [
+       {
+        "texto": "Projeto no Supabase gratuito, sem muitos usuários, ele não mudaria",
+        "t": 5566
+       },
+       {
+        "texto": "Para migrar, crie um token de acesso do banco, guarde no cofre e peça ao Claude",
+        "t": 5607
+       }
+      ]
+     },
+     {
+      "texto": "Atendimento e suporte são sempre subagente; não faria uma Naia nova para atender cliente",
+      "t": 5705,
+      "filhos": [
+       {
+        "texto": "Em empresa menor, o financeiro é uma pessoa e um subagente da Naia já dá conta",
+        "t": 5813
+       },
+       {
+        "texto": "Time da Naia é voltado a marketing; para RH, financeiro e jurídico crie subagentes do zero",
+        "t": 5857
+       }
+      ]
+     },
+     {
+      "texto": "Se o agente fizer algo fora do controle, peça explicação e depois reverta",
+      "t": 6134,
+      "filhos": [
+       {
+        "texto": "Peça que explique o que fez e por quê, e diga o que você não quer",
+        "t": 6141
+       },
+       {
+        "texto": "Peça para voltar ao commit anterior a quando ele abriu o Docker",
+        "t": 6204
+       }
+      ]
+     },
+     {
+      "texto": "O pacote de criação tem o prompt para o agente construir e serve de base para outro sistema",
+      "t": 6358,
+      "filhos": [
+       {
+        "texto": "As camadas de um a cinco servem para qualquer sistema",
+        "t": 6267
+       },
+       {
+        "texto": "A skill orquestra a construção em etapas, do zero até o sistema no ar",
+        "t": 6385
+       }
+      ]
+     },
+     {
+      "texto": "Uso próprio cabe numa VPS só; sistemas com clientes ficam isolados, um por VPS",
+      "t": 6456,
+      "filhos": [
+       {
+        "texto": "Com clientes, um sistema por VPS por segurança",
+        "t": 6456
+       },
+       {
+        "texto": "Se um for invadido, os outros na mesma VPS ficam comprometidos",
+        "t": 6536
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Automações entregues, agenda e dúvidas sobre canais",
+    "t": 6735,
+    "filhos": [
+     {
+      "texto": "Conversas do Instagram já espelhadas, com histórico inteiro e opção de abrir oportunidade",
+      "t": 6878,
+      "filhos": [
+       {
+        "texto": "Na conversa, escolhe-se o título da oportunidade, coloca-se um valor e solicita; provavelmente vai ao pipeline",
+        "t": 6887
+       }
+      ]
+     },
+     {
+      "texto": "Automação de Instagram criada no editor, com gatilho de comentário com palavra-chave",
+      "t": 6990,
+      "filhos": [
+       {
+        "texto": "Gatilho de comentário com palavra-chave, resposta pública e depois mensagem no Direct, ligadas por fios",
+        "t": 7052
+       },
+       {
+        "texto": "Para criar automação de Instagram, ele precisa acessar a lista de posts do perfil para escolher",
+        "t": 7200
+       }
+      ]
+     },
+     {
+      "texto": "Agenda: pela Maton, com botão que abre conta e devolve a API, ou direto no Google",
+      "t": 7278,
+      "filhos": [
+       {
+        "texto": "Direto no Google, o app precisa de aprovação e antes disso conecta cem agendas",
+        "t": 7313
+       },
+       {
+        "texto": "Cada cliente cria conta gratuita na Maton e cola a chave de API no sistema",
+        "t": 7332
+       }
+      ]
+     },
+     {
+      "texto": "Ao criar a automação, define-se se dispara só com palavra-chave ou com qualquer comentário",
+      "t": 7483,
+      "filhos": [
+       {
+        "texto": "A correspondência pode conter a palavra ou ser o texto exato",
+        "t": 7603
+       }
+      ]
+     },
+     {
+      "texto": "Zernio usa a API oficial e substitui o Meta Provider; número comprado no BR DID",
+      "t": 7661,
+      "filhos": [
+       {
+        "texto": "Prefere comprar o número no BR DID, por volta de vinte reais por mês",
+        "t": 7686
+       }
+      ]
+     },
+     {
+      "texto": "Maton tem limite gratuito de mil requisições por mês e funciona como hub",
+      "t": 7735,
+      "filhos": [
+       {
+        "texto": "Em vez de uma conexão em cada lugar, um hub reúne tudo",
+        "t": 7746
+       }
+      ]
+     },
+     {
+      "texto": "WhatsApp não oficial: ele usa o WA-AKG, que resolveu seus problemas de banimento",
+      "t": 7930,
+      "filhos": [
+       {
+        "texto": "Pedir à Naia para criar um subagente de suporte treinado para responder as demandas",
+        "t": 7842
+       },
+       {
+        "texto": "A Meta pode bloquear mesmo com volume baixo, porque a conexão descumpre uma regra dela",
+        "t": 8103
+       },
+       {
+        "texto": "Ele recomenda a coexistência no Zernio em vez do não oficial, que tem bloqueio e restrição",
+        "t": 8215
+       }
+      ]
+     },
+     {
+      "texto": "Não existe regra que evite banimento no WhatsApp não oficial",
+      "t": 8526,
+      "filhos": [
+       {
+        "texto": "A Meta primeiro restringe com um aviso e depois bane o número",
+        "t": 8526
+       }
+      ]
+     },
+     {
+      "texto": "Teste do comentário no post: escolhe todos os posts ou um específico, e carrega os posts",
+      "t": 8881,
+      "filhos": [
+       {
+        "texto": "A sincronização da agenda foi recusada e ele pediu que verificasse e corrigisse",
+        "t": 8857
+       },
+       {
+        "texto": "Pelo Zernio dá para ligar TikTok, LinkedIn, YouTube, Instagram e chat no site",
+        "t": 8955
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Landing pages, webhook e Google Agenda sincronizada",
+    "t": 8994,
+    "filhos": [
+     {
+      "texto": "Atualizar o que está no ar: trabalha-se sempre no local e dá-se o comando ao Claude",
+      "t": 9142,
+      "filhos": [
+       {
+        "texto": "O que está no local é diferente do que está no ar",
+        "t": 9142
+       }
+      ]
+     },
+     {
+      "texto": "Webhook da landing page: a Naia cria a URL para enviar os leads ao novo CRM",
+      "t": 9236,
+      "filhos": [
+       {
+        "texto": "O sistema construído pelo Denderson já tem infraestrutura para receber e enviar webhook",
+        "t": 9258
+       },
+       {
+        "texto": "Para os alunos, ao pedir pela primeira vez, a Naia cria o sistema na VPS deles",
+        "t": 9278
+       },
+       {
+        "texto": "Pediu para manter o webhook original; o novo é apenas uma demonstração",
+        "t": 9530
+       }
+      ]
+     },
+     {
+      "texto": "O worker, na camada quatro, é uma peça do sistema que faz conexão externa; o erro estava nele",
+      "t": 9387,
+      "filhos": [
+       {
+        "texto": "A Google Agenda conectada pela Maton deu erro; o Claude achou a causa no worker e corrigiu",
+        "t": 9395
+       }
+      ]
+     },
+     {
+      "texto": "Uma URL por landing page, cada uma ligada a um pipeline e a uma coluna",
+      "t": 9605,
+      "filhos": [
+       {
+        "texto": "Pelo que ele entendeu, o sistema estava preparado para uma só landing page",
+        "t": 9644
+       },
+       {
+        "texto": "O lead vira cliente sem duplicar e entra como oportunidade, com a origem marcada",
+        "t": 9745
+       }
+      ]
+     },
+     {
+      "texto": "Vibe code dá trabalho: são horas de luta com o Claude, nem tudo é maravilha",
+      "t": 9806,
+      "filhos": [
+       {
+        "texto": "Os eventos que aparecem no ERP são reais da agenda do Google",
+        "t": 9948
+       }
+      ]
+     },
+     {
+      "texto": "Modelos de fronteira são caros: manda-se um subagente Luna fazer a leitura do código",
+      "t": 10116,
+      "filhos": [
+       {
+        "texto": "Modelos de fronteira gastam muito da assinatura",
+        "t": 10116
+       },
+       {
+        "texto": "O Luna lê o código e dá um relatório para o Sol trabalhar",
+        "t": 10136
+       }
+      ]
+     },
+     {
+      "texto": "Agenda demorou a refletir: peça ao agente para analisar o problema e corrigir",
+      "t": 10261,
+      "filhos": [
+       {
+        "texto": "No caso do Denderson, um script Python atualiza a agenda a cada cinco minutos",
+        "t": 10335
+       },
+       {
+        "texto": "A demora pode vir da automação configurada para cada quarenta minutos, não de quebra",
+        "t": 10355
+       }
+      ]
+     },
+     {
+      "texto": "Para uso próprio, uma agência pode conectar os Instagrams dos 20 clientes na mesma subconta",
+      "t": 10425,
+      "filhos": [
+       {
+        "texto": "Para vender, dá para travar quantos Instagrams cada subconta conecta",
+        "t": 10392
+       },
+       {
+        "texto": "Para uso próprio, um pipeline por cliente e um perfil por Instagram no Zernio",
+        "t": 10448
+       }
+      ]
+     },
+     {
+      "texto": "Custo no Zernio: as duas primeiras contas são grátis; depois paga-se por conexão ao mês",
+      "t": 10584,
+      "filhos": [
+       {
+        "texto": "Da terceira à décima conexão, cinco dólares; da 11ª à 100ª, três; acima de cem, um",
+        "t": 10606
+       },
+       {
+        "texto": "Alternativa: criar várias contas Zernio com e-mails diferentes e passar as APIs ao sistema",
+        "t": 10652
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Teste de lead, pacote 2 e dúvidas de personalização",
+    "t": 11202,
+    "filhos": [
+     {
+      "texto": "O cadastro de teste na landing page não apareceu na aba de clientes do ERP",
+      "t": 11234,
+      "filhos": [
+       {
+        "texto": "Ele pediu que o Claude identificasse o cadastro e visse por que não apareceu",
+        "t": 11295
+       },
+       {
+        "texto": "A URL está em produção e o envio é feito por uma landing page externa",
+        "t": 12461
+       }
+      ]
+     },
+     {
+      "texto": "O pacote 2 traz catorze módulos opcionais para quem já colocou o ERP no ar",
+      "t": 11444,
+      "filhos": [
+       {
+        "texto": "O botão para baixar o pacote 2 fica no slide 48 da apresentação",
+        "t": 11438
+       },
+       {
+        "texto": "Módulos: vendas, projetos, horas, recrutamento, férias, contabilidade, fabricação, manutenção",
+        "t": 11454
+       }
+      ]
+     },
+     {
+      "texto": "Todas as funcionalidades são personalizáveis; ele não recomenda mexer na infraestrutura",
+      "t": 11522,
+      "filhos": [
+       {
+        "texto": "Exemplo: pintar colunas do menu conversas e criar um menu para mudar a cor",
+        "t": 11492
+       },
+       {
+        "texto": "Não mexer em banco de dados nem em infraestrutura enquanto não entender do assunto",
+        "t": 11534
+       },
+       {
+        "texto": "Rotina: mexe até dar certo e, depois que deu certo, não mexe mais",
+        "t": 11602
+       }
+      ]
+     },
+     {
+      "texto": "Ele entrega uma plataforma personalizada e uma agente que trabalha e opera a plataforma",
+      "t": 11752,
+      "filhos": [
+       {
+        "texto": "Alguns clientes pagaram mais de quinhentos mil reais e receberam uma plataforma e uma agente",
+        "t": 11728
+       },
+       {
+        "texto": "Para copiar funcionalidades de outro sistema: conectar via API, ou usar prints com explicação",
+        "t": 11821
+       },
+       {
+        "texto": "Pedir ao Claude um menu tracking com opção de conectar o MCP da Meta, com um botão",
+        "t": 12248
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Publicação do ERP, revisão do Codex e deploy",
+    "t": 12527,
+    "filhos": [
+     {
+      "texto": "Para publicar o ERP, o Claude recebe os acessos (VPS, token da Vercel e do GitHub) e um prompt",
+      "t": 12559,
+      "filhos": [
+       {
+        "texto": "O agente precisa do acesso à VPS, dos tokens da Vercel e do GitHub e do domínio no Cloudflare",
+        "t": 12543
+       },
+       {
+        "texto": "Ele cria o repositório no GitHub, puxa para a Vercel e aponta o domínio na Cloudflare",
+        "t": 12629
+       },
+       {
+        "texto": "Também adapta o webhook da landing page e o espelhamento da Zernio à produção",
+        "t": 12680
+       }
+      ]
+     },
+     {
+      "texto": "Em paralelo, o Codex inspeciona o sistema em busca de falhas e bugs",
+      "t": 12788,
+      "filhos": [
+       {
+        "texto": "Reaproveita a leitura feita antes e foca em infraestrutura, banco, isolamento entre contas e conexões externas",
+        "t": 12824
+       },
+       {
+        "texto": "Corrige só depois que o Claude terminar o deploy, primeiro no localhost, e sobe depois de validado",
+        "t": 12906
+       }
+      ]
+     },
+     {
+      "texto": "O deploy segue uma ordem e leva o banco local inteiro",
+      "t": 12949,
+      "filhos": [
+       {
+        "texto": "O webhook de produção é criado e o do túnel local é removido",
+        "t": 12976
+       },
+       {
+        "texto": "Com a produção no ar, o worker e o túnel locais param para não haver dois sistemas na mesma conta",
+        "t": 12989
+       },
+       {
+        "texto": "Depois das correções subirem, inicia o pentest; o resultado é mostrado na aula da semana que vem",
+        "t": 13027
+       }
+      ]
+     },
+     {
+      "texto": "Ninguém está cem por cento seguro; o básico é isolar dados, VPS com portas fechadas e sem chave de API exposta",
+      "t": 13529,
+      "filhos": [
+       {
+        "texto": "Erro comum do vibe code: mandar a chave de API no chat, e o Claude a coloca no código",
+        "t": 13568
+       },
+       {
+        "texto": "Sem isolamento de contas (RLS), um cliente vê os dados do outro",
+        "t": 13661
+       }
+      ]
+     },
+     {
+      "texto": "Cloudflare Pages ou Vercel: ambos servem; Cloudflare Pages para sites com tráfego",
+      "t": 13706,
+      "filhos": [
+       {
+        "texto": "Sistemas ficam mais na Vercel; quem trabalha logado não se preocupa se carrega em 1 ou 5 segundos",
+        "t": 13734
+       },
+       {
+        "texto": "Cloudflare em tráfego pago, onde um segundo a mais de carregamento perde uma visita",
+        "t": 13748
+       }
+      ]
+     },
+     {
+      "texto": "Segurança exige estudo; com cliente real pagando, ter parceria com um desenvolvedor",
+      "t": 14168,
+      "filhos": [
+       {
+        "texto": "Dá para estudar segurança usando a própria IA",
+        "t": 14149
+       },
+       {
+        "texto": "Comparar o ERP: o agente lê seu sistema e o repositório da aula, relata o que falta e propõe plano sem quebrar",
+        "t": 14298
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "ERP em produção, correções e pentest adiado",
+    "t": 14451,
+    "filhos": [
+     {
+      "texto": "A Naia vira operadora do sistema e dá suporte",
+      "t": 14467,
+      "filhos": [
+       {
+        "texto": "Dá para dar suporte aos clientes pelo Telegram, entrando na conta de cada um",
+        "t": 14487
+       },
+       {
+        "texto": "No CRM dele, a Naia dispara mensagens e aprova cinquenta templates de mensagem",
+        "t": 14510
+       }
+      ]
+     },
+     {
+      "texto": "O ERP foi para produção no link oficial e o local saiu do ar",
+      "t": 14650,
+      "filhos": [
+       {
+        "texto": "Para editar, é preciso pedir uma versão local para ver no navegador",
+        "t": 14663
+       },
+       {
+        "texto": "Mensagem do Instagram enviada durante o deploy já apareceu no sistema",
+        "t": 14692
+       }
+      ]
+     },
+     {
+      "texto": "Ler tudo o que o agente reporta sobre o código que o outro escreveu",
+      "t": 14779,
+      "filhos": [
+       {
+        "texto": "Ler tudo ensina mais sobre código e infraestrutura",
+        "t": 14779
+       },
+       {
+        "texto": "O pedido: verificar como o Claude publicou, corrigir tudo, fazer commit e atualizar a produção",
+        "t": 14824
+       }
+      ]
+     },
+     {
+      "texto": "O Claude Code salva as sessões em uma pasta, então nada se perde",
+      "t": 15002,
+      "filhos": [
+       {
+        "texto": "Basta pedir para recuperar a última sessão",
+        "t": 14967
+       }
+      ]
+     },
+     {
+      "texto": "Lead da landing page entrou na pipeline, mas não em Cadastros, e foi mandado corrigir",
+      "t": 15269,
+      "filhos": [
+       {
+        "texto": "Todo lead de landing page deve ir para Clientes e para a pipeline",
+        "t": 15305
+       }
+      ]
+     },
+     {
+      "texto": "O pentest fica para a semana que vem; as correções levam de 30 a 50 minutos",
+      "t": 15385,
+      "filhos": [
+       {
+        "texto": "O próximo encontro abre com o pentest, será só de vendas e verifica o pentest no final",
+        "t": 15415
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "texto": "Dúvidas finais e encerramento",
+    "t": 15459,
+    "filhos": [
+     {
+      "texto": "Levar o Claude Code para quem já usa o Codex",
+      "t": 15497,
+      "filhos": [
+       {
+        "texto": "Ao baixar o Claude para desktop e logar com a conta da Anthropic, ele já fica com o Claude Code instalado",
+        "t": 15497
+       },
+       {
+        "texto": "Peça ao Codex para escrever no CLAUDE.md quem você é, seus projetos e as skills",
+        "t": 15529
+       },
+       {
+        "texto": "Assim o Claude vira uma espécie de irmão gêmeo do Codex",
+        "t": 15529
+       }
+      ]
+     },
+     {
+      "texto": "Criar um subagente com o treinamento para os corretores acessarem, via Telegram",
+      "t": 15589,
+      "filhos": [
+       {
+        "texto": "Peça à Naia outro bot e conecte o subagente nele, liberando o ID do Telegram de cada corretor",
+        "t": 15598
+       },
+       {
+        "texto": "Defina o que o bot pode e não pode responder e limite as mensagens por dia, senão acabam com o token da conta",
+        "t": 15622
+       },
+       {
+        "texto": "Mande o material para a memória do agente e coloque na identidade que ele é um agente de suporte",
+        "t": 15648
+       }
+      ]
+     },
+     {
+      "texto": "Para entender infraestrutura e funcionalidades, assistir o encontro da semana passada",
+      "t": 15744,
+      "filhos": [
+       {
+        "texto": "No começo da aula anterior houve uma aula de infraestrutura",
+        "t": 15753
+       },
+       {
+        "texto": "Na quarta seguinte a primeira turma encerra e ele apresenta a continuação para quem quiser",
+        "t": 15762
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

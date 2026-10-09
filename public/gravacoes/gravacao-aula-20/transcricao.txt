@@ -1,0 +1,338 @@
+COMUNIDADE AVALANCHE - AULA 20
+Ricardo IA Studio: video com Google Flow, do avatar ao comercial pronto
+Gravada em 21/09/2026 (segunda-feira, 20h) - 1h46
+
+Transcricao automatica gerada pelo Zoom. Nomes proprios e termos tecnicos podem
+aparecer escritos de forma errada (por exemplo "Naya" no lugar de "Naia" e
+"nana banana" no lugar de "Nano Banana"). O tempo entre colchetes marca o
+minuto da gravacao, use como atalho para voltar no video.
+
+[00:01:03] denderson.rodrigues: Olha ele aí.
+
+[00:01:06] Ricardo IA Studio: Boa noite.
+
+[00:01:09] denderson.rodrigues: Boa noite, povo. Entrando.
+
+[00:01:20] Ricardo IA Studio: É um.
+
+[00:01:22] denderson.rodrigues: Vinte horas em ponto. Deixa eu tirar esse barulho, que é o inferno meu. Quando fica fazendo barulho pra todo mundo entrar e sair. E aí, muito boa noite. Vamos dar uns cinco minutinhos para a galera chegar e a gente já já inicia enquanto estou aqui querendo matar o Claudio na hora. Quando o Rodrigo abre a câmera bem na cara dele, assim, ó em zoom.
+
+[00:03:31] Ricardo IA Studio: Nem começou. Ele já levantou a mão.
+
+[00:03:35] denderson.rodrigues: Eles levantam a mão só para eu colocar eles como co anfitriões no começo.
+
+[00:03:43] Ricardo IA Studio: Está explicado. Ele está brincando de estátua.
+
+[00:03:51] denderson.rodrigues: Travou. Deve ter travado. Deve ter travado. Peguei minha tradicional caneca dos Vingadores que hoje eu sou espectador. Também.
+
+[00:04:17] Ricardo IA Studio: Por acaso, breve teremos.
+
+[00:04:19] denderson.rodrigues: Em breve teremos conta pra eles. Aí, cara. Você vai mostrar durante a longe as imagens. Em breve teremos souvenirs da equipe Naya. Canecas blusas, camisetas.
+
+[00:04:35] Ricardo IA Studio: O meu é zero, tá.
+
+[00:04:37] denderson.rodrigues: É o meu também.
+
+[00:04:38] Ricardo IA Studio: A Fiesta mangou.
+
+[00:04:40] denderson.rodrigues: Só compra o zero. Eu gosto do Monster Branco e o Head reduzindo.
+
+[00:04:46] Ricardo IA Studio: E aí? O meu é do Quarteto Fantástico.
+
+[00:04:51] Alexandro Zava: Já que é pra ser zero ou vai de coca. Então.
+
+[00:04:55] denderson.rodrigues: Aí, coquinha zero também é boa. Também gosto.
+
+[00:04:57] Ricardo IA Studio: É horrível.
+
+[00:04:59] denderson.rodrigues: Bem. Nossa, dois minutinhos. A gente começa em respeito a quem chegou na hora. Tem gente lá no grupo de estudos que ainda está. Ainda não se habituou aos horários. Sabe que horário que é? Qual horário, cara? Eu fico impressionante como eu sou bom vendedor, porque as pessoas compraram um grupo de estudo sem ver a oferta, velho. As pessoas me chamam e falam assim: ei, quantos encontros. Vai ter mesmo. Eu falo. Você não prestou atenção na hora que eu te vendi. Eu sou muito bom vendedor ou eu sou muito bonito, né? As pessoas olham para mim e falam. Preciso comprar desse negão aí, velho. Não é possível. Não.
+
+[00:05:37] Ricardo IA Studio: Vocês contam ou eu conto.
+
+[00:05:39] denderson.rodrigues: A galera compra sem saber o que tá comprando, bicho. Literalmente. Eu fico assustado. Às vezes.
+
+[00:05:45] Alexandro Zava: Melhor. Não, Ricardo, deixa a autoestima. Está alta.
+
+[00:05:50] denderson.rodrigues: Não, minha autoestima sempre é alta. A minha esposa. Sempre que ela fala alguma coisa, eu falo. Você casou bem, hein, bicho? Puta que eu pariu!
+
+[00:06:04] Alexandro Zava: Eu já falo o contrário. Não reclama. Não são os meus defeitos que te proporcionar. Esse marido.
+
+[00:06:11] denderson.rodrigues: É isso aí. Bora gente. Vamos começar hoje a nossa aula é com o Professor Ricardo. O Ricardo faz parte da Comunidade desde a fundação dela. E ele é muito empenhado. Eu gosto muito do Ricardo do Zava, mas alguns membros da comunidade que são muito empenhados não só em participar em aprender, mas em ajudar. E o Ricardo sempre impressiona a gente lá com as imagens que ele faz com os vídeos que ele faz. Todo mundo sabe que não é lá uma grande especialidade minha. Vídeos e imagem. O que eu sei de vídeo e imagem. É o que eu peço para a Naya fazer. Naia faz um vídeo aí para mim e ela faz. Mas o Ricardo se dedica. Então ele estuda bastante sobre isso. Ele até está me ajudando com o projeto de botar a loja no ar junto com a Armand. Daqui a pouco, a gente vai ter uma lojinha para vender lá algumas coisas. O objetivo da loja não é ganhar dinheiro. Não é só vocês terem mesmo uma caneca bonita, um copo bonito, uma camisetinha da Naya e o Ricardo, que está tocando essa parte aí. De fazer as imagens lá, para poder entregar para o time que vai produzir todos os os souvenirs da nossa loja. Então Ricardo já tá como anfitrião, tá contigo? Toca bola. Eu vou ficar aqui só de espectador também assistindo. E vou estar no chat também participando aí.
+
+[00:07:28] Ricardo IA Studio: Senhor. Sim, senhor. Vamos lá.
+
+[00:07:31] denderson.rodrigues: Manda ver meu irmão. A aula é sua.
+
+[00:07:46] Ricardo IA Studio: Perdão. Toda vez que eu compartilho com áudio, ele arranca meu áudio. Eu sei que.
+
+[00:07:53] denderson.rodrigues: Vai.
+
+[00:07:54] Ricardo IA Studio: Pois, eu lembro. Como é que faz.
+
+[00:07:59] denderson.rodrigues: Ah, não entendi. Pronto, foi. Estou vendo você e estou te ouvindo. Tô vendo sua tela e estou ouvindo.
+
+[00:08:04] Ricardo IA Studio: Estamos vendo a. A Maya.
+
+[00:08:07] denderson.rodrigues: Agora você parou. Mas já tinha ido. Agora sim.
+
+[00:08:11] Ricardo IA Studio: Pronto, vamos lá. Ué.
+
+[00:08:16] denderson.rodrigues: Estamos vendo. Estamos vendo.
+
+[00:08:19] Ricardo IA Studio: Na minha tela.
+
+[00:08:21] Alexandro Zava: A sua tela.
+
+[00:08:22] Ricardo IA Studio: Então, tá bom. Só tô vendo eu e o Denderson. Mas vamos lá.
+
+[00:08:27] denderson.rodrigues: E aí?
+
+[00:08:29] Ricardo IA Studio: Não tem problema. Eu olho para ele e me inspiro. Gente.
+
+[00:08:36] denderson.rodrigues: Fechar minha câmera pra não te distrair.
+
+[00:08:39] Ricardo IA Studio: Não de boa. Ah, agora ele vai dormir, gente. Por isso que ele fechou a câmera. Tá? Vamos lá. Presumo que todo mundo já tem. Em algum momento usado o Flow do Google. O Flow é ótimo para fazer clones, ou como eles chamam Avatares, tá? Essa aqui, por exemplo. É a Maya. Ela também é a minha Naya. Além de ela ser a Maya, ela é a Naya. Mas, ó, vamos lá. Antes de eu começar a passar aqui, vamos abrir um lá. Um Flow não é esse como passar vergonha ao vivo. Vamos lá. É isso mesmo. Todo mundo conhece essa tela aqui. Opa, cadê o? Uhum deixa eu deixar o chat aqui aberto para poder ver o que é Flow. Ricardo Melo. Lindo nome. Ricardo Flow. É do Google. Tá, é uma plataforma onde você gera imagens praticamente de graça. De graça. Eles têm um limite muito bom. E também gera vídeos lá. Mesmo que a conta seja de graça, você consegue gerar uns três vídeos por dia no novo gerador de vídeo, que é o Flow três.um. Ele consegue gerar umas cem imagens lá de graça. E eles têm uma. Um Fitcher lá muito interessante, que é o seguinte: você pode gerar um clone seu. Você precisa saber um pouquinho de inglês, tá? Então, ó, o meu aqui já existe. Mas basicamente é o seguinte: ó, você vem no Flow Google Flow Googlecom vem aqui, no onde tiver a sua foto ou um desenhinho ou alguma coisa assim. E clica em criar avatar seu rosto, sua voz. A sua história clica em começar. Ele vai abrir, tá aqui. O tempo tem andado muito ruim e o sinal está indo junto. Então, ó, o que ele vai pedir? Ele vai pedir para você escanear junto pelo celular. A conta que você estiver usando do Google, tá? Então, por exemplo, aqui eu estou usando a minha conta. Ela tem que estar alugada também. No celular. Que você vai usar para fazer o reconhecimento facial, certo? O. Ele vai pedir para você falar alguns números ou letras. Tem que ser em inglês, gente, se vocês tentarem em português, ele não avança. Tá certo, Zaba. E aí.
+
+[00:11:52] Alexandro Zava: Sofriam.
+
+[00:11:53] Ricardo IA Studio: E aí?
+
+[00:11:55] Alexandro Zava: Meu Ingrid Piniquim.
+
+[00:11:57] Ricardo IA Studio: Uma coisa que dá para fazer é o seguinte: se você tiver o celular e de uma pessoa do lado na hora que aparecer o número, você pede coloca lá no Google para ele repetir as palavras para você os números, e depois você fala para ele mesmo. Quem não sabe, consegue rapidamente, né? Quanto tempo você levouzava? Cinco minutos.
+
+[00:12:23] Alexandro Zava: Ah, mais ou menos. Tive que descer lá, pedir pra minha mulher cantar os números da minha orelha porque o meu sotaque não tava indo bem.
+
+[00:12:32] Ricardo IA Studio: Tem esse pequeno detalhe. Mas ó, eu vou fazer isso aqui ao vivo e a cores. Vamos lá. Aí vai aparecer. É uma selfie de vídeo para você criar o Avatar. Você vai concordar em. Sim, aí vai dar algumas dicas de como fazer isso aperta, continuar. Ele vai abrir sua câmera. É só apertar. Start Eleven noventa e aí, quarenta e dois, vinte e nove. Tchau, vinte e quatro. Na hora que você termina, ele vai pedir para você mexer o rosto de um lado para o outro. Não tenha pressa, tá? Porque ele vai ficar escaneando. Terminou. Ele vai falar que está subindo, fazendo upload. Tem alguém fazendo ao vivo rapaz.
+
+[00:14:27] Alexandro Zava: Passou de primeira.
+
+[00:14:31] Ricardo IA Studio: A vantagem. O Lucas está fazendo também é uma das vantagens também em inglês. Aí ele vai falar que pode retornar para o aparelho. Falando nisso, para desligar para o celular. Agora a gente pode criar um projeto. Vem aqui. Novo projeto aqui. Ele já abre com a gente ligado. Vocês podem desligar. Deixa eu aumentar um pouco a tela, né? Aqui, quando ele está branco, a gente está ligado. Vocês podem desligar o agente? De início, você vai falar. O que você quer criar aí? Você pode falar. Coisa simples. Infelizmente, não dá para falar com ele. Tem que digitar mesmo. Criei uma imagem minha em um deleiro. Aí você aperta o arroba e ele vai buscar. Você está sendo como eu ou mim? Depende da configuração dos do computador. Seu. Ele funciona também no celular. Agora, tá aí você vem aqui, você vai primeiro gerar a imagem. Você pode escolher nana banana pró nana banana dois ou nana banana dois light escolham sempre o dois. Ele é o melhor até agora. Quantas imagens você quer? Aquele gere uma, duas, três ou quatro. E é só a geração vai usar zero crédito. Ele informa aqui embaixo mandar zerar, lembrando. Ele está escaneando seu rosto. Ele não está escaneando seu corpo. Então o corpo. Você vai ajustando. Você pode falar para ele? Olha, eu sou mais forte. Eu sou mais esportinho, né? Tá aí ó, ficou tão igual. Eu não entendo como que ele escaneia meu rosto. E ele sabe que eu tenho uma barriga desse tamanho. Gente tem alguma bruxaria nesse nesse negócio. Aí você fala, Ah, tá? Eu não sou bem assim, né? Vamos mexer um pouquinho. Então você vem aqui, ó, gere uma imagem minha. É um veleiro. Coloca lá. Ó, ele já vai trazendo as imagens aqui que ele está gerando, tá, você vai lá no eu. Mas eu sou mais forte, ó musculoso e manda gerar novamente. Essa é a parte que a gente brinca um pouquinho. Depois a gente fica mais sério. Se vocês vissem, usava na Academia. É um negócio assim. Mandei pro escritório.
+
+[00:17:59] Alexandro Zava: Dei para o meu grupo da família quando falaram que era Iay, eu falei que eram os invejosos.
+
+[00:18:06] Ricardo IA Studio: Tá aí gente, mulher usa maquiagem e use a, tá? Eu fico sentado aqui. Camiseta preta. Não dá para ver direito se isso é verdade ou não. Mas ó, ficou praticamente igual aqui sumiu com o meu pescoço. Mas tudo bem aí? Ó tá vendo. E como vocês podem ver as imagens, deixa eu baixar uma. Você pode baixar em 1k 2k em 4k teria que aumentar o plano. Mas, ó, vamos lá, deixa eu abrir aqui para dar mais gente. É tão parecido que até eu me assusto. A vantagem do Flow pode ser justa. O corpo, é claro. O rosto vai ser sempre igual. A não ser que você apronte alguma coisa na hora de fazer. Você vai fazer um prompt, e o Prompt tem uma descrição sua no Google. Não precisa ter uma descrição do seu rosto. Pode ter uma descrição do corpo. Pode ter uma descrição da roupa que você vai usar, mas se você descrever o corpo, pode ser que ele altere. Aí ele dá uma bugada que ele entra em conflito entre o que você está falando? Para ele? O que você é. E a imagem que você está mostrando fazer mais uma aqui. Me coloque em uma academia academia malhando aí. Ó, o que acontece se eu não colocar o Mi, então o Will hoje eu tomei apenas dois litros de energético. Então, se de repente eu caí da cadeira. Vocês já sabem por quê? O coração parou. Marco, consegui entrar, mas não pedi esse processo. Criava taxa sem saber onde encontrar não tem problema. Depois eu vou compartilhar com vocês um. O negocinho que eu fiz. Tá vendo? Como eu não falei que era eu de novo. Não coloquei lá a minha referência. Ele criou várias pessoas numa academia. Então, sempre. Arroba e você desaba. Alguma sugestão de alguma situação.
+
+[00:20:52] Alexandro Zava: Coloca aí mergulhando com tubarão martelo.
+
+[00:20:57] Ricardo IA Studio: Ótimo. Vamos lá.
+
+[00:21:07] Alexandro Zava: Piora. Tem umas fotos.
+
+[00:21:08] Ricardo IA Studio: Da minha.
+
+[00:21:08] Alexandro Zava: Os negros vão falar. Agora que eu tô fazendo? Ia.
+
+[00:21:19] Ricardo IA Studio: Me coloco mergulhando como tubarões.
+
+[00:21:22] Alexandro Zava: Não coloca tubarão martelo. Ele botou aquele lixa lá.
+
+[00:21:26] Ricardo IA Studio: No Mar Cáspio. Não lembro desse caso que tem marcas pelo tubarões e martelo.
+
+[00:21:45] Alexandro Zava: E tubarão limão.
+
+[00:21:49] Ricardo IA Studio: Tropa de mergulho apropriado, apropriada.
+
+[00:22:00] Alexandro Zava: O prêmio. Cinco milímetros.
+
+[00:22:02] Ricardo IA Studio: Mais uma vez. Eu vou lá no eu, incluindo o comando em mando geral novamente. Se eu estiver indo muito rápido, por favor, me avisem aí. E como sempre, ela não podia deixar de alucinar, né? Me deixou mais gordo ainda. Tá? E, ó, tô com a boca aberta de novo. Por isso que eu sempre mando gerar mais do que uma. Já estou acostumado com esse negocinho alucinando toda vez que eu vou criar alguma coisa, também de personagens, eu peço para ele criar um caracter chip. Criei o caracteristic New meu avatar foto realista. Se eu colocar só caracter Sheet, ele provavelmente vem algo animado. Um desenho porque caracterith foi usado muitos anos até hoje por estúdios de animação, para criar todo personagem de lado de cima, paleta de cores. E por aí vai. Se alguém aí já criou alguma coisa. Vai mandando no grupo aí as fotos para a gente ver. Esse é o famoso caracteristic. Essa é uma forma também de evitar que a Ia Alucine muito quando você faz qualquer tipo de vídeo até gerando algum tipo de imagem, ele traz bastantes detalhes até eu, Bravo aqui, ó, mais uma vez, ó, acertou a barriga. Começar a colocar mais cabelo também em mim. Vou estar na apresentação, tamo lá. Ele era para que usar tanto o personagem quanto os avatares. Para manter a consistência de um personagem. Aí você escolhe quem vai aparecer na história. Se vai ser você. Se você vai criar um personagem. A referência Zaba está mandando imagem, mas não apareceu ainda. Essa quarta foto. Você está virando de óculos de grau. Eu não enxergo sem óculos, por isso, entendeu? Ó sempre o avatar ou o personagem ou os dois, tá? Você pode misturar os dois. Eu já vou mostrar para vocês também como é que faz o personagem e uma referência de cena que é o ingrediente. Pode ser uma imagem de personagem, objeto ambiente. Pode usar sem um cadastro. Também projeto completo. Ele vai reunir imagem, vídeo e montagem. Você tem imagem? E você tem o vídeo lá dentro que nem eu tinha falado. Olha, o Filipe. Aí usava também estar brincando com os tubarões. Vamos lá depois eu vou mandar isso aqui no grupo. Tá para vocês. Então aqui vai ter como abrir Flow, conferir custos, como criar seu avatar, projeto onde cria o que fazer aqui. Como eu falei, e eu uso o ia para me deixar apresentável, pelo menos. E outra coisa que vocês vão perceber na hora que ele pergunta, na hora que ele pede para você falar os números. Ele está gravando sua voz também. Então, além da sua aparência, vai poder usar a sua voz mesmo aqui vai ter. Tudo. Troca o ambiente. O rosto está sempre igual. Tá vendo? Agora vamos gerar um personagem que quando a gente faz tudo isso encaixar aqui, ó que tem personagens, você pode usar personagens que já existem. Tá? Então, por exemplo, vamos usar isso aqui excêntrico. Ele vai adicionar aqui. Só um minutinho que ele está pensando. Ele vai colocar uma descrição em inglês. Você clica em continuar aqui. Ele até tem criar corpo, tá? Você pode dar um nome para o personagem aí. Ó, então o nome dele. Sugestões de nome Ângela. Ele citou no Flow. Sim, vamos lá. Tchau, nome que não tenha ninguém assistindo. Barão Verde. Aqui você vai selecionar uma voz para esse personagem ao selecionar a voz, tá, você vai ter aquela consistência da voz do personagem também. Se você usa o Flow e só vai gerando os personagens, situações sem escolher essa voz. A voz vai alterar uma hora. Ela vai estar fina uma hora. Ela vai estar grossa. Não tem consistência. Esse aqui. Ele permite que você mantenha. Deixa eu ver se eu consigo compartilhar com a voz. Agora. Não sei que tem um jeito aqui que eu sempre esqueço. Ah, já sei da cena Da Especie tirou meu áudio. Estamos sem em cima, irmão. Coloquei uma voz aqui. Você pode descrever como ele age do Flow. Pode usar essas informações para ajudar a criar cenas com personagens. Então, pronto, ele tem bom tipo no olho esquerdo, e fica pegando na orelha retrato. Você pode criar o corpo também. Você pode enviar uma referência, então você pode adicionar do projeto que você já tem lá. Escreva o corpo e a roupa. Eu posso pegar essa imagem aqui? Peraí. Devia ter feito isso antes, mas não faz mal, aqui, ó corpo magro. E aí, férias grandes. Vocês podem pedir tudo isso, tá? O Rodolfo está nadando com os tubarões também. Raquel, acho que você tem parado e eu compartilhar novamente. Toda vez que eu faço isso, compartilha áudio ele tira meu áudio e eu esqueci como é que faz para ele não tirar o áudio aí, ó magro, com pés grandes. Então, o que vocês descreverem aqui, ele vai criando. Tá bom, ó concluir. Você já tem um personagem chamado Barão Verde. Para não ficar essa confusão aqui de imagens. Vocês veem aqui, ó nova coleção. Então esperar um pouquinho enquanto ele cria pré nomear, é o aí. Você pode pegar todas essas imagens para elas não ficarem. Não se perder. Vai jogando elas aqui dentro. Pode selecionar também. Deixa ficar jogando uma por uma seleciona e arrasta. Tem lugares que ele permite selecionar. E tem outros que pronto. Ele era pra aparecer a imagem aqui. Mas como ele tá devagar hoje. Então ó veio aqui, cria o outro. Nova coleção foi nomeado erros de geração. Aí eu já vi esses aqui. Eu criei um palmarão verde. Já apareceu. Vai facilitando sua vida para não ficar quinhentos mil imagens aqui. Nova coleção. Meu nome é Barão. Alguma dúvida de como criar o personagem ou o avatar? Ninguém, não é porque o áudio não ativa tudo. Ok, então vamos lá. Ele criou apenas não sou eu. Deu errado. Às vezes depende da câmera que você está usando. Depende da iluminação. Às vezes depende do fato de como você se vê também tá Avatar do gato sempre faz. Você pede para o chat Gpt ou para o Gemini, ou para qualquer um desses geradores para ele fazer uma descrição do gato. Tá aí você pode pedir até para um deles gerar alguma imagem. Ouça, você só traz o prompt. Aqui. Gera a imagem do gato, entendeu? Gere homenagem de um gato próprio realista. Tchau, preto, olhos azuis. Perder a parte que você vai moldando a parte do sorriso do corpo e tal. Vou criando vários prontos. Não pode ser um prompt só comando de fazer você com todos os ângulos. Chama caracter shift. Vou colocar aqui no grupo. Vamos lá. Cadê o gato aí, ó gatinho de olhos azuis. Dá pra usar a foto do gato real? Sim, valeu. Você pode colocar também deram homenagem, candidato de um galo malhado, olhos de mel. Ele está em uma num telhado olhando para baixo. Pode fazer também avatares. Você pode criar eles aqui, ou você pode trazer ele e usar a imagem da referência. Você pode também melhorar imagens. Vou dar um exemplo. Tá aí, ó, ele cria umas imagens fantásticas. Vamos melhorar uma imagem também. Você pega um print de uma tela, por exemplo. Não avisa a pessoa tá que você fez isso, quer para ela ficar quietinha. Ela não se mexer. Você arrasta a imagem para baixo. Aí você coloca, melhore a qualidade desta imagem. Definição boa. Sombras aqui. É simples. Você só vai pedir para melhorar a imagem. Isso é bullying aí. Ó, mas já que você tá fazendo isso, tinha que.
+
+[00:38:22] Alexandro Zava: Focado aí. E que bonito também.
+
+[00:38:24] Ricardo IA Studio: Olá. Que eu faço com ele toda hora, não é Bullying? Não, Bruno. E da cadeia. Aí, ó, pegou uma imagem que não estava muito boa e trouxe. Zaba está aprovado ou o rosto ainda está.
+
+[00:38:48] Alexandro Zava: Podia ter adicionado ali no prompt, deixar mais bonito, né? Ou ele não faz milagre.
+
+[00:38:56] Ricardo IA Studio: Exatamente. Eu não ia falar. Mas já que você falou nascer de novo aí com essa imagem. Opa, ele faz isso às vezes tá gente não liga. Não, ele sai dos projetos. Agora. Você pode pegar essa imagem, por exemplo, que ficou melhor você traz arrasta ela aqui. A mesma coisa que eu fiz. Coloque ele em uma. A carta Denia, super musculoso, com várias admiradoras em volta.
+
+[00:39:54] Alexandro Zava: Eu vi um desse. Daí, Ricardo que a mulher coloca, tá? Ela e o marido. Só que ele tá sério. Ela joga na Iá e fala assim. Faça meu marido feliz. Aí coloca mais quatro mulheres na foto com ele.
+
+[00:40:10] Ricardo IA Studio: Gente. Graças a ia. Eu consegui fazer uma foto da minha mãe sorrindo. Ela nunca sorriu em foto. Ah, mas os detalhes que ele busca, fica muito bom. Fica realmente. Fica aí. Ó Zaba, eu não vou enviar essas portas para você, né? Porque vai? Que ó isso ainda está com fone de ouvido? Vai que sua esposa acha que é de verdade. Eu não quero bater em ninguém. Não quero que ninguém bata em ninguém. Alguém quer mandar alguma sugestão de imagem aí? Pode mandar antes da gente entrar na parte séria. Vai mandar os arrasou e ficar com olhar. É uma parte sério. Então vamos lá. Volta para abrir aqui de novo. Então, ó, mais ou menos. Já viram como é que funciona lá? Você pode descrever aparência, o figurino, o estilo eu usei a animação 3d e atuação até isso, tá? Guilherme não usava pulando dos paraquedas para ver o ventre no rosto. Então vamos lá. Ó, aqui. Basicamente é o que eu fiz há pouco, criando os personagens, tá, os personagens que estão em inglês e new Character. Mas é a parte de criação do personagem característico tá o caracteristic. Toda vez que você fizer pedir para ir a fazer, ele vai fazer diferente. Tá é normal, tem uns que ele traz. A pessoa de corpo inteiro tem um que traz só o rosto. Tem um que traz paleta de cores e assim por diante. Se você quiser que ela seja sempre quase uniforme, você precisa criar um promotting que você pede especificamente o que você quer ali? Tá, vamos lá. Preserve a entidade dirige ação. Então, rosto, traço e figurinos. Usa sempre a mesma referência aprovada, mesmo estilo visual, ambiente, pose e câmera. Isso aqui é importante. A iluminação pode mudar com a cena. Compare se o personagem continua reconhecível. Tá, vamos para Covid, você pode fazer texto para vídeo, tá? Como chama esse comando? Qual o comando, Raquel? Enquanto ela digita gente? Eu não sei qual é o nível de todo mundo. Então eu meio que baseiei um pouco na parte simples, tá, então, ó, tem o texto para vídeo que mostra as posições. Esse, ah é o caracter shift. Depois vocês vão ter tudo isso. Tá, eu envio no grupo lá essa parte, isso, caracteristic. Então, ó texto para vídeo: se vocês virem, estou colocando aí no grupo. Se vocês virem isso aqui. Ó vocês virem isso aí, ó T2v. Em inglês, é a sigla de text to video. Quando você vai descrever a cena? O personagem tá texto para Bíblia. Aí você tem o frames ou imagem para vídeo que pode ser representado como I2v, que é image do vídeo também, tá? E tem também vídeo para vídeo, tá? Essas três costumam ser as mais comuns. Então escreva a cena útil para testar a composição da atmosfera. Use uma imagem inicial aprovada. Quando suportado, adicione também o quadro final. Se você quiser e combinar referências, então você pode colocar o personagem ambiente objeto e explicar o papel de cada um na cena. Tudo isso. Você pode usar chat Gpt. Pode usar o cloud e tal para pedir tudo isso. Dá um zoom na tela. Assim, Tereza. Depois eu vou enviar para vocês, tá? Fica tranquilo. Um gesto, uma câmera, uma frase, e uma câmera bem definida aqui são exemplos. Tá? Outra coisa está aqui também. Ainda bem que eu coloquei via de regra. Quando você pede alguma coisa sem especificar muito ele tende a trazer personagens americanos ou asiáticos, tá? Por quê? Porque a maioria das ferramentas americanas foi treinada com personagens com americanos, com fotos de americanos e as chinesas, é claro, com asiáticos. Então, se você não colocar lá, por exemplo, cria uma imagem de uma mulher brasileira da região da Bahia, da região do nordeste de São Paulo. Ela vai trazer uma referência própria. Geralmente vai para ser uma americana. Se você não descrever que é uma casa brasileira, que é uma casa espanhola, dependendo do que você quer fazer Argentina? Não importa. Ele vai trazer sempre o default dele. O default dele. É sempre Estados Unidos, por exemplo, no Flow. Se você for usar o Driamina dreamilha, vai trazer as referências asiáticas e a vós, se você colocar lá. Ah, o personagem fala. Oi, bom dia. Como está todo mundo? Não sei o quê. Pode ser que saia tudo em inglês. O Flow oscila tem dia que isso aqui. Acerta tudo, mesmo sem você colocar nada. E tem dia que ele falha tudo. Mesmo você tendo colocado o negocinho, é meio doido, mas na maior parte do tempo, ele funciona bem antes de gerar. Escolha a duração. Quantos segundos você quer, Siri? Aqui, ó vamos lá, nosso amigo usava aqui. Você volta aqui. Vídeo, frames, frames. Seria a imagem inicial e imagem final, ou só a imagem inicial. A gente pode colocar essas duas. Vamos colocar a inicial. E afinal ele começa com camisa, e ele termina sem camisa. É bom aqui ainda você vai escolher isso vai ser dezasseis por nove, nove por dezasseis. Qual deles você vai usar? Como eu falei, Omni? Um.um flash até agora é o melhor deles. Não usem o véu três.um Quality por achar que realmente a qualidade é melhor. Não há, não é? Tá, eu cansei de queimar crédito nisso. Aqui ele erra tanto ou não, senão mais que os outros. E esse aqui olha para gerar quatro vídeos. Ele vai usar quatrocentos créditos e não tem por onde o Omni Flash. Ele usa dez segundos quinze graus por vídeo. Vamos gerar um de cada vez, trezentos e sessenta Pi, que você pode depois aumentar para setecentos e vinte. Ele usa menos créditos, e depois você pode aumentar a resolução. E ele também gera mais rápido. Nós vamos deixar em setecentos e vinte. Se você tiver um plano maior, ele vai até um.oitenta ou até 4k: 2k: 4k definiu aqui o que você vai querer? Você tem que escrever aqui, né, homem, a academia malhando e aí, sendo admirado pelas fãs, retira a camiseta ao som de admiração das mesmas. Mais uma vez, aqui você pode fazer o limite. É sempre dez segundos. Sim, no Flow, aqui. Sim, tem outras. Como vocês sabem, tem outros geradores de vídeo que o cdream dois.cinco, por exemplo, chega a trinta segundos e ele suporta até cinquenta imagens de referência. Mas ele também gasta muito, muito mais crédito, e ele também viaja. Todas elas viajam. Na verdade, aqui você pode fazer algo muito melhor. Você vai no, por exemplo. Vamos pegar aqui. Eu vou copiar esse pedacinho. Vou vir aqui. Novo chat. Melhore esse. Pronto, vou usar ele no Flow. Um vídeo incrível. É o Omni Flash três.um. E se eu não colocar o pronto, não vai adiantar nada. Ok, vamos de novo. E aí alguém sabe como que essa telinha aparece só por aí uma parte aí para quem usa Windows. Isso aqui é útil, porque ele vai gravando as últimas. Tá vendo tudo que eu coloquei aqui por último. Ele vai aparecendo aqui. Ó, as últimas dez, mais ou menos.
+
+[00:51:39] Alexandro Zava: Área de transferência do Windows.
+
+[00:51:42] Ricardo IA Studio: A área de transferência Windows V. É isso mesmo, Walter. E ele quebra um galho. Viu quem não conhece, comece a usar, que vale a pena mundial. Pronto, vou deixar a cena mais cinematográfica com momentos naturais e reações bem feitas. O que vai trazendo. Você só precisa da ideia inicial. Se você tendo a ideia inicial, pede prochete predominar e tal Claude tá para ele melhorar isso para você. E aí você vê se dentro do que ele gerou. Geralmente é o que você quer. Dependendo da cena, você vai pedir para ele também a colocar a câmera que está sendo usada, a lente que está sendo usada, o enquadramento, a pessoa e a referência tipo de ação, o ambiente, a luz, e o estilo e o som e a fala. Você pode colocar tudo isso aqui. Vamos voltar para o Flow. Vamos gerar. Ele antes demorava bastante agora até que ele está ficando mais rapidinho aqui. Vocês viram, eu coloquei início e fim. Você pode também deixar só como elemento elementos você pode colocar até dez aqui. Você pode trazer o ambiente. Você pode trazer o personagem. Dois, três personagens. Então vamos fazer assim. Ó, vou trazer. Vou me trazer. Vou trazer o Barão Verde e vou trazer o gato aqui. Eu coloco. Coloque todos os todas as luz, personagens no telhado do lado, no gato. Primeiro, fazer a imagem. Tá sempre bom. Partir de uma imagem antes de você fazer gerar o vídeo. Mesmo para testar se está dando certo. Falha, esse comando pode virar nas coisas contra a geração de conteúdo sexual. Exato, você está muito, muito, sexy. Você pode fazer duas coisas. Você vem aqui reutilizar Comando você. Mandei ele gerar novamente. Como vocês podem ver, quando esse negócio erra, ele erra bonito aí. Ó nossa, não ficou nada legal aí, ó, levou tudo vai acontecer bastante. A gente já vai mudar isso aí, aqui. Ó, eu mandei fazer quatro vídeos sem querer. Não faz mal se o erro persiste. Você pega isso aqui, dá um print na tela. Volta aqui e fala aqui. Ó aí você fala, né? Não gerou o vídeo. Olha a mensagem de erro. Ele vai ver o que aconteceu e ele vai mudar. Vai tentar mudar pelo menos para ver, uh, uh, olha lá. A mensagem indica que o Flow interpretou pedido com possível conteúdo sexual. Combinação de retirar a camisa, destacar o torso e mostrar reações de desejo pode ter causado o bloqueio. A imagem. Também falam que não houve cobrança. Aí, o que ele faz, ele corta os elementos que ele acha que provocaram alguma coisa indevida. Mas, ó, tá vendo? E aí ele. Ele fala que erra. E depois ele faz isso. Ele não tirou só para cá isso. Ele não só atirou. Ele rasgou a camisa. Vamos ver se aqui ele também rasga a camisa. Só um minutinho. Eu vou colocar com áudio para vocês verem e aí baixar.
+
+[00:58:14] Audio shared by Ricardo IA Studio: Uau! Nossa, Uau! Nossa.
+
+[00:58:47] Ricardo IA Studio: E aí, Zaba? Mais ou menos assim.
+
+[00:58:53] Alexandro Zava: Para as mulheres do grupo. Saber é homem. Sendo quinta série, sempre.
+
+[00:58:58] Ricardo IA Studio: Para. E aí? Que susto, Kleber, como é que você sabe que a voz dele é essa na Academia? Explica. Aí. Vamos lá. Agora vamos ver o que aconteceu aqui. Logo todos lado a lado. Proporcionalmente, as medidas de cada. Dá um, ver se está a imagem? Está a imagem. Vamos lá de novo. Não complica. Não é aqui. Ele não está funcionando muito bem. Não lembra quando eu falei para vocês. Tem dia que funciona. Tudo perfeito. Tem dia que nada dá certo, mas, ó, vamos copiar a gente vem aqui. Vamos enquanto ele carrega. Deixa eu falar com sete Gps. O Gpt é o seguinte: a imagem. Estou gerando ela no nano banana dois pelo Google Flow. Coloquei três personagens, um gap, personagem e um avatar. E quando eu peço para gerar, ele está tudo fora de proporção. Vida. A imagem anexa faz um pront para corrigir tudo isso aí, por favor. Vamos ver o que ele vai fazer. O gato ficou gigante. O personagem parece que está sem apoio. E seu avatar ficou com a parede recorte para você definir a escala e colocar os três pela mesma superfície aqui, ele já traz o que eu falei. Ó, aparência de lente de cinquenta milímetros. Reconstrua a composição com escala, perspectiva e apoio físico coerente. Vamos copiar aqui. Sabe o que ele fez isso aqui hoje? Mas tudo bem, nós vamos levar lá para o Google Flow vai usar. Paga tentar mais uma vez. Alguém colocou um personagem, um avatar de uma máquina de lavar roupa. A pessoa. Está aí? Deixa eu ver quem foi no grupo melhorou, melhorou. Ficou bom. Não Doleison Glennson está aí? Tá, não estou conseguindo abrir o áudio. Espera só um minutinho, Zaba, você consegue liberar o áudio dele, por favor? Muito obrigado, aí, gente. Por mais que tente, às vezes não dá certo quando eu começo a errar muito assim. Kleber Gleison.
+
+[01:03:20] Alexandro Zava: De lei.
+
+[01:03:20] Ricardo IA Studio: Gleison, Giolino, ou você continua tentando até acertar.
+
+[01:03:27] Alexandro Zava: Está liberado. Opa, foi aqui.
+
+[01:03:31] Gleison Diolino: Tchau. Põe aqui. Desculpa, não estou podendo abrir a câmera, senão vai ser sensual. Igual. Usava três trajes inadequados. Fui eu fui eu. Só a falta de perfil.
+
+[01:03:51] Ricardo IA Studio: Só um minutinho.
+
+[01:03:52] Gleison Diolino: Gerir a criação de um vídeo. Aí.
+
+[01:03:55] Ricardo IA Studio: Isso do seu avatar, Milton, já já eu respondo. Tá.
+
+[01:03:59] Gleison Diolino: Obrigado. Isso aí. Ó.
+
+[01:04:02] Ricardo IA Studio: Aqui virou bonito, é isso? Até. Não, está tudo horrível. Fala isso aqui. Como fazer separar você separa os tanto personagem quanto seu avatar, quanto o gato. E aí você gera uma outra imagem, ou descreve apenas a imagem. Geralmente dá certo. Eu não vou perder muito tempo, que já são nove horas, tá no caso. Depois eu mando para vocês o Prompt. Tudo bonitinho deu. Vamos selecionar tudo isso aqui. Se ele deixar eu selecionar. Tá vendo? Às vezes ele deixa. Às vezes ele não deixa. Mas tudo bem, perfeito. Eu. Eu tirei um print da da sua máquina lá de lavar. Você já tem algum. Já fez algum vídeo desse desse avatar seu. Da máquina de lavar a roupa, seu fone está desligado. Desaba.
+
+[01:05:44] Alexandro Zava: Ô Ricardo! Eu vou ali. Eu criei o Avatar aquele dia com você. Eu tenho um vídeo. Eu quero criar um novo Avatar. Mas quando eu clico lá na minha foto e tem na opção Gerenciar Avatar, ele só tem a opção de substituir ou excluir. Eu não posso criar mais do que um avatar.
+
+[01:06:03] Ricardo IA Studio: Não por enquanto. Ele está. Está bloqueado para isso. Até agora, eu não li nada que eles pretendam mudar. Mas você pode criar um personagem, o personagem, vocês, usando as imagens da referência do seu clone. Do jeito que você quer. E descrição, você faz a mesma coisa.
+
+[01:06:32] Alexandro Zava: Ah, não.
+
+[01:06:32] Ricardo IA Studio: Vamos lá.
+
+[01:06:33] Alexandro Zava: Era pegar um vídeo do meu cunhado. Ele faleceu e a ideia era fazer um vídeo dele chegando no céu. E eu ia mandar para a minha sogra.
+
+[01:06:44] Ricardo IA Studio: Você coloca ele como personagem.
+
+[01:06:47] Alexandro Zava: Personagem.
+
+[01:06:48] Ricardo IA Studio: Isso que eu mostrei lá no início. Vamos abrir outro projeto aqui. Aqui. Você procura vídeo na mídia. Então, ó, eu venho aqui. A sua vai estar sempre aqui, tá? Ela não desaparece. Não importa o projeto. Então ó lava aí. Como eu só tenho essa imagem aqui, porque às vezes os clientes fazem isso, tá? Eles mandam coisas incompletas pela metade, e por aí vai. Então, ó, você vem aqui e aí extraia o Avatar. Bom que ele já tem nome, né? Lá vai. Aí ele tem pernas, aparentemente, né? Extrai o Avatar. E lava aí. Vamos ver o que ele traz. Primeiro. Nenhuma imagem limpa. Lavando com carinho e cuidado. Por favor, aguarde. Sua geração é muito importante para nós. E aí? Mais ou menos. Era para estar mais limpa, mas. Ah, tá bom. Aqui. Ele sumiu. Gleyson, mantenha essa etiqueta aqui ou deixa cem. Qual que você prefere? Acho que ele está sem áudio. Ainda.
+
+[01:09:17] Alexandro Zava: Ele só precisa desmutar. Não está bloqueado.
+
+[01:09:26] Ricardo IA Studio: Está clicando no microfonezinho, Gleyson? Sim.
+
+[01:09:39] Gleison Diolino: Agora, vai.
+
+[01:09:41] Ricardo IA Studio: Tchau.
+
+[01:09:41] Gleison Diolino: Agora liberou. É.
+
+[01:09:46] Ricardo IA Studio: Com adesivo ou sem o adesivo.
+
+[01:09:51] Gleison Diolino: Qual o adesivo que você fala?
+
+[01:09:53] Ricardo IA Studio: Aqui está com a decisão.
+
+[01:09:54] Gleison Diolino: Alô.
+
+[01:09:55] Ricardo IA Studio: Tenha cuidado.
+
+[01:09:56] Gleison Diolino: É como se fosse o painel ali. Pode manter o adesivo.
+
+[01:10:00] Ricardo IA Studio: Então vamos pegar aqui. E aí, característico? Sim, desse personagem. Você já pensou no Guilherme? Eu já respondo também. Você já pensou em um em um Reels com ele? O que você quer transmitir para o cliente?
+
+[01:10:42] Gleison Diolino: Não, ainda não achei. Ainda tá? Ainda não parei para ver essa parte.
+
+[01:10:49] Ricardo IA Studio: Olha lá. Bem vindo ao mundo da Ia. Esse ficou legalzinho. Me trouxe aquele tornou ele. Não. Dungeons Dragons trouxe uma Elfa. Não sei porquê. Aqui o negócio é paciência e não desistir, tá? A gente pode.
+
+[01:11:23] Gleison Diolino: Beleza, cara. Esse da menininha aí ficou. Mata pra campanha do Dia das Crianças.
+
+[01:11:30] Ricardo IA Studio: Legal, né?
+
+[01:11:32] Gleison Diolino: E com. E uma das linhas de trabalho que ele tem para o doméstico. A empresa, principalmente para público industrial. Mas no doméstico, eles têm um serviço de lavagem de bicho de pelúcia. E essa imagenzinha aí calha bem certinha. Tem um. Uma lavagem especial lá voltada para bicho de pelúcia.
+
+[01:12:02] Ricardo IA Studio: Vai para!
+
+[01:12:03] Gleison Diolino: Bem. Legal.
+
+[01:12:08] Ricardo IA Studio: Descreve para mim, mas escreve aí no no chat, por favor, que eu vou usar a descrição do serviço que você presta com esse bot para gerar um comercialzinho para você. Aí, ó ele.
+
+[01:12:22] Gleison Diolino: Legal escrever.
+
+[01:12:27] Ricardo IA Studio: Olha lá, vamos tentar editar aqui. O que você quer mudar? Se você clicar, ele vai abrir uma tela de edição, tá, ó remova parte suspensa da máquina de lavar Opa, mantenha toda e o restante da cena? Você pode também cortar aqui, ou pode selecionar via de regra. Não funciona, tá gente cortar tudo. Bem. Você vai cortar um pedaço da imagem, mas selecionar ele via de regra. Ele sempre erra, Jandiael, cara, você pode fazer. Olha lá. Tá vendo, não vai? Vamos desembrigado isso aqui. Você pode usar até o free. O free gera bastante imagem grátis, e você consegue fazer três vídeos por dia. Se você tiver paciência, eu gerei um comercial de um Views para a corretora de um dia para o outro. Gerei seis vídeos, joguei no Cap. Cut e editei lá muito graça, dependendo da quantos segundos você quer fazer um vídeo? Você consegue fazer até uns quinze rios legais por mês de graça você cria coloque uma criança. Bom dia, brinquedo. E pela Lúcia para lavar quatrocentos giga. Tem. Tem crédito de a. Sim, se você entrar no Flow e for lá na aqui. Ó, você vai descobrir aqui quantos créditos você tem? Provavelmente tem uns duzentos e cinquenta. Vamos lá agora. Eu vou pegar o enquanto ele faz aqui. Eu vou trazer aqui de volta o texto aqui. Ó, essa ficou legalzinha, né? Mas não desvirtuou demais essa aqui trouxe ele real. Vamos fazer de novo. Bom, das imagens. É que ele gera quase uma infinidade de deles. Alguém tinha feito uma pergunta aqui, Milton, para uma imagem de um personagem realista, segurando e mostrando o objeto como determinar a escala desse objeto, para que fique no tamanho real. Comparando a personagem. Qual melhor chefe de Cpt ou Nando Banana? Os dois estão muito bons para isso. Tá a parte da escala. Você vai colocar as imagens da referência e você vai ou ajustando. Isso acontece muito em vídeos do Tiktok Shop, né? O pessoal anuncia um negócio lá que é desse tamanho. Quando você vai ver, é desse tamanho tanto que está bloqueando muita conta. Isso aí, lá. Estão excluindo as contas do pessoal. Queria mostrei aqui. Você pode ir testando. Gera quatro imagens cada vez para chegar mais perto. Você pode usar para fazer o vídeo e tentar descrever com o máximo de detalhes no prompt, tamanho, proporção e assim por diante. Ultimamente, ele tende a acertar cada vez mais. Tá de tanta geração de imagem que tem. Ele vai aprendendo com isso. Mas é sempre bom você ir gerando até conseguir. Ó quando a imagem com criança tem algumas restrições. Ainda mais crianças de verdade. Eu não sei como é que essa aqui passou, 3d. Ele até deixa fazer alguma coisa. Os outros nem tanto. Mas essas aqui não ficaram tão ruins. Não, mas tem tem vídeo que eu levo um dia inteiro para fazer por causa disso. Você tem que ir acertando. Aí você vai no chat gpt, você altera o prompt, você volta, gera imagem. Primeiro já era. Todas as imagens, até a hora que eu consegui acertar. E depois que eu acertei. Aí, o ger começa a gerar os vídeos para cada vídeo de cinco segundos. Eu costumo gerar três imagens de referência para evitar essas alucinações que ela faz. Então, num vídeo de dez segundos, às vezes eu jogo dez imagens. A imagem é mais fácil ele acertar da primeira a consistência delas do que no vídeo. Se bem que daqui a uns seis meses, tudo isso vai ser fichinha. Tinha mais uma pergunta aqui. Só um minutinho, Guilherme, emendar vários vídeos. Dez segundos. Acho que é isso que eu acabei de falar, né? Tentando me dar vários vídeos. Dez segundos, cinco vídeos, dez segundos. Precisa dar uma sequência de imagens para dez segundos. Seriam três fatos por mês. O agente faz isso aqui, tá? Eu vou mostrar para vocês. Dá tempo. Ainda vou pegar uma dessas imagens aqui. Aqui ele está com o rosto. Vou trazer para o chat aqui para ele ter uma ideia. Também não importa. Na imagem, não copiou. Ele vai ler aqui. Vamos lá. O Lgbt gera para mim um script para um vídeo de dez segundos usando o texto que eu já enviei aí. E a imagem anexa. Ah, o lavaí é um bot de A para atendimento. E aí? Perdão, gente, me perdi. Aqui. Deixa eu ler aqui de novo. Ele serve para tarefas administrativas, contas a pagar, faturamento, escala de trabalho para uma lavanderia industrial. Esse vídeo, embora fale levemente disso, aí, tá? É para enfatizar que ele tem um programa que lava bichos de pelúcia enquanto ele gera ali. Eu vou mandar gerar mais quatro imagens. Olha a atividade em comum. Vamos voltar aqui. Ó, vou ter dez segundos que eu foco na lavagem de pelúcia e menção breve à gestão. Então, estilo animação 3d: preservando o visual da imagem da referência e a máquina. Lavaí o menino ursinho cenário azul, voz acolhedora e alegre em português e brasileiro. Aí, ó ele vai falando de três zero a três segundos. A câmera se aproxima três a sete segundos, os ícones vão desaparecendo, certo? A dez segundos. Uma transição suave revela o menino, abraçando o senhor limpo e pouquinho. Texto final na tela. Programa especial para pelúcias. Ferida leve e delicada abaixo da voz. A criança permanece fora da máquina durante toda a cena. Agora ele já traz algumas coisas óbvias, tá? Eu não sei se vocês lembram. No início, era. Era uma loucura que esse negócio que fazia vamos lá. Arrasta a referência, coloca o pronto, vem aqui. No vídeo. Elementos, eu só estou usando uma imagem. Nove por dezasseis setecentos e vinte. Vamos gerar dois vídeos enquanto ele gera. Alguma pergunta? Está demorando um pouquinho mais isso aqui. Vocês estão vendo, eu estou fazendo tudo, escrevendo, mandando o script. Tem uma forma de fazer isso, tá? De uma forma um pouquinho mais rápida. Só que esse agente deles. Para algumas coisas. Ele é muito bom para outros. Ele é muito burlin. A gente já vai gerar com ele também eu. Baixar os vídeos e os dois vão ser diferentes. Estou achando.
+
+[01:23:53] Audio shared by Ricardo IA Studio: Eu sou lavaí. Facilito sua gestão e tenho um programa especial para lavar pelúcias. Seu carinho. Bem cuidado. Eu sou lavaí. Facilito sua gestão. E tenho um programa especial para lavar pelúcias. Seu carinho. Bem cuidado.
+
+[01:24:26] Gleison Diolino: É legal. A primeira voz ficou mais, mais legal.
+
+[01:24:32] Ricardo IA Studio: Esse aqui. Ele inventou um robô ali do lado. Mas como faz referência ao agente, o braço dele virou o braço do robô. Aqui ele ficou. Os ícones ficaram mais legalzinhos, né? Mas agora, aqui é o seguinte: você escolhe um deles, por exemplo, vai escolher esse aqui. Aí você vai afinando o. Pronto.
+
+[01:25:02] Gleison Diolino: E aí?
+
+[01:25:02] Ricardo IA Studio: Volta lá no chat Gpt e fala assim. Olha, ficou mais ou menos tá nessa hora aqui ele alucinou e aí você vai ajustando até o primeiro dá certo. Quando o primeiro der certo, você segue dali em diante, faz sentido.
+
+[01:25:23] Gleison Diolino: Sim, bem legal. Bem interessante. Sua parte de vídeo ainda não pratica em nada.
+
+[01:25:31] Ricardo IA Studio: Mas, ó, dá para pegar qualquer avatar e fazer isso aqui. Agora, se você ativar o agente, então você pega novamente a imagem. Vamos pegar essa aqui agora. Eu vou usar o mesmo pront tanto aqui. Você fala para ele. Gere um vídeo de dez segundos. Gere ou não gere dois. Dois vídeos de dez segundos, dezasseis por nove. O agente. Você não precisa vir aqui nas configurações e fazer nada. O agente. Você fala para ele melhor. Você escreve aqui, né? Você fala para ele. Olha, eu quero um vídeo. Eu quero dois vídeos. Eu quero três vídeos. Você pode falar para ele? Eu quero dez vídeos. Se eu tiver firmando crédito aí, tá no vídeo um. Eu quero que você faça isso no vídeo dois. Eu quero que você faça isso no vídeo três. Ele faz isso. Você pode gente. Eu falo muito, tá? Vocês podem colocar várias imagens, dar o nome à imagem daqui. Você pode é nomear, então se você renomear isso aqui. Imagem um, imagem dois, imagem três, imagem quatro e der uma sequência lógica, você pode jogar as quatro imagens aqui, falar pochete Gpt. Olha, usa cada uma das imagens como a imagem de início para cada vídeo de dez segundos. Escreva o nome da imagem como referência. Imagem um, imagem dois, imagem três, imagem quatro. E joga aqui no agente. Ele vai fazer. Ele acerta meio a meio, tá? Já era dois mil e dez segundos. Você clica aqui. Ele abre uma tela aqui do lado onde ele vai conversando com você. Ele é bem útil para gerar. Ele não pediu autorização. Geralmente, ele pede para provar primeiro, antes de girar os vídeos. Aí. Ó, quer que inicia essas gerações, aprovar sempre, aprovar ou rejeitar gente, coloquem aprovar sempre o que acontece. Sensação de corte seco no final. Como você corrige isso. Você vai lá e fala o final. Tem que ser suave. O final tem que ser assim. O final. A música diminui levemente. Vai falando com o chat Gpt até acertar. Você coloca sempre aprovar esse agente de vez em quando, ele dá uma louca nele, e ele vai entender que você pediu um vídeo, e ele vai entender que você pediu dez. Uma vez ele gerou cem imagens para mim do nada, literalmente do nada sempre aprovado, aprovar outro dia, por exemplo, eu, sem querer escrever a palavra, Cadê ele me gerou um vídeo de uma mulher procurando o celular. E ficou muito legal, tá? Talvez se eu tentasse fazer o vídeo da mulher procurar no celular, não ficasse tão bom. Tá vendo aqui nas configurações, estava nove por dezasseis, como eu pedi para ele. Ele já mudou automaticamente sem mexer, e aí. Iniciei a geração dos dois.20 seguindo o roteiro. Como há uma alta demanda no momento, eles foram agendados. Está na fila de espera. Ele sempre vai falar que tem uma alta demanda no momento. Até hoje, não teve uma geração que eu pedi para ele, que ele não falasse. Que tem uma alta demanda aí. Ó, e ele já alterou algumas coisas. O que é que ele inventou? Vocês viram que ele mudou várias coisas. Primeiro, a imagem que eu usei não tinha rosto. E o Avatar original tem rosto. Segundo, eu falei para ele usar uma imagem nove por dezasseis vai gerar um vídeo dezasseis por nove. Então, para essas coisas, ele é muito inteligente. Então se você quiser um vídeo dezasseis por nove gera a primeira imagem dezasseis por nove. Se você quiser um vídeo nove por dezasseis, gere primeiro a imagem nove por dezasseis. Senão você vai ter essas surpresas desagradáveis. Toda santa vez ele raramente acerta alguma coisa. Se você não fizer isso, os textos. Ele acerta bastante. Ele mais acerta do que erra. Mas quando não tem a referência, ele sai inventando. Agora gerou alguns que deram errado. Você ainda pode pegar às vezes trechos dele e usar na hora que você for compor o vídeo no rap cut tá.
+
+[01:31:46] Alexandro Zava: Ricardo. Se eu fizer um vídeo, o vídeo der certo. Mas ele ficou muito curtinho. Eu quero aumentar a historinha dele. Eu uso o mesmo vídeo e aumenta a história. Ou ele vai ser.
+
+[01:31:58] Ricardo IA Studio: Bom dia. Não se você usar o Omni Flash, deixa eu mostrar um negocinho aqui para vocês. Você clica aqui no vídeo. Ele abre essa linha do tempo, certo? Ele permite com que você continue a historinha aqui. Escreva como editar esse vídeo, mas só se você usar o estender se você estiver usando três.um light para você usar o omni Flash. Ele não estende, tá vendo?
+
+[01:32:29] Alexandro Zava: Ah, não. É que eu fiz o vídeo. E aí eu queria adicionar cena no meio. Ali tem que fazer tudo de novo, né?
+
+[01:32:36] Ricardo IA Studio: É porque antes, ou você pode gerar imagens, tipo de cinco segundos. Quatro segundos, seis segundos. Sempre o pedacinho que você quer. E depois você vai editando no Cap.
+
+[01:32:47] Alexandro Zava: Entendi.
+
+[01:32:48] Ricardo IA Studio: Ou se elas estiverem dando certo, todas elas. Você traz ele aqui. Você arrasta para cá adicionar clipe. Ele permite que você vá buscar outros clipes.
+
+[01:33:00] Alexandro Zava: Não é que eu fiz o vídeo. O vídeo ficou bom. O primeiro não ficou tão bom. O segundo ficou muito bom. Aí você fala assim, cara. Ficou muito bom. O terceiro vai ficar ruim, né?
+
+[01:33:13] Ricardo IA Studio: Olha lá. Ele vai trazer outro vídeo, mas aqui não dá para editar. Igual um Cap. Cut. Dá aí. Ó, a tela está preta, tá? Tem horas que não vai aparecer. Tem horas que você vai abrir isso aqui vai ficar tudo preto. Então, o que você tem que fazer. Baixa o vídeo, assiste porque ele dá umas planezinhas. Tá? Ó aqui. O que aconteceu? Um vídeo estava nove por dezasseis. O outro estava por dezasseis por nove. Não tem o que fazer. Você tem que deixar tudo no mesmo, senão ele não faz nada sozinho. Olha lá, perguntas. Vou dar um exemplo aqui para vocês. De um vídeo que eu fiz. Esses dias, eu diminui um pouco aqui na área. Eu peguei um colega nosso. Eu peguei umas imagens de referência. Peguei a mesma coisa que eu fiz com vocês. Tá? Melhorei a imagem dele. Fiz um. Um caracter Fit e coloquei ele aqui. Ó falando, tá sem som, né? Depois dessa do Anderson deixar eu dar outra aula? Eu vou descobrir, tá? Como é que funciona? Mas aqui. Ó tá vendo, ele parece que foi editado tipo Cap. Cut, né? E não foi. É simplesmente o jeito como você estrutura Tchau. Ele vai. Mostramos gente. Tem meia hora aí dúvidas, questões. Eu devo ter pulado algumas coisas, tá? Já peço desculpa desde então. Como você vende esse serviço? Como a prospecto desse tipo de cliente que busca esse tipo de vídeos. E sim, como precificam, é por tempo. É por tempo e por complexidade. Sim, é os dois hoje mesmo. Eu mandei um. O cliente precisava de três vídeos de dois minutos cada. Ele mandou um exemplo do que ele queria, e eu estava cobrando doze mil reais para fazer se ele aceitasse como ele não respondeu, eu acho que ele não aceitou. Só que o que acontece. A complexidade era grande, tá? É o tipo de coisa que vai demorar uma semana para produzir os três vídeos, pelo menos. E eu sei que a pessoa ia pedir várias revisões. Então eu incluo tudo isso. A primeira coisa que eu faço para precificar é, entendemos que ferramenta que eu vou usar. Se eu vou usar o o Google Gemini para o Flow. Se eu vou usar chat Gpt, se eu vou usar o cloud através de uma Api para gerar essas imagens, eu faço essas contas primeiro. Vejo o quanto vai ficar só de ferramentas. Eu sempre coloco a mais, porque, como vocês viram isso aqui viaja demais. E aí eu vejo quanto tempo, mais ou menos vai demorar. E o quanto eu quero ganhar por hora ou por dia. Então eu coloco esses dois itens, o quanto vai ficar para produzir. E o quanto custa meu serviço. E é isso que eu entrego para o cliente. Videozinhos, por exemplo, eu já fiz videozinhos simples. Nem esses aqui. Ó, acertou de primeiro, cobrei cem reais. Cento e cinquenta reais, porque é dez segundos. É um negócio super fácil para mim para fazer. E eu sei que o cliente também tem cliente que não tem muito dinheiro. E para mim, vira também. Portfólio. Tem uns que eu faço barato, porque eu sei que vai virar portfólio. A pessoa vai jogar no Instagram no Youtube assim por diante, e esses que eu faço mais barato. A pessoa tem por obrigação lá colocar. Que fui eu que fiz. Eu tenho que colocar lá meu login, meu Whatsapp, meu Instagram, porque isso aí acaba atraindo outros clientes. E tem cliente que eu só fecho também dependendo do valor. Se ele me trouxer outras pessoas, pode até não fechar as outras, mas ele trazendo. Já às vezes já está valendo. Tereza, você estava com a mão levantada e sumiu. Caiu. Ainda está aí? Não, agora ela está com o dedo levantado. Pera aí.
+
+[01:38:52] Tereza Costa: Tá bom. De novo.
+
+[01:38:54] Ricardo IA Studio: Aí. Ó, estou lhe ouvindo, Tereza, você gostou desses aqui, né?
+
+[01:38:59] Tereza Costa: Gostei. Ricardo, o que você pede ao cliente para poder montar esse vídeo da imobiliária, não foi? Você falou.
+
+[01:39:09] Ricardo IA Studio: Eu peço o projeto. Na verdade, eu peço tudo que ele tiver mais um pouco. Quanto mais informações você tiver, mais fácil. É o seu trabalho, tá.
+
+[01:39:20] Tereza Costa: Entendi.
+
+[01:39:21] Ricardo IA Studio: Então, por exemplo, geralmente empreendimentos imobiliários. Eles têm Pdfs. Tem Folders. Tem imagem da planta? Tem todo um um briefing do que é. Eu peço tudo isso vai ajudar porque depois o que eu faço, eu jogo tudo num chat Gpt e falo para ele. Olha, vou fazer vídeos de um minuto. Eu preciso que essas informações cruciais eu destaco. Quais são? Apareçam nesse vídeo. Gera o script para mim aí eu falo para ele. Olha, vão ser vídeos. Dez segundos. Vão ser vídeos. Quinze segundos. Vai ser um vídeo de trinta segundos. E tem um script gigante que eu uso aqui para ele impedir ele de viajar não impede cem, é claro, mas quanto mais você colocar lá, tipo de pronto e negativo. Não distorcer, não alterar, não desviar do que foi pedido. Antigamente, você tinha que colocar a pessoa tem cinco dedos que a Ia girava. Três dedos, dois dedos, cinco dedos, oito dedos. Melhorou muito, mas ainda tem essas falhas. Também. Vocês viram há pouco. Ele viaja. Aí você pega uma imagem que está legal ali. Você tenta alterar. Ele também não quer alterar. Erra as proporções e assim por diante.
+
+[01:40:46] Tereza Costa: Eu ia falar sobre isso. Porque imóvel tem o tamanho da parede. Tem essas coisas aí para não alucinar tanto. O que você faz.
+
+[01:40:55] Ricardo IA Studio: Pronto.
+
+[01:40:55] Tereza Costa: Mesmo dando a planta, mesmo especificando o tamanho, metragem.
+
+[01:41:01] Ricardo IA Studio: Tá, mas aí que tá. Se você tem uma imagem, se você tem do zero, você vai só colocar a descrição. Algo que não existe ainda aí. É só a descrição e isso eles têm que fornecer para você. Se você tem imagem, você não descreve. Você coloca que nem você faz com o Avatar aqui. Você não vai descrever homem que nem eu. Não vai escrever homem com mais de cinquenta anos. Grisalho de óculos. Não, você vai colocar gordinho. Você vai colocar a referência? Você vai colocar o eu aqui, Ricardo.
+
+[01:41:40] Tereza Costa: Eu falo em relação ao imóvel, porque no caso do imóvel, tem a metragem, entendeu? Tem as dimensões e às vezes alucina muito no caso do imóvel, no alucinação, tipo o tamanho da parede, mesmo dando a planta com toda a metragem.
+
+[01:41:56] Ricardo IA Studio: Não existe cem em A. Nunca vai existir. Existe tentativa e erro.
+
+[01:42:02] Tereza Costa: Entendi.
+
+[01:42:03] Ricardo IA Studio: Por isso que eu gero várias imagens. Primeiro, para poder. Ah, como é que fala? Para poder evitar esses erros o máximo possível. Aquele vídeo que eu mostrei. Agora eu já tinha. Você viu que já tem as fotos lá.
+
+[01:42:23] Tereza Costa: E aí?
+
+[01:42:24] Ricardo IA Studio: Então eu falo para a câmera entrar. Não desviar do caminho. Não aumentar a parede, não diminuir o sofá é um prompt gigante. Gente deve ter mais de quatrocentos linhas ali. Só de promoter negativo. Tem umas cinquenta linhas, mas nem eu falei antes. Você vai depurando, você vai, não é? Definindo, refinando, quanto mais você conseguir refinar ali, melhor, mas sempre primeiro as imagens certas e depois é pronto, você gera um vídeo, deu errado. Vai no chat Gpt e fala. Olha, e isso deu errado. Ele vai te trazer aquele prompt. Você vai lá de novo. Gera aquele Prompt. Deu certo para aquela cena. Você vai tentar aquele mesmo Prompt para outra cena, entendeu? Se ele acertou uma vez, existe uma grande possibilidade de ele acertar na próxima e assim por diante. Algo mais beleza. Não. Ah, está desligado o seu microfone. Você desligou? Pergunta, gente, pode perguntar. Eu não mordo.
+
+[01:43:51] Tereza Costa: Obrigada. Viu Ricardo?
+
+[01:43:53] Ricardo IA Studio: De nada. Eu que agradeço. Olha o gatinho aí, gente. Ninguém mais quer perguntar nada. É realmente.
+
+[01:44:15] denderson.rodrigues: Bora a turma aproveita. E o tio Ricardo aí.
+
+[01:44:22] Ricardo IA Studio: Não tenham vergonha. Levantem a mão.
+
+[01:44:29] denderson.rodrigues: Cara. Que aula maravilhosa, tá? Eu gostava muito de brincar de Flow no começo, depois que eu comecei a fazer a gente. Eu meio que larguei as plataformas de imagem e vídeo. Me sinto atrasado até. Bravo, mano. Parabéns, Ricardo. Obrigado, obrigado, galera que veio como ninguém tem mais perguntas. Vamos ficando por aqui e a gente pode falar. O que você falou? Ricardo.
+
+[01:44:59] Ricardo IA Studio: Ah, não. Perdão, se alguém conhecia esse cara aqui, desculpa.
+
+[01:45:02] denderson.rodrigues: Aí, ó Shieldank, isso foi na aula do Petrus, né?
+
+[01:45:08] Ricardo IA Studio: Oi. Eu fiquei brincando. Mesma coisa que eu fiz. Eu fiquei. Eu faço toda a aula, eu pego e vou aprendendo. E vou fazendo na hora.
+
+[01:45:18] denderson.rodrigues: Bom, é assim que aprende. É assim que aprende show de bola. Ricardo, obrigado mais uma vez.
+
+[01:45:23] Ricardo IA Studio: É. O que é.
+
+[01:45:23] denderson.rodrigues: A gente.
+
+[01:45:24] Ricardo IA Studio: E aí o senhor tem.
+
+[01:45:25] denderson.rodrigues: Vamos colocar para dar uma aula. Que vai ser. Eu te usava.
+
+[01:45:29] Ricardo IA Studio: É? É se alguém tiver alguma dúvida, depois pode mandar no privado. Tá.
+
+[01:45:38] denderson.rodrigues: Manda no grupo. Manda no privado. E amanhã. Se a Naya não falhar, a aula sobe para a apostila, gente, boa noite. Obrigado a todo mundo e sucesso. Quem é do grupo de estudos Quarta feira, três Da tarde. Temos encontro. Tamo junto, gente, abraço.
+
+[01:45:54] Ricardo IA Studio: Obrigado.
+
+[01:45:54] denderson.rodrigues: Valeu, Ricardão. Mais uma vez, obrigado, mano.
+
+[01:45:57] Ricardo IA Studio: Agradeço.

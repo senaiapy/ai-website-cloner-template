@@ -304,6 +304,7 @@ export function LessonView({
         <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
           {/* Authentic Section Inner HTML with accordions, descriptions, mindmap, etc. */}
           <div
+            key={activeSubId}
             className={`material ${allExpanded ? "all-chapters-open" : ""}`}
             dangerouslySetInnerHTML={{ __html: activeSectionHtml }}
           />
